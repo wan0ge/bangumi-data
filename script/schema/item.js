@@ -83,6 +83,8 @@ module.exports = Joi.object({
           begin: Joi.string().custom(isoStringValidator).required().allow(''),
           broadcast: Joi.string().custom(isoRangeStringValidator).allow(''),
           comment: Joi.string().trim().allow(''),
+          season_id: Joi.string().trim().allow(''),
+          video_sn: Joi.string().trim().allow(''),
         }),
       }
     )
