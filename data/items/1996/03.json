@@ -184,7 +184,8 @@
         "site": "bilibili",
         "id": "2564",
         "begin": "1996-03-01T16:00:00.000Z",
-        "broadcast": "R/2015-02-27T08:04:05.000Z/P7D"
+        "broadcast": "R/2015-02-27T08:04:05.000Z/P7D",
+        "season_id": "2564"
       },
       {
         "site": "abema",
@@ -260,7 +261,8 @@
         "site": "bilibili",
         "id": "2226",
         "begin": "2013-09-12T07:34:00.000Z",
-        "broadcast": "R/2013-09-12T07:34:00.000Z/P7D"
+        "broadcast": "R/2013-09-12T07:34:00.000Z/P7D",
+        "season_id": "2226"
       },
       {
         "site": "danime",

@@ -25,7 +25,8 @@
         "site": "bilibili",
         "id": "2505",
         "begin": "1988-10-07T16:00:00.000Z",
-        "broadcast": "R/2010-09-16T17:17:00.000Z/P7D"
+        "broadcast": "R/2010-09-16T17:17:00.000Z/P7D",
+        "season_id": "2505"
       },
       {
         "site": "tmdb",
@@ -211,7 +212,8 @@
         "site": "gamer",
         "id": "20950",
         "begin": "2023-10-02T01:40:00.000Z",
-        "broadcast": "R/2023-10-02T01:40:00.000Z/P7D"
+        "broadcast": "R/2023-10-02T01:40:00.000Z/P7D",
+        "video_sn": "35025"
       },
       {
         "site": "tmdb",

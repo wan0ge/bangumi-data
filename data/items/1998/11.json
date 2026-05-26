@@ -90,7 +90,8 @@
         "site": "bilibili",
         "id": "5697",
         "begin": "2016-11-07T03:25:00.000Z",
-        "broadcast": "R/2016-11-07T03:25:00.000Z/P7D"
+        "broadcast": "R/2016-11-07T03:25:00.000Z/P7D",
+        "season_id": "5697"
       },
       {
         "site": "tmdb",

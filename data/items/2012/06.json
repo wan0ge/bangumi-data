@@ -37,7 +37,8 @@
         "site": "gamer",
         "id": "53052",
         "begin": "2020-06-04T03:30:00.000Z",
-        "broadcast": "R/2020-06-04T03:30:00.000Z/P7D"
+        "broadcast": "R/2020-06-04T03:30:00.000Z/P7D",
+        "video_sn": "15785"
       },
       {
         "site": "unext",
@@ -49,7 +50,8 @@
         "site": "gamer_hk",
         "id": "53052",
         "begin": "2020-06-04T03:30:00.000Z",
-        "broadcast": "R/2020-06-04T03:30:00.000Z/P7D"
+        "broadcast": "R/2020-06-04T03:30:00.000Z/P7D",
+        "video_sn": "15785"
       },
       {
         "site": "dmhy",
@@ -185,7 +187,8 @@
         "site": "bilibili",
         "id": "4524",
         "begin": "2012-06-15T16:00:00.000Z",
-        "broadcast": "R/2016-06-06T08:20:00.000Z/P7D"
+        "broadcast": "R/2016-06-06T08:20:00.000Z/P7D",
+        "season_id": "4524"
       },
       {
         "site": "tmdb",
@@ -270,7 +273,8 @@
         "site": "bilibili",
         "id": "3805",
         "begin": "2012-06-15T16:00:01.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "3805"
       },
       {
         "site": "qq",

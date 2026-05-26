@@ -115,7 +115,8 @@
         "site": "bilibili",
         "id": "2267",
         "begin": "1998-01-07T16:00:00.000Z",
-        "broadcast": "R/2014-04-06T15:30:00.000Z/P7D"
+        "broadcast": "R/2014-04-06T15:30:00.000Z/P7D",
+        "season_id": "2267"
       },
       {
         "site": "tmdb",
@@ -163,7 +164,8 @@
         "site": "bilibili",
         "id": "4030",
         "begin": "2016-05-20T07:31:00.000Z",
-        "broadcast": "R/2016-05-20T07:31:00.000Z/P7D"
+        "broadcast": "R/2016-05-20T07:31:00.000Z/P7D",
+        "season_id": "4030"
       },
       {
         "site": "unext",

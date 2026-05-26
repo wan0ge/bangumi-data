@@ -121,7 +121,8 @@
         "site": "bilibili",
         "id": "2338",
         "begin": "1992-10-09T16:00:00.000Z",
-        "broadcast": "R/2021-01-13T09:06:00.000Z/P7D"
+        "broadcast": "R/2021-01-13T09:06:00.000Z/P7D",
+        "season_id": "2338"
       },
       {
         "site": "netflix",
@@ -314,7 +315,8 @@
         "site": "bilibili",
         "id": "5452",
         "begin": "2016-08-18T02:05:00.000Z",
-        "broadcast": "R/2016-08-18T02:05:00.000Z/P7D"
+        "broadcast": "R/2016-08-18T02:05:00.000Z/P7D",
+        "season_id": "5452"
       },
       {
         "site": "tmdb",

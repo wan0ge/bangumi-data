@@ -152,7 +152,8 @@
         "site": "bilibili",
         "id": "4472",
         "begin": "2011-07-15T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "4472"
       },
       {
         "site": "tmdb",
@@ -238,7 +239,8 @@
         "site": "bilibili",
         "id": "3573",
         "begin": "2011-06-03T16:00:00.000Z",
-        "broadcast": "R/2016-04-13T02:34:00.000Z/P7D"
+        "broadcast": "R/2016-04-13T02:34:00.000Z/P7D",
+        "season_id": "3573"
       },
       {
         "site": "unext",

@@ -80,7 +80,8 @@
         "site": "gamer",
         "id": "38846",
         "begin": "2021-10-15T06:00:00.000Z",
-        "broadcast": "R/2021-10-15T06:00:00.000Z/P7D"
+        "broadcast": "R/2021-10-15T06:00:00.000Z/P7D",
+        "video_sn": "25835"
       },
       {
         "site": "unext",
@@ -165,7 +166,8 @@
         "site": "bilibili",
         "id": "3752",
         "begin": "2005-12-21T16:00:01.000Z",
-        "broadcast": "R/2016-04-15T07:28:00.000Z/P7D"
+        "broadcast": "R/2016-04-15T07:28:00.000Z/P7D",
+        "season_id": "3752"
       },
       {
         "site": "danime",
@@ -229,7 +231,8 @@
         "site": "bilibili",
         "id": "3743",
         "begin": "2016-04-14T08:04:00.000Z",
-        "broadcast": "R/2016-04-14T08:04:00.000Z/P7D"
+        "broadcast": "R/2016-04-14T08:04:00.000Z/P7D",
+        "season_id": "3743"
       },
       {
         "site": "unext",
@@ -481,7 +484,8 @@
         "site": "bilibili",
         "id": "4984",
         "begin": "2016-07-05T09:47:00.000Z",
-        "broadcast": "R/2016-07-05T09:47:00.000Z/P7D"
+        "broadcast": "R/2016-07-05T09:47:00.000Z/P7D",
+        "season_id": "4984"
       },
       {
         "site": "tmdb",

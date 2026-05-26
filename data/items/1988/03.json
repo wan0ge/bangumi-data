@@ -25,7 +25,8 @@
         "site": "bilibili",
         "id": "2401",
         "begin": "1988-03-13T16:00:00.000Z",
-        "broadcast": "R/2011-06-01T14:05:00.000Z/P7D"
+        "broadcast": "R/2011-06-01T14:05:00.000Z/P7D",
+        "season_id": "2401"
       },
       {
         "site": "tmdb",
@@ -252,7 +253,8 @@
         "site": "bilibili",
         "id": "2556",
         "begin": "1988-03-11T16:00:00.000Z",
-        "broadcast": "R/2015-02-14T09:22:00.000Z/P7D"
+        "broadcast": "R/2015-02-14T09:22:00.000Z/P7D",
+        "season_id": "2556"
       },
       {
         "site": "abema",
@@ -311,7 +313,8 @@
         "site": "bilibili",
         "id": "2495",
         "begin": "2013-08-04T04:20:34.000Z",
-        "broadcast": "R/2013-08-04T04:20:34.000Z/P7D"
+        "broadcast": "R/2013-08-04T04:20:34.000Z/P7D",
+        "season_id": "2495"
       },
       {
         "site": "tmdb",

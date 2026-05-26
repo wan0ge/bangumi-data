@@ -220,7 +220,8 @@
         "site": "bilibili",
         "id": "818",
         "begin": "2006-07-01T16:00:00.000Z",
-        "broadcast": "R/2012-01-13T06:36:00.000Z/P7D"
+        "broadcast": "R/2012-01-13T06:36:00.000Z/P7D",
+        "season_id": "818"
       },
       {
         "site": "muse_hk",
@@ -238,7 +239,8 @@
         "site": "gamer_hk",
         "id": "176",
         "begin": "2022-02-18T03:00:00.000Z",
-        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D",
+        "video_sn": "28312"
       },
       {
         "site": "danime",
@@ -250,7 +252,8 @@
         "site": "gamer",
         "id": "176",
         "begin": "2022-02-18T03:00:00.000Z",
-        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D",
+        "video_sn": "28312"
       },
       {
         "site": "muse_tw",
@@ -335,7 +338,8 @@
         "site": "bilibili",
         "id": "4823",
         "begin": "2006-07-07T16:00:01.000Z",
-        "broadcast": "R/2016-06-14T07:42:00.000Z/P7D"
+        "broadcast": "R/2016-06-14T07:42:00.000Z/P7D",
+        "season_id": "4823"
       },
       {
         "site": "unext",
@@ -394,7 +398,8 @@
         "site": "bilibili",
         "id": "3406",
         "begin": "2006-07-03T16:00:01.000Z",
-        "broadcast": "R/2016-03-09T03:51:00.000Z/P7D"
+        "broadcast": "R/2016-03-09T03:51:00.000Z/P7D",
+        "season_id": "3406"
       },
       {
         "site": "unext",
@@ -546,7 +551,8 @@
         "site": "bilibili",
         "id": "1383",
         "begin": "2006-07-04T16:00:00.000Z",
-        "broadcast": "R/2013-04-20T12:47:00.000Z/P7D"
+        "broadcast": "R/2013-04-20T12:47:00.000Z/P7D",
+        "season_id": "1383"
       },
       {
         "site": "unext",
@@ -599,7 +605,8 @@
         "site": "bilibili",
         "id": "1442",
         "begin": "2006-06-30T16:00:00.000Z",
-        "broadcast": "R/2013-07-22T05:51:00.000Z/P7D"
+        "broadcast": "R/2013-07-22T05:51:00.000Z/P7D",
+        "season_id": "1442"
       },
       {
         "site": "tmdb",
@@ -723,7 +730,8 @@
         "site": "bilibili",
         "id": "5751",
         "begin": "2006-07-14T16:00:01.000Z",
-        "broadcast": "R/2016-12-07T06:01:00.000Z/P7D"
+        "broadcast": "R/2016-12-07T06:01:00.000Z/P7D",
+        "season_id": "5751"
       },
       {
         "site": "unext",
@@ -776,7 +784,8 @@
         "site": "bilibili",
         "id": "5223",
         "begin": "2006-07-01T16:00:01.000Z",
-        "broadcast": "R/2017-02-06T07:14:00.000Z/P7D"
+        "broadcast": "R/2017-02-06T07:14:00.000Z/P7D",
+        "season_id": "5223"
       },
       {
         "site": "danime",
@@ -824,7 +833,8 @@
         "site": "bilibili",
         "id": "1470",
         "begin": "2006-07-28T16:00:00.000Z",
-        "broadcast": "R/2012-10-07T10:31:19.000Z/P7D"
+        "broadcast": "R/2012-10-07T10:31:19.000Z/P7D",
+        "season_id": "1470"
       },
       {
         "site": "unext",
@@ -911,7 +921,8 @@
         "site": "bilibili",
         "id": "3019",
         "begin": "2006-07-09T16:00:00.000Z",
-        "broadcast": "R/2015-11-16T08:41:00.000Z/P7D"
+        "broadcast": "R/2015-11-16T08:41:00.000Z/P7D",
+        "season_id": "3019"
       },
       {
         "site": "unext",
@@ -1013,7 +1024,8 @@
         "site": "bilibili",
         "id": "24078736",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "76849"
       },
       {
         "site": "unext",

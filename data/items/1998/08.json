@@ -63,7 +63,8 @@
         "site": "bilibili",
         "id": "3908",
         "begin": "1998-07-31T16:00:01.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "3908"
       },
       {
         "site": "iqiyi",
@@ -262,7 +263,8 @@
         "site": "bilibili",
         "id": "2508",
         "begin": "2018-09-05T16:00:00.000Z",
-        "broadcast": "R/2018-09-05T16:00:00.000Z/P7D"
+        "broadcast": "R/2018-09-05T16:00:00.000Z/P7D",
+        "season_id": "2508"
       },
       {
         "site": "unext",

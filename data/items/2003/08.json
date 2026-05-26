@@ -175,7 +175,8 @@
         "site": "bilibili",
         "id": "3969",
         "begin": "2003-08-21T16:00:01.000Z",
-        "broadcast": "R/2016-05-06T07:24:00.000Z/P7D"
+        "broadcast": "R/2016-05-06T07:24:00.000Z/P7D",
+        "season_id": "3969"
       },
       {
         "site": "unext",
@@ -228,7 +229,8 @@
         "site": "bilibili",
         "id": "3960",
         "begin": "2016-05-04T08:54:00.000Z",
-        "broadcast": "R/2016-05-04T08:54:00.000Z/P7D"
+        "broadcast": "R/2016-05-04T08:54:00.000Z/P7D",
+        "season_id": "3960"
       },
       {
         "site": "tmdb",

@@ -40,7 +40,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28237168",
         "begin": "2022-03-31T14:00:00.000Z",
-        "broadcast": "R/2022-03-31T14:00:00.000Z/P7D"
+        "broadcast": "R/2022-03-31T14:00:00.000Z/P7D",
+        "season_id": "41459"
       },
       {
         "site": "ani_one_asia",
@@ -58,7 +59,8 @@
         "site": "gamer",
         "id": "120624",
         "begin": "2022-07-28T10:00:00.000Z",
-        "broadcast": "R/2022-07-28T10:00:00.000Z/P7D"
+        "broadcast": "R/2022-07-28T10:00:00.000Z/P7D",
+        "video_sn": "30695"
       },
       {
         "site": "netflix",
@@ -88,7 +90,8 @@
         "site": "gamer_hk",
         "id": "120624",
         "begin": "2022-07-28T10:00:00.000Z",
-        "broadcast": "R/2022-07-28T10:00:00.000Z/P7D"
+        "broadcast": "R/2022-07-28T10:00:00.000Z/P7D",
+        "video_sn": "30695"
       },
       {
         "site": "dmhy",
@@ -399,7 +402,8 @@
         "site": "bilibili",
         "id": "28237243",
         "begin": "2022-04-14T23:00:01.000Z",
-        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
+        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D",
+        "season_id": "41534"
       },
       {
         "site": "nicovideo",
@@ -463,7 +467,8 @@
         "site": "bilibili",
         "id": "28237243",
         "begin": "2022-04-14T23:00:01.000Z",
-        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
+        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D",
+        "season_id": "41534"
       },
       {
         "site": "nicovideo",
@@ -511,7 +516,8 @@
         "site": "bilibili",
         "id": "28237281",
         "begin": "2023-07-02T04:00:00.000Z",
-        "broadcast": "R/2023-07-02T04:00:00.000Z/P7D"
+        "broadcast": "R/2023-07-02T04:00:00.000Z/P7D",
+        "season_id": "41572"
       },
       {
         "site": "unext",
@@ -735,7 +741,8 @@
         "site": "gamer",
         "id": "121060",
         "begin": "2023-11-17T04:00:00.000Z",
-        "broadcast": "R/2023-11-17T04:00:00.000Z/P7D"
+        "broadcast": "R/2023-11-17T04:00:00.000Z/P7D",
+        "video_sn": "36213"
       },
       {
         "site": "danime",
@@ -747,7 +754,8 @@
         "site": "bilibili",
         "id": "25038104",
         "begin": "2025-01-27T10:00:01.000Z",
-        "broadcast": "R/2025-01-27T10:00:01.000Z/P7D"
+        "broadcast": "R/2025-01-27T10:00:01.000Z/P7D",
+        "season_id": "86422"
       },
       {
         "site": "tmdb",

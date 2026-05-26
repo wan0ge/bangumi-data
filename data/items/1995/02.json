@@ -22,7 +22,8 @@
         "site": "bilibili",
         "id": "7892",
         "begin": "2017-11-01T10:17:00.000Z",
-        "broadcast": "R/2017-11-01T10:17:00.000Z/P7D"
+        "broadcast": "R/2017-11-01T10:17:00.000Z/P7D",
+        "season_id": "6532"
       },
       {
         "site": "tmdb",

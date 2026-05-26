@@ -93,7 +93,8 @@
         "site": "bilibili",
         "id": "642",
         "begin": "2013-02-05T16:00:00.000Z",
-        "broadcast": "R/2013-02-11T07:58:56.000Z/P7D"
+        "broadcast": "R/2013-02-11T07:58:56.000Z/P7D",
+        "season_id": "642"
       },
       {
         "site": "crunchyroll",
@@ -150,7 +151,8 @@
         "site": "bilibili",
         "id": "965",
         "begin": "2013-02-22T16:00:00.000Z",
-        "broadcast": "R/2016-02-21T08:09:00.000Z/P7D"
+        "broadcast": "R/2016-02-21T08:09:00.000Z/P7D",
+        "season_id": "965"
       },
       {
         "site": "nicovideo",
@@ -168,7 +170,8 @@
         "site": "gamer",
         "id": "52207",
         "begin": "2018-06-27T06:30:00.000Z",
-        "broadcast": "R/2018-06-27T06:30:00.000Z/P7D"
+        "broadcast": "R/2018-06-27T06:30:00.000Z/P7D",
+        "video_sn": "1075"
       },
       {
         "site": "unext",
@@ -180,7 +183,8 @@
         "site": "gamer_hk",
         "id": "52207",
         "begin": "2018-06-27T06:30:00.000Z",
-        "broadcast": "R/2018-06-27T06:30:00.000Z/P7D"
+        "broadcast": "R/2018-06-27T06:30:00.000Z/P7D",
+        "video_sn": "1075"
       },
       {
         "site": "danime",

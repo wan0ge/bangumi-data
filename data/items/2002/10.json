@@ -162,7 +162,8 @@
         "site": "bilibili",
         "id": "2070",
         "begin": "2002-09-30T16:00:00.000Z",
-        "broadcast": "R/2011-08-26T06:14:00.000Z/P7D"
+        "broadcast": "R/2011-08-26T06:14:00.000Z/P7D",
+        "season_id": "2070"
       },
       {
         "site": "danime",
@@ -235,7 +236,8 @@
         "site": "gamer_hk",
         "id": "124",
         "begin": "2020-08-12T07:00:00.000Z",
-        "broadcast": "R/2020-08-12T07:00:00.000Z/P7D"
+        "broadcast": "R/2020-08-12T07:00:00.000Z/P7D",
+        "video_sn": "16844"
       },
       {
         "site": "dmhy",
@@ -252,7 +254,8 @@
         "site": "gamer",
         "id": "124",
         "begin": "2020-08-12T07:00:00.000Z",
-        "broadcast": "R/2020-08-12T07:00:00.000Z/P7D"
+        "broadcast": "R/2020-08-12T07:00:00.000Z/P7D",
+        "video_sn": "16844"
       },
       {
         "site": "tmdb",
@@ -293,7 +296,8 @@
         "site": "bilibili",
         "id": "2074",
         "begin": "2002-10-08T16:00:00.000Z",
-        "broadcast": "R/2012-11-06T20:46:00.000Z/P7D"
+        "broadcast": "R/2012-11-06T20:46:00.000Z/P7D",
+        "season_id": "2074"
       },
       {
         "site": "unext",
@@ -441,7 +445,8 @@
         "site": "bilibili",
         "id": "2825",
         "begin": "2002-09-30T16:00:00.000Z",
-        "broadcast": "R/2015-10-13T15:09:00.000Z/P7D"
+        "broadcast": "R/2015-10-13T15:09:00.000Z/P7D",
+        "season_id": "2825"
       },
       {
         "site": "unext",
@@ -578,7 +583,8 @@
         "site": "bilibili",
         "id": "1564",
         "begin": "2002-09-30T16:00:00.000Z",
-        "broadcast": "R/2011-08-25T10:01:00.000Z/P7D"
+        "broadcast": "R/2011-08-25T10:01:00.000Z/P7D",
+        "season_id": "1564"
       },
       {
         "site": "unext",
@@ -726,7 +732,8 @@
         "site": "bilibili",
         "id": "2073",
         "begin": "2002-10-04T16:00:00.000Z",
-        "broadcast": "R/2010-12-31T16:12:00.000Z/P7D"
+        "broadcast": "R/2010-12-31T16:12:00.000Z/P7D",
+        "season_id": "2073"
       },
       {
         "site": "unext",
@@ -837,7 +844,8 @@
         "site": "bilibili",
         "id": "5171",
         "begin": "2016-07-11T07:56:00.000Z",
-        "broadcast": "R/2016-07-11T07:56:00.000Z/P7D"
+        "broadcast": "R/2016-07-11T07:56:00.000Z/P7D",
+        "season_id": "5171"
       },
       {
         "site": "tmdb",

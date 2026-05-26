@@ -22,7 +22,8 @@
         "site": "bilibili",
         "id": "2086",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "2086"
       },
       {
         "site": "tmdb",
@@ -192,7 +193,8 @@
         "site": "bilibili",
         "id": "2079",
         "begin": "2002-01-20T16:00:00.000Z",
-        "broadcast": "R/2016-05-04T08:38:00.000Z/P7D"
+        "broadcast": "R/2016-05-04T08:38:00.000Z/P7D",
+        "season_id": "2079"
       },
       {
         "site": "unext",
@@ -255,7 +257,8 @@
         "site": "bilibili",
         "id": "2068",
         "begin": "2002-01-09T16:00:00.000Z",
-        "broadcast": "R/2017-03-19T04:13:00.000Z/P7D"
+        "broadcast": "R/2017-03-19T04:13:00.000Z/P7D",
+        "season_id": "2068"
       },
       {
         "site": "unext",
@@ -348,7 +351,8 @@
         "site": "bilibili",
         "id": "22959248",
         "begin": "2010-07-29T03:55:00.000Z",
-        "broadcast": "R/2010-07-29T03:55:00.000Z/P7D"
+        "broadcast": "R/2010-07-29T03:55:00.000Z/P7D",
+        "season_id": "2015"
       },
       {
         "site": "unext",
@@ -546,7 +550,8 @@
         "site": "bilibili",
         "id": "28220965",
         "begin": "2002-01-25T16:00:00.000Z",
-        "broadcast": "R/2019-05-10T11:08:36.000Z/P7D"
+        "broadcast": "R/2019-05-10T11:08:36.000Z/P7D",
+        "season_id": "5250"
       },
       {
         "site": "unext",

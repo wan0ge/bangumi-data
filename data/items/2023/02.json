@@ -126,7 +126,8 @@
         "id": "28481048",
         "begin": "2023-02-14T04:00:01.000Z",
         "broadcast": "R/2023-02-14T04:00:01.000Z/P7D",
-        "comment": "中文配音: 28481049"
+        "comment": "中文配音: 28481049",
+        "season_id": "44647"
       },
       {
         "site": "danime",
@@ -192,13 +193,15 @@
         "site": "gamer",
         "id": "127957",
         "begin": "2024-05-10T04:00:00.000Z",
-        "broadcast": "R/2024-05-10T04:00:00.000Z/P7D"
+        "broadcast": "R/2024-05-10T04:00:00.000Z/P7D",
+        "video_sn": "38462"
       },
       {
         "site": "gamer_hk",
         "id": "127957",
         "begin": "2024-05-10T04:00:00.000Z",
-        "broadcast": "R/2024-05-10T04:00:00.000Z/P7D"
+        "broadcast": "R/2024-05-10T04:00:00.000Z/P7D",
+        "video_sn": "38462"
       },
       {
         "site": "mikan",
@@ -251,7 +254,8 @@
         "site": "bilibili",
         "id": "21090783",
         "begin": "2023-10-05T10:00:01.000Z",
-        "broadcast": "R/2023-10-05T10:00:01.000Z/P7D"
+        "broadcast": "R/2023-10-05T10:00:01.000Z/P7D",
+        "season_id": "46136"
       },
       {
         "site": "tmdb",
@@ -341,7 +345,8 @@
         "site": "gamer",
         "id": "141829",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "video_sn": "40477"
       },
       {
         "site": "tmdb",

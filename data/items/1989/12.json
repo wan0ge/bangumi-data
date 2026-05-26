@@ -73,7 +73,8 @@
         "site": "bilibili",
         "id": "5880",
         "begin": "2017-01-14T09:08:33.000Z",
-        "broadcast": "R/2017-01-14T09:08:33.000Z/P7D"
+        "broadcast": "R/2017-01-14T09:08:33.000Z/P7D",
+        "season_id": "5880"
       },
       {
         "site": "tmdb",
@@ -102,7 +103,8 @@
         "site": "bilibili",
         "id": "5712",
         "begin": "2016-11-30T02:22:00.000Z",
-        "broadcast": "R/2016-11-30T02:22:00.000Z/P7D"
+        "broadcast": "R/2016-11-30T02:22:00.000Z/P7D",
+        "season_id": "5712"
       },
       {
         "site": "tmdb",

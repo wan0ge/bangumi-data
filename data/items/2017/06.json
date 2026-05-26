@@ -37,7 +37,8 @@
         "site": "gamer",
         "id": "82759",
         "begin": "2017-06-24T06:16:00.000Z",
-        "broadcast": "R/2017-06-24T06:16:00.000Z/P7D"
+        "broadcast": "R/2017-06-24T06:16:00.000Z/P7D",
+        "video_sn": "8308"
       },
       {
         "site": "dmhy",
@@ -55,7 +56,8 @@
         "site": "gamer_hk",
         "id": "82759",
         "begin": "2017-06-24T06:16:00.000Z",
-        "broadcast": "R/2017-06-24T06:16:00.000Z/P7D"
+        "broadcast": "R/2017-06-24T06:16:00.000Z/P7D",
+        "video_sn": "8308"
       },
       {
         "site": "muse_tw",
@@ -231,7 +233,8 @@
         "site": "bilibili",
         "id": "73092",
         "begin": "2017-02-24T16:00:00.000Z",
-        "broadcast": "R/2018-02-20T11:57:00.000Z/P7D"
+        "broadcast": "R/2018-02-20T11:57:00.000Z/P7D",
+        "season_id": "6473"
       },
       {
         "site": "tmdb",

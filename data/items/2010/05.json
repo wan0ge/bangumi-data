@@ -60,7 +60,8 @@
         "site": "bilibili",
         "id": "73292",
         "begin": "2010-04-30T16:00:01.000Z",
-        "broadcast": "R/2016-04-13T03:12:00.000Z/P7D"
+        "broadcast": "R/2016-04-13T03:12:00.000Z/P7D",
+        "season_id": "3575"
       },
       {
         "site": "unext",
@@ -122,7 +123,8 @@
         "site": "bilibili",
         "id": "28221041",
         "begin": "2019-05-20T07:17:00.000Z",
-        "broadcast": "R/2019-05-20T07:17:00.000Z/P7D"
+        "broadcast": "R/2019-05-20T07:17:00.000Z/P7D",
+        "season_id": "27812"
       },
       {
         "site": "danime",
@@ -171,7 +173,8 @@
         "site": "bilibili",
         "id": "3364",
         "begin": "2016-02-24T07:01:10.000Z",
-        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D",
+        "season_id": "3364"
       },
       {
         "site": "tmdb",
@@ -201,7 +204,8 @@
         "site": "bilibili",
         "id": "3315",
         "begin": "2016-01-29T06:15:00.000Z",
-        "broadcast": "R/2016-01-29T06:15:00.000Z/P7D"
+        "broadcast": "R/2016-01-29T06:15:00.000Z/P7D",
+        "season_id": "3315"
       },
       {
         "site": "unext",

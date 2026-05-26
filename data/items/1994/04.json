@@ -72,7 +72,8 @@
         "site": "bilibili",
         "id": "132232",
         "begin": "2018-09-08T10:17:00.000Z",
-        "broadcast": "R/2018-09-08T10:17:00.000Z/P7D"
+        "broadcast": "R/2018-09-08T10:17:00.000Z/P7D",
+        "season_id": "25582"
       },
       {
         "site": "unext",
@@ -144,7 +145,8 @@
         "site": "bilibili",
         "id": "10472",
         "begin": "1994-04-22T16:00:01.000Z",
-        "broadcast": "R/2017-12-01T08:11:00.000Z/P7D"
+        "broadcast": "R/2017-12-01T08:11:00.000Z/P7D",
+        "season_id": "3870"
       },
       {
         "site": "youku",
@@ -167,7 +169,8 @@
         "site": "gamer",
         "id": "52569",
         "begin": "2025-08-13T04:00:00.000Z",
-        "broadcast": "R/2025-08-13T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-08-13T04:00:00.000Z/P7D",
+        "video_sn": "770"
       },
       {
         "site": "prime",
@@ -407,7 +410,8 @@
         "site": "bilibili",
         "id": "6074",
         "begin": "2017-04-18T02:04:00.000Z",
-        "broadcast": "R/2017-04-18T02:04:00.000Z/P7D"
+        "broadcast": "R/2017-04-18T02:04:00.000Z/P7D",
+        "season_id": "6074"
       },
       {
         "site": "tmdb",

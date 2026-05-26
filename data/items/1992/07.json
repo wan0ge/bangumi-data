@@ -25,7 +25,8 @@
         "site": "bilibili",
         "id": "3934",
         "begin": "1992-07-23T16:00:01.000Z",
-        "broadcast": "R/2021-03-31T15:39:00.000Z/P7D"
+        "broadcast": "R/2021-03-31T15:39:00.000Z/P7D",
+        "season_id": "3934"
       },
       {
         "site": "unext",
@@ -242,7 +243,8 @@
         "site": "bilibili",
         "id": "3967",
         "begin": "2016-05-06T02:49:00.000Z",
-        "broadcast": "R/2016-05-06T02:49:00.000Z/P7D"
+        "broadcast": "R/2016-05-06T02:49:00.000Z/P7D",
+        "season_id": "3967"
       },
       {
         "site": "danime",

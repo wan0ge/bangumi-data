@@ -22,7 +22,8 @@
         "site": "bilibili",
         "id": "1473",
         "begin": "2006-05-17T16:00:00.000Z",
-        "broadcast": "R/2012-10-15T04:44:00.000Z/P7D"
+        "broadcast": "R/2012-10-15T04:44:00.000Z/P7D",
+        "season_id": "1473"
       },
       {
         "site": "nicovideo",
@@ -151,7 +152,8 @@
         "site": "bilibili",
         "id": "4916",
         "begin": "2016-06-17T09:15:00.000Z",
-        "broadcast": "R/2016-06-17T09:15:00.000Z/P7D"
+        "broadcast": "R/2016-06-17T09:15:00.000Z/P7D",
+        "season_id": "4916"
       },
       {
         "site": "tmdb",

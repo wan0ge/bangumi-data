@@ -156,7 +156,8 @@
         "site": "gamer_hk",
         "id": "22793",
         "begin": "2021-08-13T06:00:00.000Z",
-        "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
+        "broadcast": "R/2021-08-13T06:00:00.000Z/P7D",
+        "video_sn": "24299"
       },
       {
         "site": "danime",
@@ -168,7 +169,8 @@
         "site": "gamer",
         "id": "22793",
         "begin": "2021-08-13T06:00:00.000Z",
-        "broadcast": "R/2021-08-13T06:00:00.000Z/P7D"
+        "broadcast": "R/2021-08-13T06:00:00.000Z/P7D",
+        "video_sn": "24299"
       },
       {
         "site": "tmdb",

@@ -32,7 +32,8 @@
         "site": "bilibili",
         "id": "10272",
         "begin": "1997-07-18T16:00:01.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "1630"
       },
       {
         "site": "nicovideo",
@@ -247,7 +248,8 @@
         "site": "bilibili",
         "id": "2283",
         "begin": "1997-07-18T16:00:00.000Z",
-        "broadcast": "R/2013-12-14T20:02:00.000Z/P7D"
+        "broadcast": "R/2013-12-14T20:02:00.000Z/P7D",
+        "season_id": "2283"
       },
       {
         "site": "unext",
@@ -300,7 +302,8 @@
         "site": "bilibili",
         "id": "3806",
         "begin": "1997-07-24T16:00:01.000Z",
-        "broadcast": "R/2016-04-20T03:25:00.000Z/P7D"
+        "broadcast": "R/2016-04-20T03:25:00.000Z/P7D",
+        "season_id": "3806"
       },
       {
         "site": "tmdb",

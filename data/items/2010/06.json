@@ -60,7 +60,8 @@
         "site": "bilibili",
         "id": "1759",
         "begin": "2014-12-03T05:06:00.000Z",
-        "broadcast": "R/2014-12-03T05:06:00.000Z/P7D"
+        "broadcast": "R/2014-12-03T05:06:00.000Z/P7D",
+        "season_id": "1759"
       },
       {
         "site": "unext",
@@ -110,7 +111,8 @@
         "site": "bilibili",
         "id": "21952759",
         "begin": "2019-03-15T05:59:00.000Z",
-        "broadcast": "R/2019-03-15T05:59:00.000Z/P7D"
+        "broadcast": "R/2019-03-15T05:59:00.000Z/P7D",
+        "season_id": "26763"
       },
       {
         "site": "unext",
@@ -212,7 +214,8 @@
         "site": "bilibili",
         "id": "3364",
         "begin": "2016-02-24T07:01:10.000Z",
-        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D",
+        "season_id": "3364"
       },
       {
         "site": "tmdb",

@@ -22,7 +22,8 @@
         "site": "bilibili",
         "id": "485",
         "begin": "2013-10-01T16:00:00.000Z",
-        "broadcast": "R/2013-10-02T13:34:00.000Z/P7D"
+        "broadcast": "R/2013-10-02T13:34:00.000Z/P7D",
+        "season_id": "485"
       },
       {
         "site": "bangumi",
@@ -91,7 +92,8 @@
         "site": "bilibili",
         "id": "3365",
         "begin": "2013-10-01T16:00:00.000Z",
-        "broadcast": "R/2016-02-25T02:58:00.000Z/P7D"
+        "broadcast": "R/2016-02-25T02:58:00.000Z/P7D",
+        "season_id": "3365"
       },
       {
         "site": "bangumi",
@@ -116,7 +118,8 @@
         "site": "gamer",
         "id": "61095",
         "begin": "2021-04-01T02:00:00.000Z",
-        "broadcast": "R/2021-04-01T02:00:00.000Z/P7D"
+        "broadcast": "R/2021-04-01T02:00:00.000Z/P7D",
+        "video_sn": "3308"
       },
       {
         "site": "unext",
@@ -338,7 +341,8 @@
         "site": "bilibili",
         "id": "8672",
         "begin": "2013-10-03T16:00:00.000Z",
-        "broadcast": "R/2013-10-24T16:04:00.000Z/P7D"
+        "broadcast": "R/2013-10-24T16:04:00.000Z/P7D",
+        "season_id": "441"
       },
       {
         "site": "bangumi",
@@ -364,7 +368,8 @@
         "site": "gamer",
         "id": "57498",
         "begin": "2020-02-06T08:00:00.000Z",
-        "broadcast": "R/2020-02-06T08:00:00.000Z/P7D"
+        "broadcast": "R/2020-02-06T08:00:00.000Z/P7D",
+        "video_sn": "196"
       },
       {
         "site": "unext",
@@ -384,7 +389,8 @@
         "site": "gamer_hk",
         "id": "57498",
         "begin": "2020-02-06T08:00:00.000Z",
-        "broadcast": "R/2020-02-06T08:00:00.000Z/P7D"
+        "broadcast": "R/2020-02-06T08:00:00.000Z/P7D",
+        "video_sn": "196"
       },
       {
         "site": "danime",
@@ -704,7 +710,8 @@
         "site": "bilibili",
         "id": "468",
         "begin": "2013-10-02T16:00:00.000Z",
-        "broadcast": "R/2013-10-03T21:25:00.000Z/P7D"
+        "broadcast": "R/2013-10-03T21:25:00.000Z/P7D",
+        "season_id": "468"
       },
       {
         "site": "bangumi",
@@ -790,7 +797,8 @@
         "id": "419",
         "begin": "2013-10-02T16:00:00.000Z",
         "broadcast": "R/2013-10-03T17:12:00.000Z/P7D",
-        "comment": "OAD: 28229688"
+        "comment": "OAD: 28229688",
+        "season_id": "419"
       },
       {
         "site": "bangumi",
@@ -946,7 +954,8 @@
         "site": "bilibili",
         "id": "289",
         "begin": "2013-10-04T16:00:00.000Z",
-        "broadcast": "R/2014-10-09T03:48:00.000Z/P7D"
+        "broadcast": "R/2014-10-09T03:48:00.000Z/P7D",
+        "season_id": "289"
       },
       {
         "site": "bangumi",
@@ -1035,7 +1044,8 @@
         "site": "bilibili",
         "id": "81292",
         "begin": "2013-10-04T16:00:01.000Z",
-        "broadcast": "R/2018-04-03T03:49:00.000Z/P7D"
+        "broadcast": "R/2018-04-03T03:49:00.000Z/P7D",
+        "season_id": "3570"
       },
       {
         "site": "qq",
@@ -1046,7 +1056,8 @@
         "site": "gamer",
         "id": "61087",
         "begin": "2020-06-22T04:00:00.000Z",
-        "broadcast": "R/2020-06-22T04:00:00.000Z/P7D"
+        "broadcast": "R/2020-06-22T04:00:00.000Z/P7D",
+        "video_sn": "2029"
       },
       {
         "site": "unext",
@@ -1066,7 +1077,8 @@
         "site": "gamer_hk",
         "id": "61087",
         "begin": "2020-06-22T04:00:00.000Z",
-        "broadcast": "R/2020-06-22T04:00:00.000Z/P7D"
+        "broadcast": "R/2020-06-22T04:00:00.000Z/P7D",
+        "video_sn": "2029"
       },
       {
         "site": "danime",
@@ -1489,7 +1501,8 @@
         "site": "bilibili",
         "id": "4375",
         "begin": "2013-10-05T16:00:01.000Z",
-        "broadcast": "R/2017-06-02T10:00:00.000Z/P7D"
+        "broadcast": "R/2017-06-02T10:00:00.000Z/P7D",
+        "season_id": "4375"
       },
       {
         "site": "unext",
@@ -1532,7 +1545,8 @@
         "site": "gamer_hk",
         "id": "61653",
         "begin": "2025-11-14T04:00:00.000Z",
-        "broadcast": "R/2025-11-14T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-11-14T04:00:00.000Z/P7D",
+        "video_sn": "3776"
       },
       {
         "site": "muse_hk",
@@ -1544,7 +1558,8 @@
         "site": "gamer",
         "id": "61653",
         "begin": "2025-11-14T04:00:00.000Z",
-        "broadcast": "R/2025-11-14T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-11-14T04:00:00.000Z/P7D",
+        "video_sn": "3776"
       },
       {
         "site": "mal",
@@ -1739,7 +1754,8 @@
         "site": "bilibili",
         "id": "471",
         "begin": "2013-10-05T16:00:00.000Z",
-        "broadcast": "R/2013-10-06T08:10:00.000Z/P7D"
+        "broadcast": "R/2013-10-06T08:10:00.000Z/P7D",
+        "season_id": "471"
       },
       {
         "site": "bangumi",
@@ -1825,7 +1841,8 @@
         "id": "1625",
         "begin": "2013-10-04T16:00:00.000Z",
         "broadcast": "R/2015-01-20T02:37:00.000Z/P7D",
-        "comment": "OVA: 3443"
+        "comment": "OVA: 3443",
+        "season_id": "1625"
       },
       {
         "site": "bangumi",
@@ -1841,7 +1858,8 @@
         "site": "gamer",
         "id": "59487",
         "begin": "2023-01-18T02:30:00.000Z",
-        "broadcast": "R/2023-01-18T02:30:00.000Z/P7D"
+        "broadcast": "R/2023-01-18T02:30:00.000Z/P7D",
+        "video_sn": "5928"
       },
       {
         "site": "unext",
@@ -1854,7 +1872,8 @@
         "site": "gamer_hk",
         "id": "59487",
         "begin": "2023-01-18T02:30:00.000Z",
-        "broadcast": "R/2023-01-18T02:30:00.000Z/P7D"
+        "broadcast": "R/2023-01-18T02:30:00.000Z/P7D",
+        "video_sn": "5928"
       },
       {
         "site": "dmhy",
@@ -1984,7 +2003,8 @@
         "site": "bilibili",
         "id": "502",
         "begin": "2013-10-04T16:00:00.000Z",
-        "broadcast": "R/2015-12-23T02:54:00.000Z/P7D"
+        "broadcast": "R/2015-12-23T02:54:00.000Z/P7D",
+        "season_id": "502"
       },
       {
         "site": "bangumi",
@@ -1999,7 +2019,8 @@
         "site": "gamer",
         "id": "63135",
         "begin": "2023-03-10T04:40:00.000Z",
-        "broadcast": "R/2023-03-10T04:40:00.000Z/P7D"
+        "broadcast": "R/2023-03-10T04:40:00.000Z/P7D",
+        "video_sn": "2811"
       },
       {
         "site": "unext",
@@ -2083,7 +2104,8 @@
         "site": "bilibili",
         "id": "460",
         "begin": "2013-10-04T16:00:00.000Z",
-        "broadcast": "R/2016-02-16T09:00:00.000Z/P7D"
+        "broadcast": "R/2016-02-16T09:00:00.000Z/P7D",
+        "season_id": "460"
       },
       {
         "site": "bangumi",
@@ -2146,7 +2168,8 @@
         "site": "bilibili",
         "id": "1578",
         "begin": "2013-10-04T16:00:00.000Z",
-        "broadcast": "R/2015-12-17T04:39:00.000Z/P7D"
+        "broadcast": "R/2015-12-17T04:39:00.000Z/P7D",
+        "season_id": "1578"
       },
       {
         "site": "bangumi",
@@ -2212,7 +2235,8 @@
         "site": "bilibili",
         "id": "19",
         "begin": "2013-10-05T16:00:00.000Z",
-        "broadcast": "R/2013-10-06T16:07:00.000Z/P7D"
+        "broadcast": "R/2013-10-06T16:07:00.000Z/P7D",
+        "season_id": "19"
       },
       {
         "site": "bangumi",
@@ -2485,7 +2509,8 @@
         "site": "gamer",
         "id": "59441",
         "begin": "2020-12-10T06:00:00.000Z",
-        "broadcast": "R/2020-12-10T06:00:00.000Z/P7D"
+        "broadcast": "R/2020-12-10T06:00:00.000Z/P7D",
+        "video_sn": "19801"
       },
       {
         "site": "unext",
@@ -2497,7 +2522,8 @@
         "site": "gamer_hk",
         "id": "59441",
         "begin": "2020-12-10T06:00:00.000Z",
-        "broadcast": "R/2020-12-10T06:00:00.000Z/P7D"
+        "broadcast": "R/2020-12-10T06:00:00.000Z/P7D",
+        "video_sn": "19801"
       },
       {
         "site": "dmhy",
@@ -2701,7 +2727,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28221536",
         "begin": "2019-07-08T07:07:25.000Z",
-        "broadcast": "R/2019-07-08T07:07:25.000Z/P7D"
+        "broadcast": "R/2019-07-08T07:07:25.000Z/P7D",
+        "season_id": "28076"
       },
       {
         "site": "unext",
@@ -2777,7 +2804,8 @@
         "site": "bilibili",
         "id": "111892",
         "begin": "2013-10-07T16:00:01.000Z",
-        "broadcast": "R/2018-06-27T07:17:00.000Z/P7D"
+        "broadcast": "R/2018-06-27T07:17:00.000Z/P7D",
+        "season_id": "4368"
       },
       {
         "site": "iqiyi",
@@ -2825,13 +2853,15 @@
         "site": "gamer_hk",
         "id": "61840",
         "begin": "2025-10-01T04:00:00.000Z",
-        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D",
+        "video_sn": "1896"
       },
       {
         "site": "gamer",
         "id": "61840",
         "begin": "2025-10-01T04:00:00.000Z",
-        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D",
+        "video_sn": "1896"
       },
       {
         "site": "tmdb",
@@ -2879,7 +2909,8 @@
         "site": "bilibili",
         "id": "475",
         "begin": "2013-10-09T16:00:00.000Z",
-        "broadcast": "R/2020-11-28T08:04:00.000Z/P7D"
+        "broadcast": "R/2020-11-28T08:04:00.000Z/P7D",
+        "season_id": "475"
       },
       {
         "site": "bangumi",
@@ -3072,7 +3103,8 @@
         "site": "bilibili",
         "id": "476",
         "begin": "2013-10-09T16:00:00.000Z",
-        "broadcast": "R/2013-10-10T17:03:00.000Z/P7D"
+        "broadcast": "R/2013-10-10T17:03:00.000Z/P7D",
+        "season_id": "476"
       },
       {
         "site": "bangumi",
@@ -3151,7 +3183,8 @@
         "site": "bilibili",
         "id": "495",
         "begin": "2013-10-09T16:00:00.000Z",
-        "broadcast": "R/2013-10-10T18:18:00.000Z/P7D"
+        "broadcast": "R/2013-10-10T18:18:00.000Z/P7D",
+        "season_id": "495"
       },
       {
         "site": "bangumi",
@@ -3235,7 +3268,8 @@
         "site": "bilibili",
         "id": "5762",
         "begin": "2013-10-16T16:00:01.000Z",
-        "broadcast": "R/2016-12-08T02:49:00.000Z/P7D"
+        "broadcast": "R/2016-12-08T02:49:00.000Z/P7D",
+        "season_id": "5762"
       },
       {
         "site": "netflix",
@@ -3307,7 +3341,8 @@
         "site": "bilibili",
         "id": "4378",
         "begin": "2013-10-01T16:00:00.000Z",
-        "broadcast": "R/2016-06-03T03:27:00.000Z/P7D"
+        "broadcast": "R/2016-06-03T03:27:00.000Z/P7D",
+        "season_id": "4378"
       },
       {
         "site": "tmdb",
@@ -3348,7 +3383,8 @@
         "site": "bilibili",
         "id": "3852",
         "begin": "2013-10-24T16:00:01.000Z",
-        "broadcast": "R/2016-04-25T09:53:00.000Z/P7D"
+        "broadcast": "R/2016-04-25T09:53:00.000Z/P7D",
+        "season_id": "3852"
       },
       {
         "site": "tmdb",
@@ -3385,7 +3421,8 @@
         "site": "bilibili",
         "id": "4383",
         "begin": "2013-10-08T16:00:01.000Z",
-        "broadcast": "R/2016-06-03T06:31:15.000Z/P7D"
+        "broadcast": "R/2016-06-03T06:31:15.000Z/P7D",
+        "season_id": "4383"
       },
       {
         "site": "youku",
@@ -3530,7 +3567,8 @@
         "site": "bilibili",
         "id": "28220105",
         "begin": "2013-10-25T16:00:00.000Z",
-        "broadcast": "R/2019-08-30T10:00:00.000Z/P7D"
+        "broadcast": "R/2019-08-30T10:00:00.000Z/P7D",
+        "season_id": "27063"
       },
       {
         "site": "unext",
@@ -3554,13 +3592,15 @@
         "site": "gamer",
         "id": "60976",
         "begin": "2025-10-31T16:00:00.000Z",
-        "broadcast": "R/2025-10-31T16:00:00.000Z/P7D"
+        "broadcast": "R/2025-10-31T16:00:00.000Z/P7D",
+        "video_sn": "12331"
       },
       {
         "site": "gamer_hk",
         "id": "60976",
         "begin": "2025-10-31T16:00:00.000Z",
-        "broadcast": "R/2025-10-31T16:00:00.000Z/P7D"
+        "broadcast": "R/2025-10-31T16:00:00.000Z/P7D",
+        "video_sn": "12331"
       },
       {
         "site": "tmdb",

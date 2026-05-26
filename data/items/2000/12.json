@@ -74,7 +74,8 @@
         "site": "bilibili",
         "id": "141092",
         "begin": "2018-10-08T08:16:00.000Z",
-        "broadcast": "R/2018-10-08T08:16:00.000Z/P7D"
+        "broadcast": "R/2018-10-08T08:16:00.000Z/P7D",
+        "season_id": "25852"
       },
       {
         "site": "tmdb",

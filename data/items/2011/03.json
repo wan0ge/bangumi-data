@@ -160,7 +160,8 @@
         "site": "bilibili",
         "id": "958",
         "begin": "2011-03-04T16:00:00.000Z",
-        "broadcast": "R/2011-03-25T08:12:00.000Z/P7D"
+        "broadcast": "R/2011-03-25T08:12:00.000Z/P7D",
+        "season_id": "958"
       },
       {
         "site": "tmdb",
@@ -249,7 +250,8 @@
         "site": "bilibili",
         "id": "3900",
         "begin": "2011-03-04T16:00:00.000Z",
-        "broadcast": "R/2016-04-28T06:12:00.000Z/P7D"
+        "broadcast": "R/2016-04-28T06:12:00.000Z/P7D",
+        "season_id": "3900"
       },
       {
         "site": "abema",
@@ -267,7 +269,8 @@
         "site": "gamer",
         "id": "38398",
         "begin": "2023-03-16T02:00:00.000Z",
-        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D",
+        "video_sn": "24329"
       },
       {
         "site": "prime",
@@ -452,7 +455,8 @@
         "site": "bilibili",
         "id": "5871",
         "begin": "2011-03-25T16:00:00.000Z",
-        "broadcast": "R/2021-08-20T08:16:36.000Z/P7D"
+        "broadcast": "R/2021-08-20T08:16:36.000Z/P7D",
+        "season_id": "5871"
       },
       {
         "site": "tmdb",
@@ -565,7 +569,8 @@
         "site": "bilibili",
         "id": "5067",
         "begin": "2011-03-02T16:00:01.000Z",
-        "broadcast": "R/2016-06-22T09:44:00.000Z/P7D"
+        "broadcast": "R/2016-06-22T09:44:00.000Z/P7D",
+        "season_id": "5067"
       },
       {
         "site": "tmdb",
@@ -633,7 +638,8 @@
         "site": "bilibili",
         "id": "2861",
         "begin": "2011-03-24T16:00:00.000Z",
-        "broadcast": "R/2015-10-15T21:44:00.000Z/P7D"
+        "broadcast": "R/2015-10-15T21:44:00.000Z/P7D",
+        "season_id": "2861"
       },
       {
         "site": "danime",
@@ -669,7 +675,8 @@
         "site": "bilibili",
         "id": "1566",
         "begin": "2011-03-25T16:00:00.000Z",
-        "broadcast": "R/2011-09-05T15:56:00.000Z/P7D"
+        "broadcast": "R/2011-09-05T15:56:00.000Z/P7D",
+        "season_id": "1566"
       },
       {
         "site": "tmdb",
@@ -703,7 +710,8 @@
         "site": "bilibili",
         "id": "3395",
         "begin": "2011-03-08T16:00:00.000Z",
-        "broadcast": "R/2016-03-08T05:57:00.000Z/P7D"
+        "broadcast": "R/2016-03-08T05:57:00.000Z/P7D",
+        "season_id": "3395"
       },
       {
         "site": "tmdb",
@@ -733,7 +741,8 @@
         "site": "bilibili",
         "id": "3364",
         "begin": "2016-02-24T07:01:10.000Z",
-        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D",
+        "season_id": "3364"
       },
       {
         "site": "tmdb",

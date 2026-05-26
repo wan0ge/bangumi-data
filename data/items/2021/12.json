@@ -47,14 +47,16 @@
         "site": "gamer",
         "id": "115835",
         "begin": "2021-12-05T15:45:00.000Z",
-        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D",
+        "video_sn": "26850"
       },
       {
         "site": "bilibili",
         "id": "28235125",
         "begin": "2022-03-12T12:00:00.000Z",
         "broadcast": "R/2022-03-12T12:00:00.000Z/P7D",
-        "comment": "中配版: 20316645"
+        "comment": "中配版: 20316645",
+        "season_id": "39433"
       },
       {
         "site": "nicovideo",
@@ -78,7 +80,8 @@
         "site": "gamer_hk",
         "id": "115835",
         "begin": "2021-12-05T15:45:00.000Z",
-        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D",
+        "video_sn": "26850"
       },
       {
         "site": "dmhy",
@@ -184,7 +187,8 @@
         "site": "gamer",
         "id": "120950",
         "begin": "2021-12-31T16:30:00.000Z",
-        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
+        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D",
+        "video_sn": "27347"
       },
       {
         "site": "nicovideo",
@@ -202,7 +206,8 @@
         "site": "gamer_hk",
         "id": "120950",
         "begin": "2021-12-31T16:30:00.000Z",
-        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
+        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D",
+        "video_sn": "27347"
       },
       {
         "site": "mikan",
@@ -281,7 +286,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28339655",
         "begin": "2022-09-21T08:00:00.000Z",
-        "broadcast": "R/2022-09-21T08:00:00.000Z/P7D"
+        "broadcast": "R/2022-09-21T08:00:00.000Z/P7D",
+        "season_id": "43092"
       },
       {
         "site": "nicovideo",
@@ -309,7 +315,8 @@
         "site": "bilibili",
         "id": "22006270",
         "begin": "2025-04-03T10:00:00.000Z",
-        "broadcast": "R/2025-04-03T10:00:00.000Z/P7D"
+        "broadcast": "R/2025-04-03T10:00:00.000Z/P7D",
+        "season_id": "48001"
       },
       {
         "site": "abema",
@@ -368,7 +375,8 @@
         "site": "gamer",
         "id": "121152",
         "begin": "2021-12-31T14:30:00.000Z",
-        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D"
+        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D",
+        "video_sn": "27382"
       },
       {
         "site": "nicovideo",
@@ -386,7 +394,8 @@
         "site": "gamer_hk",
         "id": "121152",
         "begin": "2021-12-31T14:30:00.000Z",
-        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D"
+        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D",
+        "video_sn": "27382"
       },
       {
         "site": "mikan",
@@ -440,7 +449,8 @@
         "site": "gamer",
         "id": "116200",
         "begin": "2022-07-27T04:00:00.000Z",
-        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
+        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D",
+        "video_sn": "30469"
       },
       {
         "site": "nicovideo",
@@ -458,7 +468,8 @@
         "site": "gamer_hk",
         "id": "116200",
         "begin": "2022-07-27T04:00:00.000Z",
-        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
+        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D",
+        "video_sn": "30469"
       },
       {
         "site": "mikan",
@@ -512,7 +523,8 @@
         "site": "gamer",
         "id": "120753",
         "begin": "2022-06-24T04:00:00.000Z",
-        "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
+        "broadcast": "R/2022-06-24T04:00:00.000Z/P7D",
+        "video_sn": "29888"
       },
       {
         "site": "unext",
@@ -575,7 +587,8 @@
         "site": "gamer",
         "id": "115483",
         "begin": "2022-12-23T04:00:00.000Z",
-        "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
+        "broadcast": "R/2022-12-23T04:00:00.000Z/P7D",
+        "video_sn": "32290"
       },
       {
         "site": "unext",
@@ -636,7 +649,8 @@
         "site": "bilibili",
         "id": "28235977",
         "begin": "2022-01-21T10:00:00.000Z",
-        "broadcast": "R/2022-01-21T10:00:00.000Z/P7D"
+        "broadcast": "R/2022-01-21T10:00:00.000Z/P7D",
+        "season_id": "40273"
       },
       {
         "site": "nicovideo",
@@ -713,7 +727,8 @@
         "site": "gamer",
         "id": "114473",
         "begin": "2023-08-03T16:00:00.000Z",
-        "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
+        "broadcast": "R/2023-08-03T16:00:00.000Z/P7D",
+        "video_sn": "34423"
       },
       {
         "site": "mikan",

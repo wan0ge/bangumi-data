@@ -36,7 +36,8 @@
         "site": "bilibili",
         "id": "2416",
         "begin": "2020-04-26T09:57:00.000Z",
-        "broadcast": "R/2020-04-26T09:57:00.000Z/P7D"
+        "broadcast": "R/2020-04-26T09:57:00.000Z/P7D",
+        "season_id": "2416"
       },
       {
         "site": "unext",
@@ -48,7 +49,8 @@
         "site": "gamer_hk",
         "id": "19171",
         "begin": "2019-07-24T09:00:00.000Z",
-        "broadcast": "R/2019-07-24T09:00:00.000Z/P7D"
+        "broadcast": "R/2019-07-24T09:00:00.000Z/P7D",
+        "video_sn": "12795"
       },
       {
         "site": "danime",
@@ -60,7 +62,8 @@
         "site": "gamer",
         "id": "19171",
         "begin": "2019-07-24T09:00:00.000Z",
-        "broadcast": "R/2019-07-24T09:00:00.000Z/P7D"
+        "broadcast": "R/2019-07-24T09:00:00.000Z/P7D",
+        "video_sn": "12795"
       },
       {
         "site": "tmdb",
@@ -106,7 +109,8 @@
         "site": "bilibili",
         "id": "2418",
         "begin": "1987-04-05T16:00:00.000Z",
-        "broadcast": "R/2010-09-16T17:17:00.000Z/P7D"
+        "broadcast": "R/2010-09-16T17:17:00.000Z/P7D",
+        "season_id": "2418"
       },
       {
         "site": "unext",
@@ -212,7 +216,8 @@
         "site": "bilibili",
         "id": "2412",
         "begin": "1987-04-06T16:00:00.000Z",
-        "broadcast": "R/2013-08-04T04:20:00.000Z/P7D"
+        "broadcast": "R/2013-08-04T04:20:00.000Z/P7D",
+        "season_id": "2412"
       },
       {
         "site": "tmdb",
@@ -312,7 +317,8 @@
         "site": "bilibili",
         "id": "2426",
         "begin": "2013-02-25T15:50:34.000Z",
-        "broadcast": "R/2013-02-25T15:50:34.000Z/P7D"
+        "broadcast": "R/2013-02-25T15:50:34.000Z/P7D",
+        "season_id": "2426"
       },
       {
         "site": "tmdb",
@@ -359,7 +365,8 @@
         "site": "gamer",
         "id": "79322",
         "begin": "2022-06-10T04:00:00.000Z",
-        "broadcast": "R/2022-06-10T04:00:00.000Z/P7D"
+        "broadcast": "R/2022-06-10T04:00:00.000Z/P7D",
+        "video_sn": "29762"
       },
       {
         "site": "tmdb",

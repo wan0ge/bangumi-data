@@ -111,7 +111,8 @@
         "site": "bilibili",
         "id": "79492",
         "begin": "2018-03-31T16:00:00.000Z",
-        "broadcast": "R/2018-03-24T09:00:00.000Z/P7D"
+        "broadcast": "R/2018-03-24T09:00:00.000Z/P7D",
+        "season_id": "23875"
       },
       {
         "site": "iqiyi",
@@ -343,7 +344,8 @@
         "site": "bilibili",
         "id": "77352",
         "begin": "2018-03-28T15:00:00.000Z",
-        "broadcast": "R/2018-03-28T15:00:00.000Z/P7D"
+        "broadcast": "R/2018-03-28T15:00:00.000Z/P7D",
+        "season_id": "23811"
       },
       {
         "site": "iqiyi",
@@ -401,7 +403,8 @@
         "site": "bilibili",
         "id": "80472",
         "begin": "2018-03-28T15:00:00.000Z",
-        "broadcast": "R/2018-03-28T15:00:00.000Z/P7D"
+        "broadcast": "R/2018-03-28T15:00:00.000Z/P7D",
+        "season_id": "23919"
       },
       {
         "site": "iqiyi",
@@ -611,7 +614,8 @@
         "site": "gamer",
         "id": "87594",
         "begin": "2020-09-08T09:00:00.000Z",
-        "broadcast": "R/2020-09-08T09:00:00.000Z/P7D"
+        "broadcast": "R/2020-09-08T09:00:00.000Z/P7D",
+        "video_sn": "17516"
       },
       {
         "site": "unext",
@@ -623,7 +627,8 @@
         "site": "gamer_hk",
         "id": "87594",
         "begin": "2020-09-08T09:00:00.000Z",
-        "broadcast": "R/2020-09-08T09:00:00.000Z/P7D"
+        "broadcast": "R/2020-09-08T09:00:00.000Z/P7D",
+        "video_sn": "17516"
       },
       {
         "site": "mikan",
@@ -735,7 +740,8 @@
         "site": "bilibili",
         "id": "77952",
         "begin": "2018-03-31T16:00:00.000Z",
-        "broadcast": "R/2018-03-18T12:00:00.000Z/P7D"
+        "broadcast": "R/2018-03-18T12:00:00.000Z/P7D",
+        "season_id": "23833"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -806,7 +812,8 @@
         "site": "bilibili",
         "id": "79372",
         "begin": "2018-04-09T16:00:00.000Z",
-        "broadcast": "R/2018-04-01T11:00:00.000Z/P7D"
+        "broadcast": "R/2018-04-01T11:00:00.000Z/P7D",
+        "season_id": "23884"
       },
       {
         "site": "unext",
@@ -890,7 +897,8 @@
         "site": "gamer",
         "id": "89510",
         "begin": "2024-10-01T04:30:00.000Z",
-        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D"
+        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D",
+        "video_sn": "24884"
       },
       {
         "site": "prime",

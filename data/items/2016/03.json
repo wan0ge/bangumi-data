@@ -17,7 +17,8 @@
         "site": "bilibili",
         "id": "3375",
         "begin": "2016-03-04T15:30:00.000Z",
-        "broadcast": "R/2016-03-04T15:30:00.000Z/P7D"
+        "broadcast": "R/2016-03-04T15:30:00.000Z/P7D",
+        "season_id": "3375"
       },
       {
         "site": "bangumi",
@@ -220,7 +221,8 @@
         "site": "gamer",
         "id": "82254",
         "begin": "2024-10-01T04:30:00.000Z",
-        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D"
+        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D",
+        "video_sn": "40087"
       },
       {
         "site": "tmdb",
@@ -549,7 +551,8 @@
         "site": "bilibili",
         "id": "5921",
         "begin": "2016-03-17T16:00:01.000Z",
-        "broadcast": "R/2017-02-07T02:22:00.000Z/P7D"
+        "broadcast": "R/2017-02-07T02:22:00.000Z/P7D",
+        "season_id": "5921"
       },
       {
         "site": "unext",
@@ -640,7 +643,8 @@
         "site": "bilibili",
         "id": "3990",
         "begin": "2016-05-13T08:01:34.000Z",
-        "broadcast": "R/2016-05-13T08:01:34.000Z/P7D"
+        "broadcast": "R/2016-05-13T08:01:34.000Z/P7D",
+        "season_id": "3990"
       },
       {
         "site": "mikan",
@@ -701,7 +705,8 @@
         "site": "bilibili",
         "id": "3780",
         "begin": "2016-03-24T16:00:00.000Z",
-        "broadcast": "R/2016-04-19T03:09:00.000Z/P7D"
+        "broadcast": "R/2016-04-19T03:09:00.000Z/P7D",
+        "season_id": "3780"
       },
       {
         "site": "tmdb",
@@ -744,7 +749,8 @@
         "site": "bilibili",
         "id": "5696",
         "begin": "2016-02-29T16:00:00.000Z",
-        "broadcast": "R/2016-11-07T03:14:29.000Z/P7D"
+        "broadcast": "R/2016-11-07T03:14:29.000Z/P7D",
+        "season_id": "5696"
       },
       {
         "site": "tmdb",

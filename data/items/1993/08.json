@@ -46,7 +46,8 @@
         "site": "gamer",
         "id": "38222",
         "begin": "2025-10-01T04:00:00.000Z",
-        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D",
+        "video_sn": "11837"
       },
       {
         "site": "tmdb",
@@ -88,7 +89,8 @@
         "site": "bilibili",
         "id": "10832",
         "begin": "2017-10-17T07:59:00.000Z",
-        "broadcast": "R/2017-10-17T07:59:00.000Z/P7D"
+        "broadcast": "R/2017-10-17T07:59:00.000Z/P7D",
+        "season_id": "6510"
       },
       {
         "site": "unext",
@@ -141,7 +143,8 @@
         "site": "bilibili",
         "id": "132132",
         "begin": "2018-09-08T07:46:37.000Z",
-        "broadcast": "R/2018-09-08T07:46:37.000Z/P7D"
+        "broadcast": "R/2018-09-08T07:46:37.000Z/P7D",
+        "season_id": "25578"
       },
       {
         "site": "tmdb",

@@ -101,13 +101,15 @@
         "site": "gamer",
         "id": "60209",
         "begin": "2024-07-15T03:00:00.000Z",
-        "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+        "broadcast": "R/2024-07-15T03:00:00.000Z/P7D",
+        "video_sn": "840"
       },
       {
         "site": "gamer_hk",
         "id": "60209",
         "begin": "2024-07-15T03:00:00.000Z",
-        "broadcast": "R/2024-07-15T03:00:00.000Z/P7D"
+        "broadcast": "R/2024-07-15T03:00:00.000Z/P7D",
+        "video_sn": "840"
       },
       {
         "site": "danime",
@@ -233,7 +235,8 @@
         "site": "bilibili",
         "id": "5900",
         "begin": "2013-09-29T16:00:00.000Z",
-        "broadcast": "R/2019-05-16T12:20:00.000Z/P7D"
+        "broadcast": "R/2019-05-16T12:20:00.000Z/P7D",
+        "season_id": "5900"
       },
       {
         "site": "dmhy",
@@ -283,7 +286,8 @@
         "site": "bilibili",
         "id": "1659",
         "begin": "2012-08-03T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "1659"
       },
       {
         "site": "unext",
@@ -346,7 +350,8 @@
         "site": "bilibili",
         "id": "28235616",
         "begin": "2021-11-13T10:00:00.000Z",
-        "broadcast": "R/2021-11-13T10:00:00.000Z/P7D"
+        "broadcast": "R/2021-11-13T10:00:00.000Z/P7D",
+        "season_id": "39922"
       },
       {
         "site": "tmdb",
@@ -387,7 +392,8 @@
         "site": "bilibili",
         "id": "4384",
         "begin": "2013-09-17T16:00:01.000Z",
-        "broadcast": "R/2016-06-03T06:48:39.000Z/P7D"
+        "broadcast": "R/2016-06-03T06:48:39.000Z/P7D",
+        "season_id": "4384"
       },
       {
         "site": "youku",
@@ -421,7 +427,8 @@
         "site": "bilibili",
         "id": "3437",
         "begin": "2013-09-18T16:00:01.000Z",
-        "broadcast": "R/2016-03-15T09:15:00.000Z/P7D"
+        "broadcast": "R/2016-03-15T09:15:00.000Z/P7D",
+        "season_id": "3437"
       },
       {
         "site": "youku",
@@ -455,7 +462,8 @@
         "site": "bilibili",
         "id": "3514",
         "begin": "2013-09-12T16:00:01.000Z",
-        "broadcast": "R/2016-03-29T07:12:00.000Z/P7D"
+        "broadcast": "R/2016-03-29T07:12:00.000Z/P7D",
+        "season_id": "3514"
       },
       {
         "site": "tmdb",

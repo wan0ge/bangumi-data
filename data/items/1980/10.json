@@ -39,7 +39,8 @@
         "site": "bilibili",
         "id": "2449",
         "begin": "1980-09-30T16:00:00.000Z",
-        "broadcast": "R/2013-02-07T10:04:00.000Z/P7D"
+        "broadcast": "R/2013-02-07T10:04:00.000Z/P7D",
+        "season_id": "2449"
       },
       {
         "site": "youku",
@@ -97,7 +98,8 @@
         "site": "bilibili",
         "id": "1951",
         "begin": "1980-10-02T16:00:00.000Z",
-        "broadcast": "R/2014-04-26T14:19:00.000Z/P7D"
+        "broadcast": "R/2014-04-26T14:19:00.000Z/P7D",
+        "season_id": "1951"
       },
       {
         "site": "unext",
@@ -161,7 +163,8 @@
         "site": "bilibili",
         "id": "28234062",
         "begin": "2021-03-24T06:43:04.000Z",
-        "broadcast": "R/2021-03-24T06:43:04.000Z/P7D"
+        "broadcast": "R/2021-03-24T06:43:04.000Z/P7D",
+        "season_id": "38378"
       },
       {
         "site": "unext",

@@ -113,13 +113,15 @@
         "site": "gamer",
         "id": "138263",
         "begin": "2026-02-14T16:00:00.000Z",
-        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D",
+        "video_sn": "38918"
       },
       {
         "site": "gamer_hk",
         "id": "138263",
         "begin": "2026-02-14T16:00:00.000Z",
-        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D",
+        "video_sn": "38918"
       },
       {
         "site": "ani_one",

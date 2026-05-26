@@ -344,7 +344,8 @@
         "site": "bilibili",
         "id": "2889",
         "begin": "2015-10-23T04:08:00.000Z",
-        "broadcast": "R/2015-10-23T04:08:00.000Z/P7D"
+        "broadcast": "R/2015-10-23T04:08:00.000Z/P7D",
+        "season_id": "2889"
       },
       {
         "site": "danime",
@@ -484,7 +485,8 @@
         "site": "bilibili",
         "id": "89132",
         "begin": "2007-02-22T16:00:01.000Z",
-        "broadcast": "R/2018-05-01T08:43:00.000Z/P7D"
+        "broadcast": "R/2018-05-01T08:43:00.000Z/P7D",
+        "season_id": "4828"
       },
       {
         "site": "unext",

@@ -25,7 +25,8 @@
         "site": "bilibili",
         "id": "3943",
         "begin": "1997-07-31T16:00:01.000Z",
-        "broadcast": "R/2021-03-31T13:42:00.000Z/P7D"
+        "broadcast": "R/2021-03-31T13:42:00.000Z/P7D",
+        "season_id": "3943"
       },
       {
         "site": "danime",
@@ -86,7 +87,8 @@
         "site": "bilibili",
         "id": "3907",
         "begin": "1997-08-01T16:00:01.000Z",
-        "broadcast": "R/2019-05-13T08:48:00.000Z/P7D"
+        "broadcast": "R/2019-05-13T08:48:00.000Z/P7D",
+        "season_id": "3907"
       },
       {
         "site": "iqiyi",
@@ -172,7 +174,8 @@
         "site": "bilibili",
         "id": "3215",
         "begin": "2015-12-17T02:31:00.000Z",
-        "broadcast": "R/2015-12-17T02:31:00.000Z/P7D"
+        "broadcast": "R/2015-12-17T02:31:00.000Z/P7D",
+        "season_id": "3215"
       },
       {
         "site": "tmdb",
@@ -213,7 +216,8 @@
         "site": "bilibili",
         "id": "4040",
         "begin": "2016-05-24T02:33:00.000Z",
-        "broadcast": "R/2016-05-24T02:33:00.000Z/P7D"
+        "broadcast": "R/2016-05-24T02:33:00.000Z/P7D",
+        "season_id": "4040"
       },
       {
         "site": "danime",

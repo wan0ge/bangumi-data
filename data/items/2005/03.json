@@ -184,7 +184,8 @@
         "site": "bilibili",
         "id": "3919",
         "begin": "2016-05-03T07:14:00.000Z",
-        "broadcast": "R/2016-05-03T07:14:00.000Z/P7D"
+        "broadcast": "R/2016-05-03T07:14:00.000Z/P7D",
+        "season_id": "3919"
       },
       {
         "site": "unext",
@@ -245,7 +246,8 @@
         "site": "bilibili",
         "id": "3581",
         "begin": "2016-04-13T07:36:00.000Z",
-        "broadcast": "R/2016-04-13T07:36:00.000Z/P7D"
+        "broadcast": "R/2016-04-13T07:36:00.000Z/P7D",
+        "season_id": "3581"
       },
       {
         "site": "unext",
@@ -287,7 +289,8 @@
         "site": "bilibili",
         "id": "3920",
         "begin": "2016-05-03T07:19:00.000Z",
-        "broadcast": "R/2016-05-03T07:19:00.000Z/P7D"
+        "broadcast": "R/2016-05-03T07:19:00.000Z/P7D",
+        "season_id": "3920"
       },
       {
         "site": "tmdb",
@@ -329,7 +332,8 @@
         "site": "bilibili",
         "id": "5096",
         "begin": "2016-06-23T08:52:00.000Z",
-        "broadcast": "R/2016-06-23T08:52:00.000Z/P7D"
+        "broadcast": "R/2016-06-23T08:52:00.000Z/P7D",
+        "season_id": "5096"
       },
       {
         "site": "tmdb",

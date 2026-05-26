@@ -152,7 +152,8 @@
         "site": "bilibili",
         "id": "5939",
         "begin": "2014-12-29T16:00:01.000Z",
-        "broadcast": "R/2017-03-15T09:21:00.000Z/P7D"
+        "broadcast": "R/2017-03-15T09:21:00.000Z/P7D",
+        "season_id": "5939"
       },
       {
         "site": "qq",
@@ -220,7 +221,8 @@
         "site": "bilibili",
         "id": "28228778",
         "begin": "2020-04-29T16:00:00.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "33381"
       },
       {
         "site": "unext",
@@ -326,7 +328,8 @@
         "site": "bilibili",
         "id": "3844",
         "begin": "2014-12-11T16:00:01.000Z",
-        "broadcast": "R/2016-04-25T07:48:00.000Z/P7D"
+        "broadcast": "R/2016-04-25T07:48:00.000Z/P7D",
+        "season_id": "3844"
       },
       {
         "site": "youku",
@@ -435,7 +438,8 @@
         "site": "bilibili",
         "id": "10432",
         "begin": "2014-12-16T16:00:01.000Z",
-        "broadcast": "R/2016-04-13T08:57:00.000Z/P7D"
+        "broadcast": "R/2016-04-13T08:57:00.000Z/P7D",
+        "season_id": "3586"
       },
       {
         "site": "tmdb",
@@ -486,14 +490,16 @@
         "id": "71979",
         "begin": "2021-11-28T15:05:00.000Z",
         "broadcast": "R/2021-11-28T15:05:00.000Z/P7D",
-        "comment": "後篇: 120636"
+        "comment": "後篇: 120636",
+        "video_sn": "26726"
       },
       {
         "site": "gamer_hk",
         "id": "71979",
         "begin": "2021-11-28T15:05:00.000Z",
         "broadcast": "R/2021-11-28T15:05:00.000Z/P7D",
-        "comment": "後篇: 120636"
+        "comment": "後篇: 120636",
+        "video_sn": "26726"
       },
       {
         "site": "danime",
@@ -546,7 +552,8 @@
         "site": "gamer",
         "id": "71736",
         "begin": "2021-08-27T09:00:00.000Z",
-        "broadcast": "R/2021-08-27T09:00:00.000Z/P7D"
+        "broadcast": "R/2021-08-27T09:00:00.000Z/P7D",
+        "video_sn": "24713"
       },
       {
         "site": "unext",

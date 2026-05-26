@@ -137,13 +137,15 @@
         "site": "bilibili",
         "id": "21139535",
         "begin": "2023-12-19T15:00:00.000Z",
-        "broadcast": "R/2023-12-19T15:00:00.000Z/P7D"
+        "broadcast": "R/2023-12-19T15:00:00.000Z/P7D",
+        "season_id": "46732"
       },
       {
         "site": "bilibili_hk_mo",
         "id": "21135151",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "46696"
       },
       {
         "site": "unext",
@@ -277,7 +279,8 @@
         "site": "gamer",
         "id": "129181",
         "begin": "2024-03-07T04:00:00.000Z",
-        "broadcast": "R/2024-03-07T04:00:00.000Z/P7D"
+        "broadcast": "R/2024-03-07T04:00:00.000Z/P7D",
+        "video_sn": "37637"
       },
       {
         "site": "unext",
@@ -289,7 +292,8 @@
         "site": "bilibili",
         "id": "21102890",
         "begin": "2024-04-06T02:00:00.000Z",
-        "broadcast": "R/2024-04-06T02:00:00.000Z/P7D"
+        "broadcast": "R/2024-04-06T02:00:00.000Z/P7D",
+        "season_id": "46352"
       },
       {
         "site": "tmdb",

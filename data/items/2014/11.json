@@ -333,7 +333,8 @@
         "site": "bilibili",
         "id": "87232",
         "begin": "2015-11-13T16:00:00.000Z",
-        "broadcast": "R/2018-04-24T06:54:30.000Z/P7D"
+        "broadcast": "R/2018-04-24T06:54:30.000Z/P7D",
+        "season_id": "24112"
       },
       {
         "site": "tmdb",
@@ -362,7 +363,8 @@
         "site": "bilibili",
         "id": "4356",
         "begin": "2014-11-25T16:00:01.000Z",
-        "broadcast": "R/2016-09-13T09:48:00.000Z/P7D"
+        "broadcast": "R/2016-09-13T09:48:00.000Z/P7D",
+        "season_id": "4356"
       }
     ]
   },
@@ -396,7 +398,8 @@
         "site": "gamer",
         "id": "68751",
         "begin": "2022-08-18T09:00:00.000Z",
-        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D",
+        "video_sn": "10087"
       },
       {
         "site": "muse_hk",
@@ -414,7 +417,8 @@
         "site": "gamer_hk",
         "id": "68751",
         "begin": "2022-08-18T09:00:00.000Z",
-        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D",
+        "video_sn": "10087"
       },
       {
         "site": "danime",

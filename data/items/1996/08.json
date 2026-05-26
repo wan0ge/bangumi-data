@@ -80,7 +80,8 @@
         "site": "bilibili",
         "id": "3906",
         "begin": "1996-08-02T16:00:01.000Z",
-        "broadcast": "R/2016-05-03T03:40:00.000Z/P7D"
+        "broadcast": "R/2016-05-03T03:40:00.000Z/P7D",
+        "season_id": "3906"
       },
       {
         "site": "iqiyi",
@@ -177,7 +178,8 @@
         "site": "bilibili",
         "id": "5573",
         "begin": "2016-09-28T08:13:00.000Z",
-        "broadcast": "R/2016-09-28T08:13:00.000Z/P7D"
+        "broadcast": "R/2016-09-28T08:13:00.000Z/P7D",
+        "season_id": "5573"
       },
       {
         "site": "unext",
@@ -230,7 +232,8 @@
         "site": "bilibili",
         "id": "2099",
         "begin": "2019-03-05T06:27:00.000Z",
-        "broadcast": "R/2019-03-05T06:27:00.000Z/P7D"
+        "broadcast": "R/2019-03-05T06:27:00.000Z/P7D",
+        "season_id": "2099"
       },
       {
         "site": "tmdb",

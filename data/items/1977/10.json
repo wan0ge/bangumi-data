@@ -20,7 +20,8 @@
         "site": "bilibili",
         "id": "3082",
         "begin": "1977-10-07T16:00:00.000Z",
-        "broadcast": "R/2015-11-28T14:37:00.000Z/P7D"
+        "broadcast": "R/2015-11-28T14:37:00.000Z/P7D",
+        "season_id": "3082"
       },
       {
         "site": "danime",
@@ -155,7 +156,8 @@
         "site": "bilibili",
         "id": "5925",
         "begin": "2017-02-07T09:40:00.000Z",
-        "broadcast": "R/2017-02-07T09:40:00.000Z/P7D"
+        "broadcast": "R/2017-02-07T09:40:00.000Z/P7D",
+        "season_id": "5925"
       },
       {
         "site": "unext",

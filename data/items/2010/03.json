@@ -302,7 +302,8 @@
         "site": "bilibili",
         "id": "3883",
         "begin": "2010-03-05T16:00:01.000Z",
-        "broadcast": "R/2016-04-28T02:49:00.000Z/P7D"
+        "broadcast": "R/2016-04-28T02:49:00.000Z/P7D",
+        "season_id": "3883"
       },
       {
         "site": "abema",
@@ -320,7 +321,8 @@
         "site": "gamer",
         "id": "29590",
         "begin": "2023-03-16T02:00:00.000Z",
-        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D",
+        "video_sn": "24328"
       },
       {
         "site": "prime",
@@ -373,7 +375,8 @@
         "site": "bilibili",
         "id": "5106",
         "begin": "2010-03-12T16:00:01.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "5106"
       },
       {
         "site": "unext",
@@ -454,7 +457,8 @@
         "site": "bilibili",
         "id": "3975",
         "begin": "2010-03-24T16:00:01.000Z",
-        "broadcast": "R/2016-05-09T07:28:06.000Z/P7D"
+        "broadcast": "R/2016-05-09T07:28:06.000Z/P7D",
+        "season_id": "3975"
       },
       {
         "site": "unext",
@@ -648,7 +652,8 @@
         "site": "bilibili",
         "id": "3978",
         "begin": "2016-05-09T09:43:00.000Z",
-        "broadcast": "R/2016-05-09T09:43:00.000Z/P7D"
+        "broadcast": "R/2016-05-09T09:43:00.000Z/P7D",
+        "season_id": "3978"
       },
       {
         "site": "unext",
@@ -706,7 +711,8 @@
         "site": "bilibili",
         "id": "2004",
         "begin": "2012-11-26T23:52:28.000Z",
-        "broadcast": "R/2012-11-26T23:52:28.000Z/P7D"
+        "broadcast": "R/2012-11-26T23:52:28.000Z/P7D",
+        "season_id": "2004"
       },
       {
         "site": "unext",

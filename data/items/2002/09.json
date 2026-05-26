@@ -20,7 +20,8 @@
         "site": "bilibili",
         "id": "2020",
         "begin": "2002-09-06T16:00:00.000Z",
-        "broadcast": "R/2013-07-30T05:39:05.000Z/P7D"
+        "broadcast": "R/2013-07-30T05:39:05.000Z/P7D",
+        "season_id": "2020"
       },
       {
         "site": "danime",
@@ -193,7 +194,8 @@
         "site": "bilibili",
         "id": "2027",
         "begin": "2012-01-20T10:08:00.000Z",
-        "broadcast": "R/2012-01-20T10:08:00.000Z/P7D"
+        "broadcast": "R/2012-01-20T10:08:00.000Z/P7D",
+        "season_id": "2027"
       },
       {
         "site": "unext",
@@ -246,7 +248,8 @@
         "site": "bilibili",
         "id": "3853",
         "begin": "2016-04-25T10:02:00.000Z",
-        "broadcast": "R/2016-04-25T10:02:00.000Z/P7D"
+        "broadcast": "R/2016-04-25T10:02:00.000Z/P7D",
+        "season_id": "3853"
       },
       {
         "site": "tmdb",
@@ -287,7 +290,8 @@
         "site": "bilibili",
         "id": "4048",
         "begin": "2016-05-24T08:58:00.000Z",
-        "broadcast": "R/2016-05-24T08:58:00.000Z/P7D"
+        "broadcast": "R/2016-05-24T08:58:00.000Z/P7D",
+        "season_id": "4048"
       },
       {
         "site": "tmdb",

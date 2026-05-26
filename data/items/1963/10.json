@@ -20,7 +20,8 @@
         "site": "bilibili",
         "id": "1950",
         "begin": "2014-05-31T12:33:00.000Z",
-        "broadcast": "R/2014-05-31T12:33:00.000Z/P7D"
+        "broadcast": "R/2014-05-31T12:33:00.000Z/P7D",
+        "season_id": "1950"
       },
       {
         "site": "unext",

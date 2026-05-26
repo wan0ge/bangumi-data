@@ -181,13 +181,15 @@
         "site": "bilibili",
         "id": "28223480",
         "begin": "2019-11-13T08:00:00.000Z",
-        "broadcast": "R/2019-11-13T08:00:00.000Z/P7D"
+        "broadcast": "R/2019-11-13T08:00:00.000Z/P7D",
+        "season_id": "28965"
       },
       {
         "site": "gamer",
         "id": "101403",
         "begin": "2020-02-17T06:00:00.000Z",
-        "broadcast": "R/2020-02-17T06:00:00.000Z/P7D"
+        "broadcast": "R/2020-02-17T06:00:00.000Z/P7D",
+        "video_sn": "14826"
       },
       {
         "site": "unext",
@@ -199,7 +201,8 @@
         "site": "gamer_hk",
         "id": "101403",
         "begin": "2020-02-17T06:00:00.000Z",
-        "broadcast": "R/2020-02-17T06:00:00.000Z/P7D"
+        "broadcast": "R/2020-02-17T06:00:00.000Z/P7D",
+        "video_sn": "14826"
       },
       {
         "site": "mikan",
@@ -282,7 +285,8 @@
         "site": "bilibili",
         "id": "28227187",
         "begin": "2021-03-18T08:00:00.000Z",
-        "broadcast": "R/2021-03-18T08:00:00.000Z/P7D"
+        "broadcast": "R/2021-03-18T08:00:00.000Z/P7D",
+        "season_id": "32005"
       },
       {
         "site": "unext",
@@ -337,7 +341,8 @@
         "site": "bilibili",
         "id": "28222277",
         "begin": "2019-08-23T16:00:00.000Z",
-        "broadcast": "R/2019-08-24T10:00:00.000Z/P7D"
+        "broadcast": "R/2019-08-24T10:00:00.000Z/P7D",
+        "season_id": "28400"
       },
       {
         "site": "nicovideo",
@@ -477,13 +482,15 @@
         "site": "gamer_hk",
         "id": "86700",
         "begin": "2025-06-02T04:00:00.000Z",
-        "broadcast": "R/2025-06-02T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-06-02T04:00:00.000Z/P7D",
+        "video_sn": "23100"
       },
       {
         "site": "gamer",
         "id": "86700",
         "begin": "2025-06-02T04:00:00.000Z",
-        "broadcast": "R/2025-06-02T04:00:00.000Z/P7D"
+        "broadcast": "R/2025-06-02T04:00:00.000Z/P7D",
+        "video_sn": "23100"
       },
       {
         "site": "tmdb",
@@ -532,7 +539,8 @@
         "site": "gamer",
         "id": "103380",
         "begin": "2020-12-29T03:50:00.000Z",
-        "broadcast": "R/2020-12-29T03:50:00.000Z/P7D"
+        "broadcast": "R/2020-12-29T03:50:00.000Z/P7D",
+        "video_sn": "20332"
       },
       {
         "site": "unext",
@@ -595,7 +603,8 @@
         "site": "bilibili",
         "id": "28229504",
         "begin": "2020-09-02T08:00:01.000Z",
-        "broadcast": "R/2020-09-02T08:00:01.000Z/P7D"
+        "broadcast": "R/2020-09-02T08:00:01.000Z/P7D",
+        "season_id": "34064"
       },
       {
         "site": "mikan",

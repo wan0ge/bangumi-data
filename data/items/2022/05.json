@@ -161,7 +161,8 @@
         "site": "bilibili",
         "id": "28237357",
         "begin": "2022-05-01T10:00:00.000Z",
-        "broadcast": "R/2022-05-01T10:00:00.000Z/P7D"
+        "broadcast": "R/2022-05-01T10:00:00.000Z/P7D",
+        "season_id": "41648"
       },
       {
         "site": "bangumi_moe",
@@ -217,7 +218,8 @@
         "site": "bilibili",
         "id": "28237219",
         "begin": "2023-04-23T10:30:01.000Z",
-        "broadcast": "R/2023-04-23T10:30:01.000Z/P7D"
+        "broadcast": "R/2023-04-23T10:30:01.000Z/P7D",
+        "season_id": "41510"
       },
       {
         "site": "unext",
@@ -271,7 +273,8 @@
         "site": "bilibili",
         "id": "28237243",
         "begin": "2022-04-14T23:00:01.000Z",
-        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
+        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D",
+        "season_id": "41534"
       },
       {
         "site": "nicovideo",
@@ -405,7 +408,8 @@
         "site": "bilibili",
         "id": "28480926",
         "begin": "2023-10-06T08:00:00.000Z",
-        "broadcast": "R/2023-10-06T08:00:00.000Z/P7D"
+        "broadcast": "R/2023-10-06T08:00:00.000Z/P7D",
+        "season_id": "44500"
       },
       {
         "site": "mikan",
@@ -509,7 +513,8 @@
         "site": "gamer",
         "id": "123554",
         "begin": "2024-02-07T04:10:00.000Z",
-        "broadcast": "R/2024-02-07T04:10:00.000Z/P7D"
+        "broadcast": "R/2024-02-07T04:10:00.000Z/P7D",
+        "video_sn": "37332"
       },
       {
         "site": "danime",

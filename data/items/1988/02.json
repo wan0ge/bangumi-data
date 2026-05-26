@@ -150,7 +150,8 @@
         "site": "bilibili",
         "id": "2506",
         "begin": "1988-02-05T16:00:00.000Z",
-        "broadcast": "R/2011-12-28T07:24:04.000Z/P7D"
+        "broadcast": "R/2011-12-28T07:24:04.000Z/P7D",
+        "season_id": "2506"
       },
       {
         "site": "tmdb",
@@ -192,7 +193,8 @@
         "site": "bilibili",
         "id": "3284",
         "begin": "2016-01-12T09:14:00.000Z",
-        "broadcast": "R/2016-01-12T09:14:00.000Z/P7D"
+        "broadcast": "R/2016-01-12T09:14:00.000Z/P7D",
+        "season_id": "3284"
       },
       {
         "site": "unext",
@@ -276,7 +278,8 @@
         "site": "bilibili",
         "id": "4005",
         "begin": "2016-05-17T08:13:00.000Z",
-        "broadcast": "R/2016-05-17T08:13:00.000Z/P7D"
+        "broadcast": "R/2016-05-17T08:13:00.000Z/P7D",
+        "season_id": "4005"
       },
       {
         "site": "unext",

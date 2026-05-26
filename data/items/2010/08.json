@@ -180,7 +180,8 @@
         "site": "bilibili",
         "id": "131692",
         "begin": "2018-09-07T08:30:10.000Z",
-        "broadcast": "R/2018-09-07T08:30:10.000Z/P7D"
+        "broadcast": "R/2018-09-07T08:30:10.000Z/P7D",
+        "season_id": "25561"
       },
       {
         "site": "tmdb",
@@ -267,7 +268,8 @@
         "site": "bilibili",
         "id": "28220583",
         "begin": "2019-04-25T04:38:48.000Z",
-        "broadcast": "R/2019-04-25T04:38:48.000Z/P7D"
+        "broadcast": "R/2019-04-25T04:38:48.000Z/P7D",
+        "season_id": "27500"
       },
       {
         "site": "tmdb",

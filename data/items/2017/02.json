@@ -80,7 +80,8 @@
         "site": "bilibili",
         "id": "5933",
         "begin": "2017-02-18T15:00:00.000Z",
-        "broadcast": "R/2017-02-18T15:00:00.000Z/P7D"
+        "broadcast": "R/2017-02-18T15:00:00.000Z/P7D",
+        "season_id": "5933"
       },
       {
         "site": "bangumi",
@@ -156,13 +157,15 @@
         "site": "gamer",
         "id": "74561",
         "begin": "2016-12-16T09:20:00.000Z",
-        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D",
+        "video_sn": "7027"
       },
       {
         "site": "gamer_hk",
         "id": "74561",
         "begin": "2016-12-16T09:20:00.000Z",
-        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D",
+        "video_sn": "7027"
       },
       {
         "site": "tmdb",
@@ -271,7 +274,8 @@
         "site": "bilibili",
         "id": "5929",
         "begin": "2017-02-10T16:00:01.000Z",
-        "broadcast": "R/2017-02-11T12:37:00.000Z/P7D"
+        "broadcast": "R/2017-02-11T12:37:00.000Z/P7D",
+        "season_id": "5929"
       },
       {
         "site": "youku",
@@ -493,7 +497,8 @@
         "site": "gamer",
         "id": "79961",
         "begin": "2019-01-16T06:30:00.000Z",
-        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
+        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D",
+        "video_sn": "9242"
       },
       {
         "site": "abema",
@@ -505,7 +510,8 @@
         "site": "bilibili",
         "id": "15132",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "12364"
       },
       {
         "site": "unext",
@@ -517,7 +523,8 @@
         "site": "gamer_hk",
         "id": "79961",
         "begin": "2019-01-16T06:30:00.000Z",
-        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D"
+        "broadcast": "R/2019-01-16T06:30:00.000Z/P7D",
+        "video_sn": "9242"
       },
       {
         "site": "mikan",
@@ -683,7 +690,8 @@
         "site": "bilibili",
         "id": "73092",
         "begin": "2017-02-24T16:00:00.000Z",
-        "broadcast": "R/2018-02-20T11:57:00.000Z/P7D"
+        "broadcast": "R/2018-02-20T11:57:00.000Z/P7D",
+        "season_id": "6473"
       },
       {
         "site": "tmdb",
@@ -726,7 +734,8 @@
         "site": "bilibili",
         "id": "91972",
         "begin": "2017-02-24T16:00:00.000Z",
-        "broadcast": "R/2018-05-17T07:40:00.000Z/P7D"
+        "broadcast": "R/2018-05-17T07:40:00.000Z/P7D",
+        "season_id": "24255"
       },
       {
         "site": "ani_one",

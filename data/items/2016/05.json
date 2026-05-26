@@ -311,7 +311,8 @@
         "site": "bilibili",
         "id": "28233833",
         "begin": "2021-03-01T11:27:00.000Z",
-        "broadcast": "R/2021-03-01T11:27:00.000Z/P7D"
+        "broadcast": "R/2021-03-01T11:27:00.000Z/P7D",
+        "season_id": "38151"
       },
       {
         "site": "tmdb",

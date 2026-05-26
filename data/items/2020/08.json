@@ -25,7 +25,8 @@
         "site": "bilibili",
         "id": "28229874",
         "begin": "2020-09-29T16:00:01.000Z",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "34405"
       },
       {
         "site": "nicovideo",
@@ -36,13 +37,15 @@
         "site": "gamer",
         "id": "107857",
         "begin": "2021-05-21T09:00:00.000Z",
-        "broadcast": "R/2021-05-21T09:00:00.000Z/P7D"
+        "broadcast": "R/2021-05-21T09:00:00.000Z/P7D",
+        "video_sn": "22879"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234240",
         "begin": "",
-        "broadcast": ""
+        "broadcast": "",
+        "season_id": "38551"
       },
       {
         "site": "unext",
@@ -107,13 +110,15 @@
         "site": "gamer",
         "id": "107012",
         "begin": "2021-12-03T07:50:00.000Z",
-        "broadcast": "R/2021-12-03T07:50:00.000Z/P7D"
+        "broadcast": "R/2021-12-03T07:50:00.000Z/P7D",
+        "video_sn": "26998"
       },
       {
         "site": "bilibili",
         "id": "20266397",
         "begin": "2020-06-21T09:00:00.000Z",
-        "broadcast": "R/2020-06-21T09:00:00.000Z/P7D"
+        "broadcast": "R/2020-06-21T09:00:00.000Z/P7D",
+        "season_id": "45303"
       },
       {
         "site": "unext",
@@ -125,7 +130,8 @@
         "site": "gamer_hk",
         "id": "107012",
         "begin": "2021-12-03T07:50:00.000Z",
-        "broadcast": "R/2021-12-03T07:50:00.000Z/P7D"
+        "broadcast": "R/2021-12-03T07:50:00.000Z/P7D",
+        "video_sn": "26998"
       },
       {
         "site": "bangumi_moe",
@@ -174,7 +180,8 @@
         "site": "gamer",
         "id": "109956",
         "begin": "2021-05-06T09:00:00.000Z",
-        "broadcast": "R/2021-05-06T09:00:00.000Z/P7D"
+        "broadcast": "R/2021-05-06T09:00:00.000Z/P7D",
+        "video_sn": "22680"
       },
       {
         "site": "unext",
@@ -280,7 +287,8 @@
         "site": "gamer",
         "id": "113078",
         "begin": "2020-08-18T06:00:00.000Z",
-        "broadcast": "R/2020-08-18T06:00:00.000Z/P7D"
+        "broadcast": "R/2020-08-18T06:00:00.000Z/P7D",
+        "video_sn": "16952"
       },
       {
         "site": "disneyplus",
@@ -298,7 +306,8 @@
         "site": "gamer_hk",
         "id": "113078",
         "begin": "2020-08-18T06:00:00.000Z",
-        "broadcast": "R/2020-08-18T06:00:00.000Z/P7D"
+        "broadcast": "R/2020-08-18T06:00:00.000Z/P7D",
+        "video_sn": "16952"
       },
       {
         "site": "danime",

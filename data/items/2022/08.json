@@ -28,7 +28,8 @@
         "site": "gamer",
         "id": "118966",
         "begin": "2022-07-31T16:00:00.000Z",
-        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D",
+        "video_sn": "30691"
       },
       {
         "site": "muse_hk",
@@ -46,7 +47,8 @@
         "site": "gamer_hk",
         "id": "118966",
         "begin": "2022-07-31T16:00:00.000Z",
-        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D",
+        "video_sn": "30691"
       },
       {
         "site": "dmhy",
@@ -82,7 +84,8 @@
         "site": "bilibili",
         "id": "28403222",
         "begin": "2025-08-02T03:00:00.000Z",
-        "broadcast": "R/2025-08-02T03:00:00.000Z/P7D"
+        "broadcast": "R/2025-08-02T03:00:00.000Z/P7D",
+        "season_id": "106413"
       },
       {
         "site": "tmdb",
@@ -128,7 +131,8 @@
         "site": "bilibili",
         "id": "28338863",
         "begin": "2022-09-21T17:00:01.000Z",
-        "broadcast": "R/2022-09-21T17:00:01.000Z/P7D"
+        "broadcast": "R/2022-09-21T17:00:01.000Z/P7D",
+        "season_id": "42406"
       },
       {
         "site": "bilibili_hk_mo_tw",
@@ -334,7 +338,8 @@
         "site": "gamer",
         "id": "129504",
         "begin": "2023-01-06T15:30:00.000Z",
-        "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+        "broadcast": "R/2023-01-06T15:30:00.000Z/P7D",
+        "video_sn": "32413"
       },
       {
         "site": "unext",
@@ -356,7 +361,8 @@
         "site": "gamer_hk",
         "id": "129504",
         "begin": "2023-01-06T15:30:00.000Z",
-        "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+        "broadcast": "R/2023-01-06T15:30:00.000Z/P7D",
+        "video_sn": "32413"
       },
       {
         "site": "tmdb",
@@ -402,13 +408,15 @@
         "site": "bilibili",
         "id": "28338646",
         "begin": "2022-08-30T10:00:01.000Z",
-        "broadcast": "R/2022-08-30T10:00:01.000Z/P7D"
+        "broadcast": "R/2022-08-30T10:00:01.000Z/P7D",
+        "season_id": "42199"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28338741",
         "begin": "2022-08-02T10:00:00.000Z",
-        "broadcast": "R/2022-08-02T10:00:00.000Z/P7D"
+        "broadcast": "R/2022-08-02T10:00:00.000Z/P7D",
+        "season_id": "42292"
       },
       {
         "site": "nicovideo",
@@ -479,7 +487,8 @@
         "site": "bilibili",
         "id": "28368476",
         "begin": "2023-05-31T08:00:00.000Z",
-        "broadcast": "R/2023-05-31T08:00:00.000Z/P7D"
+        "broadcast": "R/2023-05-31T08:00:00.000Z/P7D",
+        "season_id": "45003"
       },
       {
         "site": "mikan",
