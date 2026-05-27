@@ -1,0 +1,69 @@
+name: Auto Publish to npm
+
+# 当 master 分支有新 push 时自动触发构建和发布
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # 用于对比上一次提交
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Check if version changed
+        id: version_check
+        run: |
+          # 获取当前版本和上次提交时的版本
+          CURRENT=$(node -e "console.log(require('./package.json').version)")
+          PREVIOUS=$(git show HEAD~1:package.json 2>/dev/null | node -e "
+            let d=''; process.stdin.on('data',c=>d+=c).on('end',()=>{
+              try { console.log(JSON.parse(d).version); } catch(e) { console.log(''); }
+            });
+          " || echo "")
+          echo "current=$CURRENT" >> $GITHUB_OUTPUT
+          echo "previous=$PREVIOUS" >> $GITHUB_OUTPUT
+          if [ "$CURRENT" != "$PREVIOUS" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Auto bump version and publish
+        if: steps.version_check.outputs.changed == 'false'
+        run: |
+          # 如果版本号没有手动改变，自动 patch bump
+          CURRENT="${{ steps.version_check.outputs.current }}"
+          NEXT=$(node -e "
+            const v = '$CURRENT'.split('.');
+            v[2] = parseInt(v[2]) + 1;
+            console.log(v.join('.'));
+          ")
+          npm pkg set version="$NEXT"
+          echo "Auto-bumped version: $CURRENT -> $NEXT"
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Publish with existing version
+        if: steps.version_check.outputs.changed == 'true'
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
