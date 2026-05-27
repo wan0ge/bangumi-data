@@ -19,9 +19,9 @@
       {
         "site": "bilibili",
         "id": "5565",
+        "season_id": "5565",
         "begin": "2016-09-22T02:12:00.000Z",
-        "broadcast": "R/2016-09-22T02:12:00.000Z/P7D",
-        "season_id": "5565"
+        "broadcast": "R/2016-09-22T02:12:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -64,9 +64,9 @@
       {
         "site": "bilibili",
         "id": "3557",
+        "season_id": "3557",
         "begin": "2016-04-11T06:12:00.000Z",
-        "broadcast": "R/2016-04-11T06:12:00.000Z/P7D",
-        "season_id": "3557"
+        "broadcast": "R/2016-04-11T06:12:00.000Z/P7D"
       },
       {
         "site": "unext",

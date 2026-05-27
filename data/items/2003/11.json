@@ -21,9 +21,9 @@
       {
         "site": "bilibili",
         "id": "3093",
+        "season_id": "3093",
         "begin": "2003-10-31T16:00:00.000Z",
-        "broadcast": "R/2015-12-02T05:09:23.000Z/P7D",
-        "season_id": "3093"
+        "broadcast": "R/2015-12-02T05:09:23.000Z/P7D"
       },
       {
         "site": "unext",
@@ -193,9 +193,9 @@
       {
         "site": "bilibili",
         "id": "2597",
+        "season_id": "2597",
         "begin": "2003-11-07T16:00:00.000Z",
-        "broadcast": "R/2015-07-01T06:24:00.000Z/P7D",
-        "season_id": "2597"
+        "broadcast": "R/2015-07-01T06:24:00.000Z/P7D"
       },
       {
         "site": "youku",

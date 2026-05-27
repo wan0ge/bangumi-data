@@ -76,9 +76,9 @@
       {
         "site": "bilibili",
         "id": "2093",
+        "season_id": "2093",
         "begin": "2003-12-20T16:00:00.000Z",
-        "broadcast": "R/2015-02-15T08:30:00.000Z/P7D",
-        "season_id": "2093"
+        "broadcast": "R/2015-02-15T08:30:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -146,9 +146,9 @@
       {
         "site": "gamer",
         "id": "55655",
+        "video_sn": "7896",
         "begin": "2017-06-02T04:00:00.000Z",
-        "broadcast": "R/2017-06-02T04:00:00.000Z/P7D",
-        "video_sn": "7896"
+        "broadcast": "R/2017-06-02T04:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -196,9 +196,9 @@
       {
         "site": "bilibili",
         "id": "2039",
+        "season_id": "2039",
         "begin": "2016-03-01T08:28:08.000Z",
-        "broadcast": "R/2016-03-01T08:28:08.000Z/P7D",
-        "season_id": "2039"
+        "broadcast": "R/2016-03-01T08:28:08.000Z/P7D"
       },
       {
         "site": "abema",
@@ -322,9 +322,9 @@
       {
         "site": "gamer",
         "id": "82266",
+        "video_sn": "24293",
         "begin": "2021-08-06T07:00:00.000Z",
-        "broadcast": "R/2021-08-06T07:00:00.000Z/P7D",
-        "video_sn": "24293"
+        "broadcast": "R/2021-08-06T07:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

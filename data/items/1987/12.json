@@ -19,9 +19,9 @@
       {
         "site": "bilibili",
         "id": "3927",
+        "season_id": "3927",
         "begin": "1987-12-17T16:00:01.000Z",
-        "broadcast": "R/2016-05-04T03:17:46.000Z/P7D",
-        "season_id": "3927"
+        "broadcast": "R/2016-05-04T03:17:46.000Z/P7D"
       },
       {
         "site": "unext",
@@ -79,9 +79,9 @@
       {
         "site": "bilibili",
         "id": "2893",
+        "season_id": "2893",
         "begin": "2015-10-23T05:55:00.000Z",
-        "broadcast": "R/2015-10-23T05:55:00.000Z/P7D",
-        "season_id": "2893"
+        "broadcast": "R/2015-10-23T05:55:00.000Z/P7D"
       },
       {
         "site": "tmdb",

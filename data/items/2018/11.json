@@ -28,9 +28,9 @@
       {
         "site": "bilibili",
         "id": "113852",
+        "season_id": "24978",
         "begin": "2018-11-03T16:00:00.000Z",
-        "broadcast": "",
-        "season_id": "24978"
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -141,9 +141,9 @@
       {
         "site": "bilibili",
         "id": "28234788",
+        "season_id": "39096",
         "begin": "2021-07-11T10:00:00.000Z",
-        "broadcast": "R/2021-07-11T10:00:00.000Z/P7D",
-        "season_id": "39096"
+        "broadcast": "R/2021-07-11T10:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -339,9 +339,9 @@
       {
         "site": "bilibili",
         "id": "28338782",
+        "season_id": "42327",
         "begin": "2022-12-11T10:00:00.000Z",
-        "broadcast": "R/2022-12-11T10:00:00.000Z/P7D",
-        "season_id": "42327"
+        "broadcast": "R/2022-12-11T10:00:00.000Z/P7D"
       },
       {
         "site": "mikan",

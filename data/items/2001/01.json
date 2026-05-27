@@ -21,9 +21,9 @@
       {
         "site": "bilibili",
         "id": "2088",
+        "season_id": "2088",
         "begin": "2014-05-26T18:07:00.000Z",
-        "broadcast": "R/2014-05-26T18:07:00.000Z/P7D",
-        "season_id": "2088"
+        "broadcast": "R/2014-05-26T18:07:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -116,9 +116,9 @@
       {
         "site": "bilibili",
         "id": "3312",
+        "season_id": "3312",
         "begin": "2001-01-07T16:00:01.000Z",
-        "broadcast": "R/2016-01-26T03:24:00.000Z/P7D",
-        "season_id": "3312"
+        "broadcast": "R/2016-01-26T03:24:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -169,9 +169,9 @@
       {
         "site": "bilibili",
         "id": "209",
+        "season_id": "209",
         "begin": "2001-01-12T16:00:00.000Z",
-        "broadcast": "",
-        "season_id": "209"
+        "broadcast": ""
       },
       {
         "site": "unext",

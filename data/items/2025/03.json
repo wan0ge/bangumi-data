@@ -95,9 +95,9 @@
       {
         "site": "gamer_hk",
         "id": "136611",
+        "video_sn": "42878",
         "begin": "2025-03-31T12:30:00.000Z",
-        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D",
-        "video_sn": "42878"
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -122,9 +122,9 @@
       {
         "site": "gamer",
         "id": "136611",
+        "video_sn": "42878",
         "begin": "2025-03-31T12:30:00.000Z",
-        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D",
-        "video_sn": "42878"
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -243,16 +243,16 @@
       {
         "site": "gamer",
         "id": "137495",
+        "video_sn": "42932",
         "begin": "2025-04-18T16:00:00.000Z",
-        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D",
-        "video_sn": "42932"
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "137495",
+        "video_sn": "42932",
         "begin": "2025-04-18T16:00:00.000Z",
-        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D",
-        "video_sn": "42932"
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -335,9 +335,9 @@
       {
         "site": "gamer_hk",
         "id": "140244",
+        "video_sn": "43965",
         "begin": "2025-07-05T15:00:00.000Z",
-        "broadcast": "R/2025-07-05T15:00:00.000Z/P7D",
-        "video_sn": "43965"
+        "broadcast": "R/2025-07-05T15:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -354,9 +354,9 @@
       {
         "site": "bilibili",
         "id": "26648621",
+        "season_id": "102246",
         "begin": "",
-        "broadcast": "",
-        "season_id": "102246"
+        "broadcast": ""
       },
       {
         "site": "danime",

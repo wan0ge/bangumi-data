@@ -265,9 +265,9 @@
       {
         "site": "gamer",
         "id": "38165",
+        "video_sn": "24296",
         "begin": "2021-08-06T07:00:00.000Z",
-        "broadcast": "R/2021-08-06T07:00:00.000Z/P7D",
-        "video_sn": "24296"
+        "broadcast": "R/2021-08-06T07:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -313,9 +313,9 @@
       {
         "site": "bilibili",
         "id": "2853",
+        "season_id": "2853",
         "begin": "2021-03-01T07:04:00.000Z",
-        "broadcast": "R/2021-03-01T07:04:00.000Z/P7D",
-        "season_id": "2853"
+        "broadcast": "R/2021-03-01T07:04:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -356,9 +356,9 @@
       {
         "site": "bilibili",
         "id": "3396",
+        "season_id": "3396",
         "begin": "2016-03-08T07:04:00.000Z",
-        "broadcast": "R/2016-03-08T07:04:00.000Z/P7D",
-        "season_id": "3396"
+        "broadcast": "R/2016-03-08T07:04:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -399,9 +399,9 @@
       {
         "site": "bilibili",
         "id": "5002",
+        "season_id": "5002",
         "begin": "2016-06-21T03:12:00.000Z",
-        "broadcast": "R/2016-06-21T03:12:00.000Z/P7D",
-        "season_id": "5002"
+        "broadcast": "R/2016-06-21T03:12:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -442,9 +442,9 @@
       {
         "site": "bilibili",
         "id": "5004",
+        "season_id": "5004",
         "begin": "2016-06-21T03:20:00.000Z",
-        "broadcast": "R/2016-06-21T03:20:00.000Z/P7D",
-        "season_id": "5004"
+        "broadcast": "R/2016-06-21T03:20:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -473,9 +473,9 @@
       {
         "site": "bilibili",
         "id": "2166",
+        "season_id": "2166",
         "begin": "2014-03-13T14:14:00.000Z",
-        "broadcast": "R/2014-03-13T14:14:00.000Z/P7D",
-        "season_id": "2166"
+        "broadcast": "R/2014-03-13T14:14:00.000Z/P7D"
       },
       {
         "site": "danime",

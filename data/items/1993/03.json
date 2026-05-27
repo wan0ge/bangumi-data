@@ -225,9 +225,9 @@
       {
         "site": "bilibili",
         "id": "2561",
+        "season_id": "2561",
         "begin": "1993-03-05T16:00:00.000Z",
-        "broadcast": "R/2015-03-06T07:43:00.000Z/P7D",
-        "season_id": "2561"
+        "broadcast": "R/2015-03-06T07:43:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -244,9 +244,9 @@
       {
         "site": "gamer",
         "id": "32673",
+        "video_sn": "24962",
         "begin": "2023-03-16T02:00:00.000Z",
-        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D",
-        "video_sn": "24962"
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
       },
       {
         "site": "prime",

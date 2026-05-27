@@ -61,9 +61,9 @@
       {
         "site": "bilibili",
         "id": "3226",
+        "season_id": "3226",
         "begin": "2009-12-31T16:00:01.000Z",
-        "broadcast": "R/2015-12-20T07:11:00.000Z/P7D",
-        "season_id": "3226"
+        "broadcast": "R/2015-12-20T07:11:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -138,9 +138,9 @@
       {
         "site": "bilibili",
         "id": "5410",
+        "season_id": "5410",
         "begin": "2016-08-01T02:43:15.000Z",
-        "broadcast": "R/2016-08-01T02:43:15.000Z/P7D",
-        "season_id": "5410"
+        "broadcast": "R/2016-08-01T02:43:15.000Z/P7D"
       },
       {
         "site": "tmdb",

@@ -65,9 +65,9 @@
       {
         "site": "gamer_hk",
         "id": "142775",
+        "video_sn": "43983",
         "begin": "2025-06-27T15:00:00.000Z",
-        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D",
-        "video_sn": "43983"
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -88,9 +88,9 @@
       {
         "site": "gamer",
         "id": "142775",
+        "video_sn": "43983",
         "begin": "2025-06-27T15:00:00.000Z",
-        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D",
-        "video_sn": "43983"
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
       },
       {
         "site": "prime",

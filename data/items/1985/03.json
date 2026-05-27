@@ -25,9 +25,9 @@
       {
         "site": "bilibili",
         "id": "2425",
+        "season_id": "2425",
         "begin": "2013-03-20T13:52:00.000Z",
-        "broadcast": "R/2013-03-20T13:52:00.000Z/P7D",
-        "season_id": "2425"
+        "broadcast": "R/2013-03-20T13:52:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -148,9 +148,9 @@
       {
         "site": "bilibili",
         "id": "2553",
+        "season_id": "2553",
         "begin": "1985-03-15T16:00:00.000Z",
-        "broadcast": "R/2015-02-28T06:01:17.000Z/P7D",
-        "season_id": "2553"
+        "broadcast": "R/2015-02-28T06:01:17.000Z/P7D"
       },
       {
         "site": "abema",
@@ -258,10 +258,10 @@
       {
         "site": "bilibili",
         "id": "1805",
+        "season_id": "1805",
         "begin": "2015-04-20T07:47:00.000Z",
         "broadcast": "R/2015-04-20T07:47:00.000Z/P7D",
-        "comment": "第二季: 1806, 第三季: 1807",
-        "season_id": "1805"
+        "comment": "第二季: 1806, 第三季: 1807"
       },
       {
         "site": "crunchyroll",
@@ -304,9 +304,9 @@
       {
         "site": "bilibili",
         "id": "4312222",
+        "season_id": "26136",
         "begin": "2018-11-21T06:08:00.000Z",
-        "broadcast": "R/2018-11-21T06:08:00.000Z/P7D",
-        "season_id": "26136"
+        "broadcast": "R/2018-11-21T06:08:00.000Z/P7D"
       },
       {
         "site": "unext",

@@ -24,8 +24,8 @@
       {
         "site": "bilibili",
         "id": "3935",
-        "begin": "1993-07-22T16:00:01.000Z",
-        "season_id": "3935"
+        "season_id": "3935",
+        "begin": "1993-07-22T16:00:01.000Z"
       },
       {
         "site": "unext",
@@ -187,8 +187,8 @@
       {
         "site": "bilibili",
         "id": "18452",
-        "begin": "1993-07-23T16:00:01.000Z",
-        "season_id": "3868"
+        "season_id": "3868",
+        "begin": "1993-07-23T16:00:01.000Z"
       },
       {
         "site": "youku",
@@ -210,9 +210,9 @@
       {
         "site": "gamer",
         "id": "197",
+        "video_sn": "769",
         "begin": "2024-02-01T04:00:00.000Z",
-        "broadcast": "R/2024-02-01T04:00:00.000Z/P7D",
-        "video_sn": "769"
+        "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",

@@ -113,9 +113,9 @@
       {
         "site": "bilibili",
         "id": "3982",
+        "season_id": "3982",
         "begin": "2016-05-12T06:25:00.000Z",
-        "broadcast": "R/2016-05-12T06:25:00.000Z/P7D",
-        "season_id": "3982"
+        "broadcast": "R/2016-05-12T06:25:00.000Z/P7D"
       },
       {
         "site": "tmdb",

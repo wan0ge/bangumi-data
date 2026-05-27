@@ -20,9 +20,9 @@
       {
         "site": "bilibili",
         "id": "2143",
+        "season_id": "2143",
         "begin": "2000-10-03T16:00:00.000Z",
-        "broadcast": "R/2014-08-07T12:38:00.000Z/P7D",
-        "season_id": "2143"
+        "broadcast": "R/2014-08-07T12:38:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -70,10 +70,10 @@
       {
         "site": "bilibili",
         "id": "2081",
+        "season_id": "2081",
         "begin": "2000-10-07T16:00:00.000Z",
         "broadcast": "R/2012-02-29T08:18:07.000Z/P7D",
-        "comment": "哔哩哔哩番剧版: 28234174",
-        "season_id": "2081"
+        "comment": "哔哩哔哩番剧版: 28234174"
       },
       {
         "site": "unext",
@@ -168,9 +168,9 @@
       {
         "site": "bilibili",
         "id": "500",
+        "season_id": "500",
         "begin": "2000-10-02T16:00:00.000Z",
-        "broadcast": "R/2012-07-12T04:06:00.000Z/P7D",
-        "season_id": "500"
+        "broadcast": "R/2012-07-12T04:06:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -186,9 +186,9 @@
       {
         "site": "gamer_hk",
         "id": "19368",
+        "video_sn": "23028",
         "begin": "2021-06-01T03:00:00.000Z",
-        "broadcast": "R/2021-06-01T03:00:00.000Z/P7D",
-        "video_sn": "23028"
+        "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -205,9 +205,9 @@
       {
         "site": "gamer",
         "id": "19368",
+        "video_sn": "23028",
         "begin": "2021-06-01T03:00:00.000Z",
-        "broadcast": "R/2021-06-01T03:00:00.000Z/P7D",
-        "video_sn": "23028"
+        "broadcast": "R/2021-06-01T03:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -256,9 +256,9 @@
       {
         "site": "bilibili",
         "id": "2161",
+        "season_id": "2161",
         "begin": "2000-10-02T16:00:00.000Z",
-        "broadcast": "R/2012-11-15T17:04:33.000Z/P7D",
-        "season_id": "2161"
+        "broadcast": "R/2012-11-15T17:04:33.000Z/P7D"
       },
       {
         "site": "unext",
@@ -321,9 +321,9 @@
       {
         "site": "bilibili",
         "id": "28222083",
+        "season_id": "28324",
         "begin": "2019-11-01T09:52:00.000Z",
-        "broadcast": "R/2019-11-01T09:52:00.000Z/P7D",
-        "season_id": "28324"
+        "broadcast": "R/2019-11-01T09:52:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -335,9 +335,9 @@
       {
         "site": "gamer",
         "id": "16603",
+        "video_sn": "16983",
         "begin": "2024-06-14T04:00:00.000Z",
-        "broadcast": "R/2024-06-14T04:00:00.000Z/P7D",
-        "video_sn": "16983"
+        "broadcast": "R/2024-06-14T04:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -510,9 +510,9 @@
       {
         "site": "bilibili",
         "id": "2171",
+        "season_id": "2171",
         "begin": "2000-10-21T16:00:00.000Z",
-        "broadcast": "R/2012-05-09T09:46:00.000Z/P7D",
-        "season_id": "2171"
+        "broadcast": "R/2012-05-09T09:46:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -613,9 +613,9 @@
       {
         "site": "bilibili",
         "id": "2168",
+        "season_id": "2168",
         "begin": "2000-10-04T16:00:00.000Z",
-        "broadcast": "R/2010-10-11T13:29:00.000Z/P7D",
-        "season_id": "2168"
+        "broadcast": "R/2010-10-11T13:29:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -765,9 +765,9 @@
       {
         "site": "bilibili",
         "id": "3760",
+        "season_id": "3760",
         "begin": "2000-10-20T16:00:01.000Z",
-        "broadcast": "R/2016-04-16T10:35:14.000Z/P7D",
-        "season_id": "3760"
+        "broadcast": "R/2016-04-16T10:35:14.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -807,9 +807,9 @@
       {
         "site": "bilibili",
         "id": "2156",
+        "season_id": "2156",
         "begin": "2014-03-14T06:23:00.000Z",
-        "broadcast": "R/2014-03-14T06:23:00.000Z/P7D",
-        "season_id": "2156"
+        "broadcast": "R/2014-03-14T06:23:00.000Z/P7D"
       },
       {
         "site": "unext",

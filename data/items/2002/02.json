@@ -72,9 +72,9 @@
       {
         "site": "bilibili",
         "id": "1943",
+        "season_id": "1943",
         "begin": "2002-02-02T16:00:00.000Z",
-        "broadcast": "",
-        "season_id": "1943"
+        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -160,9 +160,9 @@
       {
         "site": "bilibili",
         "id": "5255",
+        "season_id": "5255",
         "begin": "2016-07-20T06:16:00.000Z",
-        "broadcast": "R/2016-07-20T06:16:00.000Z/P7D",
-        "season_id": "5255"
+        "broadcast": "R/2016-07-20T06:16:00.000Z/P7D"
       },
       {
         "site": "tmdb",

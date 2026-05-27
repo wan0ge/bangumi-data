@@ -53,8 +53,8 @@
       {
         "site": "bilibili",
         "id": "5069",
-        "begin": "2016-07-10T17:35:00.000Z",
-        "season_id": "5069"
+        "season_id": "5069",
+        "begin": "2016-07-10T17:35:00.000Z"
       },
       {
         "site": "mal",
@@ -278,8 +278,8 @@
       {
         "site": "bilibili",
         "id": "3833",
-        "begin": "2013-08-23T16:00:01.000Z",
-        "season_id": "3833"
+        "season_id": "3833",
+        "begin": "2013-08-23T16:00:01.000Z"
       },
       {
         "site": "youku",
@@ -337,8 +337,8 @@
       {
         "site": "bilibili",
         "id": "8292",
-        "begin": "2013-08-30T16:00:00.000Z",
-        "season_id": "3441"
+        "season_id": "3441",
+        "begin": "2013-08-30T16:00:00.000Z"
       },
       {
         "site": "abema",
@@ -466,8 +466,8 @@
       {
         "site": "bilibili",
         "id": "2857",
-        "begin": "2013-08-11T16:00:00.000Z",
-        "season_id": "2857"
+        "season_id": "2857",
+        "begin": "2013-08-11T16:00:00.000Z"
       },
       {
         "site": "youku",
@@ -500,8 +500,8 @@
       {
         "site": "bilibili",
         "id": "4398",
-        "begin": "2013-08-05T16:00:01.000Z",
-        "season_id": "4398"
+        "season_id": "4398",
+        "begin": "2013-08-05T16:00:01.000Z"
       },
       {
         "site": "youku",

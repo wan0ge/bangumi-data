@@ -137,9 +137,9 @@
       {
         "site": "bilibili",
         "id": "2550",
+        "season_id": "2550",
         "begin": "1981-03-13T16:00:00.000Z",
-        "broadcast": "R/2015-02-13T08:01:00.000Z/P7D",
-        "season_id": "2550"
+        "broadcast": "R/2015-02-13T08:01:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -275,9 +275,9 @@
       {
         "site": "bilibili",
         "id": "5598",
+        "season_id": "5598",
         "begin": "2016-10-17T05:30:33.000Z",
-        "broadcast": "R/2016-10-17T05:30:33.000Z/P7D",
-        "season_id": "5598"
+        "broadcast": "R/2016-10-17T05:30:33.000Z/P7D"
       },
       {
         "site": "danime",

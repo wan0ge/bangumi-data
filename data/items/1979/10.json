@@ -25,9 +25,9 @@
       {
         "site": "bilibili",
         "id": "2458",
+        "season_id": "2458",
         "begin": "1979-10-09T16:00:00.000Z",
-        "broadcast": "R/2021-03-31T09:13:00.000Z/P7D",
-        "season_id": "2458"
+        "broadcast": "R/2021-03-31T09:13:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -49,9 +49,9 @@
       {
         "site": "gamer",
         "id": "25078",
+        "video_sn": "43030",
         "begin": "2025-04-25T16:00:00.000Z",
-        "broadcast": "R/2025-04-25T16:00:00.000Z/P7D",
-        "video_sn": "43030"
+        "broadcast": "R/2025-04-25T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -98,9 +98,9 @@
       {
         "site": "bilibili",
         "id": "6160",
+        "season_id": "6160",
         "begin": "2017-05-09T05:48:00.000Z",
-        "broadcast": "R/2017-05-09T05:48:00.000Z/P7D",
-        "season_id": "6160"
+        "broadcast": "R/2017-05-09T05:48:00.000Z/P7D"
       },
       {
         "site": "unext",

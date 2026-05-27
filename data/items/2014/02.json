@@ -131,9 +131,9 @@
       {
         "site": "bilibili",
         "id": "5476",
+        "season_id": "5476",
         "begin": "2014-02-07T16:00:01.000Z",
-        "broadcast": "R/2016-08-29T03:00:00.000Z/P7D",
-        "season_id": "5476"
+        "broadcast": "R/2016-08-29T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -287,9 +287,9 @@
       {
         "site": "bilibili",
         "id": "3446",
+        "season_id": "3446",
         "begin": "2013-12-14T16:00:00.000Z",
-        "broadcast": "R/2016-03-17T08:21:00.000Z/P7D",
-        "season_id": "3446"
+        "broadcast": "R/2016-03-17T08:21:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -388,9 +388,9 @@
       {
         "site": "bilibili",
         "id": "3419",
+        "season_id": "3419",
         "begin": "2014-02-12T16:00:01.000Z",
-        "broadcast": "R/2016-03-11T08:39:00.000Z/P7D",
-        "season_id": "3419"
+        "broadcast": "R/2016-03-11T08:39:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -446,9 +446,9 @@
       {
         "site": "bilibili",
         "id": "4236",
+        "season_id": "4236",
         "begin": "2014-02-21T16:00:00.000Z",
-        "broadcast": "R/2016-05-31T07:37:17.000Z/P7D",
-        "season_id": "4236"
+        "broadcast": "R/2016-05-31T07:37:17.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -489,9 +489,9 @@
       {
         "site": "bilibili",
         "id": "96632",
+        "season_id": "3536",
         "begin": "2014-02-21T16:00:00.000Z",
-        "broadcast": "",
-        "season_id": "3536"
+        "broadcast": ""
       },
       {
         "site": "unext",

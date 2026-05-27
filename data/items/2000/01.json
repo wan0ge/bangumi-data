@@ -65,9 +65,9 @@
       {
         "site": "bilibili",
         "id": "2151",
+        "season_id": "2151",
         "begin": "2000-01-25T16:00:00.000Z",
-        "broadcast": "R/2016-05-05T06:35:00.000Z/P7D",
-        "season_id": "2151"
+        "broadcast": "R/2016-05-05T06:35:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -112,9 +112,9 @@
       {
         "site": "bilibili",
         "id": "2167",
+        "season_id": "2167",
         "begin": "2000-01-09T16:00:00.000Z",
-        "broadcast": "R/2014-04-12T01:00:00.000Z/P7D",
-        "season_id": "2167"
+        "broadcast": "R/2014-04-12T01:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -154,9 +154,9 @@
       {
         "site": "bilibili",
         "id": "2150",
+        "season_id": "2150",
         "begin": "2000-01-04T16:00:00.000Z",
-        "broadcast": "R/2012-10-15T10:38:00.000Z/P7D",
-        "season_id": "2150"
+        "broadcast": "R/2012-10-15T10:38:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -213,9 +213,9 @@
       {
         "site": "bilibili",
         "id": "3957",
+        "season_id": "3957",
         "begin": "2016-05-04T08:35:16.000Z",
-        "broadcast": "R/2016-05-04T08:35:16.000Z/P7D",
-        "season_id": "3957"
+        "broadcast": "R/2016-05-04T08:35:16.000Z/P7D"
       },
       {
         "site": "danime",

@@ -17,9 +17,9 @@
       {
         "site": "bilibili",
         "id": "84",
+        "season_id": "84",
         "begin": "2014-08-04T16:00:00.000Z",
-        "broadcast": "R/2014-08-13T01:20:00.000Z/P7D",
-        "season_id": "84"
+        "broadcast": "R/2014-08-13T01:20:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -187,9 +187,9 @@
       {
         "site": "bilibili",
         "id": "28236943",
+        "season_id": "41235",
         "begin": "",
-        "broadcast": "",
-        "season_id": "41235"
+        "broadcast": ""
       },
       {
         "site": "tmdb",
@@ -229,9 +229,9 @@
       {
         "site": "bilibili",
         "id": "3837",
+        "season_id": "3837",
         "begin": "2014-08-28T16:00:01.000Z",
-        "broadcast": "R/2016-04-25T03:54:00.000Z/P7D",
-        "season_id": "3837"
+        "broadcast": "R/2016-04-25T03:54:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -273,9 +273,9 @@
       {
         "site": "bilibili",
         "id": "28233695",
+        "season_id": "5571",
         "begin": "2021-02-18T04:25:00.000Z",
-        "broadcast": "R/2021-02-18T04:25:00.000Z/P7D",
-        "season_id": "5571"
+        "broadcast": "R/2021-02-18T04:25:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -334,16 +334,16 @@
       {
         "site": "bilibili",
         "id": "3838",
+        "season_id": "3838",
         "begin": "2014-08-22T16:00:01.000Z",
-        "broadcast": "R/2021-05-16T10:00:00.000Z/P7D",
-        "season_id": "3838"
+        "broadcast": "R/2021-05-16T10:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28221627",
+        "season_id": "28150",
         "begin": "2019-07-17T06:32:31.000Z",
-        "broadcast": "R/2019-07-17T06:32:31.000Z/P7D",
-        "season_id": "28150"
+        "broadcast": "R/2019-07-17T06:32:31.000Z/P7D"
       },
       {
         "site": "unext",
@@ -401,9 +401,9 @@
       {
         "site": "bilibili",
         "id": "3782",
+        "season_id": "3782",
         "begin": "2014-08-24T16:00:01.000Z",
-        "broadcast": "R/2016-04-19T05:58:00.000Z/P7D",
-        "season_id": "3782"
+        "broadcast": "R/2016-04-19T05:58:00.000Z/P7D"
       },
       {
         "site": "tmdb",

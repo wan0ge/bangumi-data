@@ -133,9 +133,9 @@
       {
         "site": "bilibili",
         "id": "2426",
+        "season_id": "2426",
         "begin": "2013-02-25T15:50:34.000Z",
-        "broadcast": "R/2013-02-25T15:50:34.000Z/P7D",
-        "season_id": "2426"
+        "broadcast": "R/2013-02-25T15:50:34.000Z/P7D"
       },
       {
         "site": "tmdb",

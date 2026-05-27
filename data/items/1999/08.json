@@ -34,9 +34,9 @@
       {
         "site": "bilibili",
         "id": "2270",
+        "season_id": "2270",
         "begin": "2011-02-25T16:48:00.000Z",
-        "broadcast": "R/2011-02-25T16:48:00.000Z/P7D",
-        "season_id": "2270"
+        "broadcast": "R/2011-02-25T16:48:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -111,9 +111,9 @@
       {
         "site": "bilibili",
         "id": "5475",
+        "season_id": "5475",
         "begin": "2016-08-29T02:19:00.000Z",
-        "broadcast": "R/2016-08-29T02:19:00.000Z/P7D",
-        "season_id": "5475"
+        "broadcast": "R/2016-08-29T02:19:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -161,9 +161,9 @@
       {
         "site": "bilibili",
         "id": "2493",
+        "season_id": "2493",
         "begin": "2019-05-13T01:49:41.000Z",
-        "broadcast": "R/2019-05-13T01:49:41.000Z/P7D",
-        "season_id": "2493"
+        "broadcast": "R/2019-05-13T01:49:41.000Z/P7D"
       },
       {
         "site": "unext",

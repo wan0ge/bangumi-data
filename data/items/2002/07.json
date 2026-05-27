@@ -71,8 +71,8 @@
       {
         "site": "bilibili",
         "id": "3950",
-        "begin": "2002-07-25T16:00:01.000Z",
-        "season_id": "3950"
+        "season_id": "3950",
+        "begin": "2002-07-25T16:00:01.000Z"
       },
       {
         "site": "unext",
@@ -127,8 +127,8 @@
       {
         "site": "bilibili",
         "id": "2028",
-        "begin": "2002-07-01T16:00:00.000Z",
-        "season_id": "2028"
+        "season_id": "2028",
+        "begin": "2002-07-01T16:00:00.000Z"
       },
       {
         "site": "danime",
@@ -174,8 +174,8 @@
       {
         "site": "bilibili",
         "id": "5139",
-        "begin": "2004-07-18T16:00:01.000Z",
-        "season_id": "5139"
+        "season_id": "5139",
+        "begin": "2004-07-18T16:00:01.000Z"
       },
       {
         "site": "danime",
@@ -221,8 +221,8 @@
       {
         "site": "bilibili",
         "id": "2024",
-        "begin": "2002-07-02T16:00:00.000Z",
-        "season_id": "2024"
+        "season_id": "2024",
+        "begin": "2002-07-02T16:00:00.000Z"
       },
       {
         "site": "danime",
@@ -273,8 +273,8 @@
       {
         "site": "bilibili",
         "id": "2026",
-        "begin": "2002-07-03T16:00:00.000Z",
-        "season_id": "2026"
+        "season_id": "2026",
+        "begin": "2002-07-03T16:00:00.000Z"
       },
       {
         "site": "tmdb",
@@ -376,8 +376,8 @@
       {
         "site": "bilibili",
         "id": "5755",
-        "begin": "2002-07-12T16:00:01.000Z",
-        "season_id": "5755"
+        "season_id": "5755",
+        "begin": "2002-07-12T16:00:01.000Z"
       },
       {
         "site": "unext",

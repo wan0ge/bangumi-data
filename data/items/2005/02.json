@@ -19,10 +19,10 @@
       {
         "site": "bilibili",
         "id": "4313382",
+        "season_id": "26180",
         "begin": "2018-11-29T09:34:32.000Z",
         "broadcast": "R/2018-11-29T09:34:32.000Z/P7D",
-        "comment": "第三季: 4313402",
-        "season_id": "26180"
+        "comment": "第三季: 4313402"
       },
       {
         "site": "unext",
@@ -137,9 +137,9 @@
       {
         "site": "bilibili",
         "id": "1373",
+        "season_id": "1373",
         "begin": "2005-02-04T16:00:00.000Z",
-        "broadcast": "R/2014-04-11T01:46:00.000Z/P7D",
-        "season_id": "1373"
+        "broadcast": "R/2014-04-11T01:46:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -210,9 +210,9 @@
       {
         "site": "bilibili",
         "id": "1593",
+        "season_id": "1593",
         "begin": "2005-02-06T16:00:00.000Z",
-        "broadcast": "R/2015-01-20T05:51:22.000Z/P7D",
-        "season_id": "1593"
+        "broadcast": "R/2015-01-20T05:51:22.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -245,9 +245,9 @@
       {
         "site": "gamer",
         "id": "20850",
+        "video_sn": "43183",
         "begin": "2025-04-26T14:00:00.000Z",
-        "broadcast": "R/2025-04-26T14:00:00.000Z/P7D",
-        "video_sn": "43183"
+        "broadcast": "R/2025-04-26T14:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -344,9 +344,9 @@
       {
         "site": "bilibili",
         "id": "3783",
+        "season_id": "3783",
         "begin": "2005-02-04T16:00:01.000Z",
-        "broadcast": "R/2016-04-19T06:15:58.000Z/P7D",
-        "season_id": "3783"
+        "broadcast": "R/2016-04-19T06:15:58.000Z/P7D"
       },
       {
         "site": "unext",
@@ -401,9 +401,9 @@
       {
         "site": "bilibili",
         "id": "3583",
+        "season_id": "3583",
         "begin": "2016-04-13T07:49:00.000Z",
-        "broadcast": "R/2016-04-13T07:49:00.000Z/P7D",
-        "season_id": "3583"
+        "broadcast": "R/2016-04-13T07:49:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -455,9 +455,9 @@
       {
         "site": "bilibili",
         "id": "5100",
+        "season_id": "5100",
         "begin": "2016-06-23T09:19:00.000Z",
-        "broadcast": "R/2016-06-23T09:19:00.000Z/P7D",
-        "season_id": "5100"
+        "broadcast": "R/2016-06-23T09:19:00.000Z/P7D"
       },
       {
         "site": "unext",

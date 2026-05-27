@@ -34,9 +34,9 @@
       {
         "site": "bilibili",
         "id": "80072",
+        "season_id": "23910",
         "begin": "2017-09-12T16:00:00.000Z",
-        "broadcast": "R/2018-03-27T02:43:00.000Z/P7D",
-        "season_id": "23910"
+        "broadcast": "R/2018-03-27T02:43:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -146,9 +146,9 @@
       {
         "site": "bilibili",
         "id": "28234787",
+        "season_id": "39095",
         "begin": "2021-07-11T03:00:01.000Z",
-        "broadcast": "R/2021-07-11T03:00:01.000Z/P7D",
-        "season_id": "39095"
+        "broadcast": "R/2021-07-11T03:00:01.000Z/P7D"
       },
       {
         "site": "unext",
@@ -208,9 +208,9 @@
       {
         "site": "bilibili",
         "id": "83872",
+        "season_id": "23978",
         "begin": "2017-09-14T16:00:00.000Z",
-        "broadcast": "R/2018-04-13T04:05:00.000Z/P7D",
-        "season_id": "23978"
+        "broadcast": "R/2018-04-13T04:05:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -238,16 +238,16 @@
       {
         "site": "gamer",
         "id": "89275",
+        "video_sn": "37606",
         "begin": "2024-02-27T04:00:00.000Z",
-        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D",
-        "video_sn": "37606"
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "89275",
+        "video_sn": "37606",
         "begin": "2024-02-27T04:00:00.000Z",
-        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D",
-        "video_sn": "37606"
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -300,9 +300,9 @@
       {
         "site": "bilibili",
         "id": "82712",
+        "season_id": "23979",
         "begin": "2017-09-28T16:00:00.000Z",
-        "broadcast": "R/2018-04-13T06:03:00.000Z/P7D",
-        "season_id": "23979"
+        "broadcast": "R/2018-04-13T06:03:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -330,16 +330,16 @@
       {
         "site": "gamer",
         "id": "91638",
+        "video_sn": "37607",
         "begin": "2024-02-27T04:00:00.000Z",
-        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D",
-        "video_sn": "37607"
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "91638",
+        "video_sn": "37607",
         "begin": "2024-02-27T04:00:00.000Z",
-        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D",
-        "video_sn": "37607"
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -386,9 +386,9 @@
       {
         "site": "bilibili",
         "id": "28223447",
+        "season_id": "28950",
         "begin": "2017-09-29T16:00:00.000Z",
-        "broadcast": "R/2019-11-22T10:00:00.000Z/P7D",
-        "season_id": "28950"
+        "broadcast": "R/2019-11-22T10:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -451,9 +451,9 @@
       {
         "site": "bilibili",
         "id": "6414",
+        "season_id": "6414",
         "begin": "2017-09-07T16:00:00.000Z",
-        "broadcast": "R/2017-09-08T02:30:00.000Z/P7D",
-        "season_id": "6414"
+        "broadcast": "R/2017-09-08T02:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -462,18 +462,18 @@
       {
         "site": "gamer",
         "id": "91344",
+        "video_sn": "8716",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D",
-        "comment": "-Amor Primus ～初戀～, 剎那永恆的初吻: 94679, 夏凜前輩不可告人的祕密: 98322",
-        "video_sn": "8716"
+        "comment": "-Amor Primus ～初戀～, 剎那永恆的初吻: 94679, 夏凜前輩不可告人的祕密: 98322"
       },
       {
         "site": "gamer_hk",
         "id": "91344",
+        "video_sn": "8716",
         "begin": "2024-07-15T03:00:00.000Z",
         "broadcast": "R/2024-07-15T03:00:00.000Z/P7D",
-        "comment": "-Amor Primus ～初戀～, 剎那永恆的初吻: 94679, 夏凜前輩不可告人的祕密: 98322",
-        "video_sn": "8716"
+        "comment": "-Amor Primus ～初戀～, 剎那永恆的初吻: 94679, 夏凜前輩不可告人的祕密: 98322"
       },
       {
         "site": "tmdb",
@@ -554,16 +554,16 @@
       {
         "site": "gamer_hk",
         "id": "51101",
+        "video_sn": "39565",
         "begin": "2024-08-23T04:00:00.000Z",
-        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D",
-        "video_sn": "39565"
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "51101",
+        "video_sn": "39565",
         "begin": "2024-08-23T04:00:00.000Z",
-        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D",
-        "video_sn": "39565"
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

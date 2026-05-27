@@ -42,9 +42,9 @@
       {
         "site": "gamer",
         "id": "104065",
+        "video_sn": "12647",
         "begin": "2019-07-04T16:00:00.000Z",
-        "broadcast": "R/2019-07-04T16:00:00.000Z/P7D",
-        "video_sn": "12647"
+        "broadcast": "R/2019-07-04T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -63,9 +63,9 @@
       {
         "site": "gamer_hk",
         "id": "104065",
+        "video_sn": "12647",
         "begin": "2019-07-04T16:00:00.000Z",
-        "broadcast": "R/2019-07-04T16:00:00.000Z/P7D",
-        "video_sn": "12647"
+        "broadcast": "R/2019-07-04T16:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -132,9 +132,9 @@
       {
         "site": "bilibili",
         "id": "28221395",
+        "season_id": "27999",
         "begin": "2019-07-06T16:00:01.000Z",
-        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D",
-        "season_id": "27999"
+        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -160,9 +160,9 @@
       {
         "site": "gamer",
         "id": "94033",
+        "video_sn": "12678",
         "begin": "2019-07-12T17:00:00.000Z",
-        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D",
-        "video_sn": "12678"
+        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -179,9 +179,9 @@
       {
         "site": "gamer_hk",
         "id": "94033",
+        "video_sn": "12678",
         "begin": "2019-07-12T17:00:00.000Z",
-        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D",
-        "video_sn": "12678"
+        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -328,9 +328,9 @@
       {
         "site": "bilibili",
         "id": "28221399",
+        "season_id": "28002",
         "begin": "2019-07-11T16:00:01.000Z",
-        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D",
-        "season_id": "28002"
+        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -341,9 +341,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221522",
+        "season_id": "28066",
         "begin": "2019-07-12T17:00:00.000Z",
-        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D",
-        "season_id": "28066"
+        "broadcast": "R/2019-07-12T17:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -419,9 +419,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221400",
+        "season_id": "28003",
         "begin": "2019-07-12T16:30:00.000Z",
-        "broadcast": "R/2019-07-12T16:30:00.000Z/P7D",
-        "season_id": "28003"
+        "broadcast": "R/2019-07-12T16:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -487,9 +487,9 @@
       {
         "site": "bilibili",
         "id": "28221403",
+        "season_id": "28006",
         "begin": "2019-07-06T16:00:01.000Z",
-        "broadcast": "R/2019-07-07T15:00:00.000Z/P7D",
-        "season_id": "28006"
+        "broadcast": "R/2019-07-07T15:00:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -568,9 +568,9 @@
       {
         "site": "bilibili",
         "id": "28221415",
+        "season_id": "28016",
         "begin": "2019-07-05T14:00:00.000Z",
-        "broadcast": "R/2019-07-05T14:00:00.000Z/P7D",
-        "season_id": "28016"
+        "broadcast": "R/2019-07-05T14:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -581,16 +581,16 @@
       {
         "site": "gamer",
         "id": "102289",
+        "video_sn": "12651",
         "begin": "2019-07-05T14:00:00.000Z",
-        "broadcast": "R/2019-07-05T14:00:00.000Z/P7D",
-        "video_sn": "12651"
+        "broadcast": "R/2019-07-05T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
         "id": "28221525",
+        "season_id": "28068",
         "begin": "2019-07-05T14:00:00.000Z",
-        "broadcast": "R/2019-07-05T14:00:00.000Z/P7D",
-        "season_id": "28068"
+        "broadcast": "R/2019-07-05T14:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -667,9 +667,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221414",
+        "season_id": "28015",
         "begin": "2019-07-08T12:30:00.000Z",
-        "broadcast": "R/2019-07-08T12:30:00.000Z/P7D",
-        "season_id": "28015"
+        "broadcast": "R/2019-07-08T12:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -734,9 +734,9 @@
       {
         "site": "bilibili",
         "id": "28221390",
+        "season_id": "27995",
         "begin": "2019-07-08T15:30:00.000Z",
-        "broadcast": "R/2019-07-08T15:30:00.000Z/P7D",
-        "season_id": "27995"
+        "broadcast": "R/2019-07-08T15:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -897,9 +897,9 @@
       {
         "site": "bilibili",
         "id": "28221401",
+        "season_id": "28004",
         "begin": "2019-07-03T16:00:00.000Z",
-        "broadcast": "R/2019-07-03T16:00:00.000Z/P7D",
-        "season_id": "28004"
+        "broadcast": "R/2019-07-03T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -910,9 +910,9 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28221482",
+        "season_id": "28050",
         "begin": "2019-07-03T16:00:03.000Z",
-        "broadcast": "R/2019-07-03T16:00:03.000Z/P7D",
-        "season_id": "28050"
+        "broadcast": "R/2019-07-03T16:00:03.000Z/P7D"
       },
       {
         "site": "unext",
@@ -985,16 +985,16 @@
       {
         "site": "bilibili",
         "id": "28221412",
+        "season_id": "28013",
         "begin": "2019-07-03T14:30:00.000Z",
-        "broadcast": "R/2019-07-03T14:30:00.000Z/P7D",
-        "season_id": "28013"
+        "broadcast": "R/2019-07-03T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28221517",
+        "season_id": "28063",
         "begin": "2019-07-03T14:30:00.000Z",
-        "broadcast": "R/2019-07-03T14:30:00.000Z/P7D",
-        "season_id": "28063"
+        "broadcast": "R/2019-07-03T14:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1017,16 +1017,16 @@
       {
         "site": "gamer",
         "id": "103449",
+        "video_sn": "12644",
         "begin": "2026-01-02T04:00:00.000Z",
-        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D",
-        "video_sn": "12644"
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "103449",
+        "video_sn": "12644",
         "begin": "2026-01-02T04:00:00.000Z",
-        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D",
-        "video_sn": "12644"
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -1066,9 +1066,9 @@
       {
         "site": "bilibili",
         "id": "28221396",
+        "season_id": "28000",
         "begin": "2019-07-06T16:00:01.000Z",
-        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D",
-        "season_id": "28000"
+        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1100,16 +1100,16 @@
       {
         "site": "gamer",
         "id": "97962",
+        "video_sn": "12663",
         "begin": "2019-07-07T14:30:00.000Z",
-        "broadcast": "R/2019-07-07T14:30:00.000Z/P7D",
-        "video_sn": "12663"
+        "broadcast": "R/2019-07-07T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
         "id": "28221523",
+        "season_id": "28067",
         "begin": "2019-07-07T14:00:00.000Z",
-        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D",
-        "season_id": "28067"
+        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1181,9 +1181,9 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28221418",
+        "season_id": "28019",
         "begin": "2019-07-02T14:30:00.000Z",
-        "broadcast": "R/2019-07-02T14:30:00.000Z/P7D",
-        "season_id": "28019"
+        "broadcast": "R/2019-07-02T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1260,9 +1260,9 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28221411",
+        "season_id": "28012",
         "begin": "2019-07-02T14:30:00.000Z",
-        "broadcast": "R/2019-07-02T14:30:00.000Z/P7D",
-        "season_id": "28012"
+        "broadcast": "R/2019-07-02T14:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1347,9 +1347,9 @@
       {
         "site": "gamer",
         "id": "104230",
+        "video_sn": "35192",
         "begin": "2023-09-22T04:00:00.000Z",
-        "broadcast": "R/2023-09-22T04:00:00.000Z/P7D",
-        "video_sn": "35192"
+        "broadcast": "R/2023-09-22T04:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1419,9 +1419,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221421",
+        "season_id": "28022",
         "begin": "2019-07-05T18:55:00.000Z",
-        "broadcast": "R/2019-07-05T18:55:00.000Z/P7D",
-        "season_id": "28022"
+        "broadcast": "R/2019-07-05T18:55:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1488,9 +1488,9 @@
       {
         "site": "bilibili",
         "id": "28221335",
+        "season_id": "27959",
         "begin": "2019-07-05T17:00:00.000Z",
-        "broadcast": "R/2019-07-05T17:00:00.000Z/P7D",
-        "season_id": "27959"
+        "broadcast": "R/2019-07-05T17:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1507,23 +1507,23 @@
       {
         "site": "gamer",
         "id": "102477",
+        "video_sn": "29922",
         "begin": "2022-07-15T03:00:00.000Z",
-        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D",
-        "video_sn": "29922"
+        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "102477",
+        "video_sn": "29922",
         "begin": "2022-07-15T03:00:00.000Z",
-        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D",
-        "video_sn": "29922"
+        "broadcast": "R/2022-07-15T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28221500",
+        "season_id": "28059",
         "begin": "2019-07-05T17:00:00.000Z",
-        "broadcast": "R/2019-07-05T17:00:00.000Z/P7D",
-        "season_id": "28059"
+        "broadcast": "R/2019-07-05T17:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1602,9 +1602,9 @@
       {
         "site": "bilibili",
         "id": "28221402",
+        "season_id": "28005",
         "begin": "2019-07-01T15:00:00.000Z",
-        "broadcast": "R/2019-07-01T15:00:00.000Z/P7D",
-        "season_id": "28005"
+        "broadcast": "R/2019-07-01T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1700,10 +1700,10 @@
       {
         "site": "bilibili",
         "id": "28221387",
+        "season_id": "27993",
         "begin": "2019-07-05T14:30:00.000Z",
         "broadcast": "R/2019-07-05T14:30:00.000Z/P7D",
-        "comment": "粤配版: 28236504",
-        "season_id": "27993"
+        "comment": "粤配版: 28236504"
       },
       {
         "site": "youku",
@@ -1732,17 +1732,17 @@
       {
         "site": "gamer",
         "id": "102494",
+        "video_sn": "12653",
         "begin": "2019-07-05T14:30:00.000Z",
-        "broadcast": "R/2019-07-05T14:30:00.000Z/P7D",
-        "video_sn": "12653"
+        "broadcast": "R/2019-07-05T14:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28236754",
+        "season_id": "41048",
         "begin": "2022-01-31T10:00:01.000Z",
         "broadcast": "R/2022-01-31T10:00:01.000Z/P7D",
-        "comment": "粵配版",
-        "season_id": "41048"
+        "comment": "粵配版"
       },
       {
         "site": "abema",
@@ -1765,9 +1765,9 @@
       {
         "site": "gamer_hk",
         "id": "102494",
+        "video_sn": "12653",
         "begin": "2019-07-05T14:30:00.000Z",
-        "broadcast": "R/2019-07-05T14:30:00.000Z/P7D",
-        "video_sn": "12653"
+        "broadcast": "R/2019-07-05T14:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -1852,9 +1852,9 @@
       {
         "site": "bilibili",
         "id": "28228703",
+        "season_id": "33312",
         "begin": "2019-07-06T16:00:00.000Z",
-        "broadcast": "R/2020-04-20T12:09:00.000Z/P7D",
-        "season_id": "33312"
+        "broadcast": "R/2020-04-20T12:09:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1920,9 +1920,9 @@
       {
         "site": "bilibili",
         "id": "28221392",
+        "season_id": "27997",
         "begin": "2019-07-06T16:00:01.000Z",
-        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D",
-        "season_id": "27997"
+        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -1932,9 +1932,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221531",
+        "season_id": "28071",
         "begin": "2019-07-07T14:00:00.000Z",
-        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D",
-        "season_id": "28071"
+        "broadcast": "R/2019-07-07T14:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2008,9 +2008,9 @@
       {
         "site": "bilibili",
         "id": "28221404",
+        "season_id": "28007",
         "begin": "2019-07-11T17:28:00.000Z",
-        "broadcast": "R/2019-07-12T07:00:00.000Z/P7D",
-        "season_id": "28007"
+        "broadcast": "R/2019-07-12T07:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2082,9 +2082,9 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28221416",
+        "season_id": "28017",
         "begin": "2019-07-03T13:00:00.000Z",
-        "broadcast": "R/2019-07-03T13:00:00.000Z/P7D",
-        "season_id": "28017"
+        "broadcast": "R/2019-07-03T13:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2119,16 +2119,16 @@
       {
         "site": "gamer",
         "id": "103788",
+        "video_sn": "12642",
         "begin": "2026-01-02T04:00:00.000Z",
-        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D",
-        "video_sn": "12642"
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "103788",
+        "video_sn": "12642",
         "begin": "2026-01-02T04:00:00.000Z",
-        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D",
-        "video_sn": "12642"
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2171,9 +2171,9 @@
       {
         "site": "bilibili",
         "id": "28221410",
+        "season_id": "28011",
         "begin": "2019-07-07T16:00:01.000Z",
-        "broadcast": "R/2019-07-08T16:30:00.000Z/P7D",
-        "season_id": "28011"
+        "broadcast": "R/2019-07-08T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2195,16 +2195,16 @@
       {
         "site": "gamer",
         "id": "103211",
+        "video_sn": "12669",
         "begin": "2019-07-08T16:30:00.000Z",
-        "broadcast": "R/2019-07-08T16:30:00.000Z/P7D",
-        "video_sn": "12669"
+        "broadcast": "R/2019-07-08T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili_tw",
         "id": "28221526",
+        "season_id": "28069",
         "begin": "2019-07-08T16:30:00.000Z",
-        "broadcast": "R/2019-07-08T16:30:00.000Z/P7D",
-        "season_id": "28069"
+        "broadcast": "R/2019-07-08T16:30:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2311,9 +2311,9 @@
       {
         "site": "bilibili",
         "id": "28221479",
+        "season_id": "28048",
         "begin": "2019-07-01T14:00:00.000Z",
-        "broadcast": "R/2019-07-01T14:00:00.000Z/P7D",
-        "season_id": "28048"
+        "broadcast": "R/2019-07-01T14:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2382,9 +2382,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221405",
+        "season_id": "28008",
         "begin": "2019-07-11T19:25:00.000Z",
-        "broadcast": "R/2019-07-11T19:25:00.000Z/P7D",
-        "season_id": "28008"
+        "broadcast": "R/2019-07-11T19:25:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2461,9 +2461,9 @@
       {
         "site": "bilibili",
         "id": "28221385",
+        "season_id": "27992",
         "begin": "2019-07-14T17:35:00.000Z",
-        "broadcast": "R/2019-07-14T17:35:00.000Z/P7D",
-        "season_id": "27992"
+        "broadcast": "R/2019-07-14T17:35:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -2550,9 +2550,9 @@
       {
         "site": "bilibili",
         "id": "28221420",
+        "season_id": "28021",
         "begin": "2021-03-31T15:33:00.000Z",
-        "broadcast": "R/2021-03-31T15:33:00.000Z/P7D",
-        "season_id": "28021"
+        "broadcast": "R/2021-03-31T15:33:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2743,9 +2743,9 @@
       {
         "site": "bilibili",
         "id": "5912238",
+        "season_id": "26363",
         "begin": "2019-07-05T16:00:00.000Z",
-        "broadcast": "R/2019-07-06T16:30:00.000Z/P7D",
-        "season_id": "26363"
+        "broadcast": "R/2019-07-06T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -2756,9 +2756,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221532",
+        "season_id": "28072",
         "begin": "2019-07-06T16:30:00.000Z",
-        "broadcast": "R/2019-07-06T16:30:00.000Z/P7D",
-        "season_id": "28072"
+        "broadcast": "R/2019-07-06T16:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -2819,9 +2819,9 @@
       {
         "site": "bilibili",
         "id": "28220475",
+        "season_id": "27395",
         "begin": "2019-07-07T16:10:00.000Z",
-        "broadcast": "R/2019-07-07T16:10:00.000Z/P7D",
-        "season_id": "27395"
+        "broadcast": "R/2019-07-07T16:10:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -3062,9 +3062,9 @@
       {
         "site": "bilibili_tw",
         "id": "28221413",
+        "season_id": "28014",
         "begin": "2019-07-30T18:05:00.000Z",
-        "broadcast": "R/2019-07-30T18:05:00.000Z/P7D",
-        "season_id": "28014"
+        "broadcast": "R/2019-07-30T18:05:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3341,9 +3341,9 @@
       {
         "site": "bilibili",
         "id": "28221282",
+        "season_id": "27935",
         "begin": "2019-10-04T16:00:00.000Z",
-        "broadcast": "R/2019-10-04T16:00:00.000Z/P7D",
-        "season_id": "27935"
+        "broadcast": "R/2019-10-04T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -3354,10 +3354,10 @@
       {
         "site": "gamer",
         "id": "108006",
+        "video_sn": "13910",
         "begin": "2019-10-04T16:00:00.000Z",
         "broadcast": "R/2019-10-04T16:00:00.000Z/P7D",
-        "comment": "狂亂篇: 109326",
-        "video_sn": "13910"
+        "comment": "狂亂篇: 109326"
       },
       {
         "site": "unext",
@@ -3404,9 +3404,9 @@
       {
         "site": "bilibili",
         "id": "28226981",
+        "season_id": "31854",
         "begin": "2019-12-31T16:00:00.000Z",
-        "broadcast": "R/2019-12-31T16:00:03.000Z/P7D",
-        "season_id": "31854"
+        "broadcast": "R/2019-12-31T16:00:03.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -3456,9 +3456,9 @@
       {
         "site": "bilibili",
         "id": "28228860",
+        "season_id": "33457",
         "begin": "2020-05-09T09:58:00.000Z",
-        "broadcast": "R/2020-05-09T09:58:00.000Z/P7D",
-        "season_id": "33457"
+        "broadcast": "R/2020-05-09T09:58:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -3468,16 +3468,16 @@
       {
         "site": "bilibili_hk_mo",
         "id": "28228871",
+        "season_id": "33468",
         "begin": "2020-05-11T07:31:58.000Z",
-        "broadcast": "R/2020-05-11T07:31:58.000Z/P7D",
-        "season_id": "33468"
+        "broadcast": "R/2020-05-11T07:31:58.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "103432",
+        "video_sn": "34988",
         "begin": "2023-09-15T04:10:00.000Z",
-        "broadcast": "R/2023-09-15T04:10:00.000Z/P7D",
-        "video_sn": "34988"
+        "broadcast": "R/2023-09-15T04:10:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -3533,10 +3533,10 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28340508",
+        "season_id": "43907",
         "begin": "",
         "broadcast": "",
-        "comment": "OAD2: 28340509, OAD3: 28340510, OAD4: 28340511, OAD5: 28340512",
-        "season_id": "43907"
+        "comment": "OAD2: 28340509, OAD3: 28340510, OAD4: 28340511, OAD5: 28340512"
       },
       {
         "site": "abema",
@@ -3644,9 +3644,9 @@
       {
         "site": "bilibili",
         "id": "28234726",
+        "season_id": "39034",
         "begin": "2021-07-03T08:00:01.000Z",
-        "broadcast": "R/2021-07-03T08:00:01.000Z/P7D",
-        "season_id": "39034"
+        "broadcast": "R/2021-07-03T08:00:01.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -3709,9 +3709,9 @@
       {
         "site": "bilibili",
         "id": "28228734",
+        "season_id": "33343",
         "begin": "2020-07-21T07:49:00.000Z",
-        "broadcast": "R/2020-07-21T07:49:00.000Z/P7D",
-        "season_id": "33343"
+        "broadcast": "R/2020-07-21T07:49:00.000Z/P7D"
       },
       {
         "site": "unext",

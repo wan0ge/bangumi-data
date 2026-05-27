@@ -69,9 +69,9 @@
       {
         "site": "bilibili",
         "id": "1615",
+        "season_id": "1615",
         "begin": "1996-10-03T16:00:00.000Z",
-        "broadcast": "R/2013-02-12T10:01:16.000Z/P7D",
-        "season_id": "1615"
+        "broadcast": "R/2013-02-12T10:01:16.000Z/P7D"
       },
       {
         "site": "unext",
@@ -158,9 +158,9 @@
       {
         "site": "bilibili",
         "id": "2293",
+        "season_id": "2293",
         "begin": "2014-04-09T05:10:00.000Z",
-        "broadcast": "R/2014-04-09T05:10:00.000Z/P7D",
-        "season_id": "2293"
+        "broadcast": "R/2014-04-09T05:10:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -220,9 +220,9 @@
       {
         "site": "bilibili",
         "id": "1340",
+        "season_id": "1340",
         "begin": "2010-08-03T16:57:00.000Z",
-        "broadcast": "R/2010-08-03T16:57:00.000Z/P7D",
-        "season_id": "1340"
+        "broadcast": "R/2010-08-03T16:57:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -280,16 +280,16 @@
       {
         "site": "gamer",
         "id": "147734",
+        "video_sn": "45969",
         "begin": "2025-10-23T16:00:00.000Z",
-        "broadcast": "R/2025-10-23T16:00:00.000Z/P7D",
-        "video_sn": "45969"
+        "broadcast": "R/2025-10-23T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "147734",
+        "video_sn": "45969",
         "begin": "2025-10-23T16:00:00.000Z",
-        "broadcast": "R/2025-10-23T16:00:00.000Z/P7D",
-        "video_sn": "45969"
+        "broadcast": "R/2025-10-23T16:00:00.000Z/P7D"
       },
       {
         "site": "tropics",
@@ -320,9 +320,9 @@
       {
         "site": "bilibili",
         "id": "3263",
+        "season_id": "3263",
         "begin": "1996-09-30T16:00:01.000Z",
-        "broadcast": "R/2016-01-05T06:01:00.000Z/P7D",
-        "season_id": "3263"
+        "broadcast": "R/2016-01-05T06:01:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -372,9 +372,9 @@
       {
         "site": "bilibili",
         "id": "28221057",
+        "season_id": "27819",
         "begin": "2019-05-23T03:46:00.000Z",
-        "broadcast": "R/2019-05-23T03:46:00.000Z/P7D",
-        "season_id": "27819"
+        "broadcast": "R/2019-05-23T03:46:00.000Z/P7D"
       },
       {
         "site": "tmdb",

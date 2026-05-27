@@ -85,8 +85,8 @@
       {
         "site": "bilibili",
         "id": "4720",
-        "begin": "2005-09-13T16:00:01.000Z",
-        "season_id": "4720"
+        "season_id": "4720",
+        "begin": "2005-09-13T16:00:01.000Z"
       },
       {
         "site": "tmdb",

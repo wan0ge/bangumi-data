@@ -77,9 +77,9 @@
       {
         "site": "bilibili",
         "id": "6058",
+        "season_id": "6058",
         "begin": "1997-01-24T16:00:01.000Z",
-        "broadcast": "R/2017-04-01T08:54:00.000Z/P7D",
-        "season_id": "6058"
+        "broadcast": "R/2017-04-01T08:54:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -183,10 +183,10 @@
       {
         "site": "bilibili",
         "id": "2272",
+        "season_id": "2272",
         "begin": "2010-11-17T08:00:00.000Z",
         "broadcast": "R/2010-11-17T08:00:00.000Z/P7D",
-        "comment": "中文",
-        "season_id": "2272"
+        "comment": "中文"
       },
       {
         "site": "unext",

@@ -38,9 +38,9 @@
       {
         "site": "gamer",
         "id": "84408",
+        "video_sn": "24817",
         "begin": "2024-10-01T04:30:00.000Z",
-        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D",
-        "video_sn": "24817"
+        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -143,9 +143,9 @@
       {
         "site": "bilibili",
         "id": "6008",
+        "season_id": "6008",
         "begin": "2017-03-25T02:00:00.000Z",
-        "broadcast": "R/2017-03-25T02:00:03.000Z/P7D",
-        "season_id": "6008"
+        "broadcast": "R/2017-03-25T02:00:03.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -186,9 +186,9 @@
       {
         "site": "bilibili",
         "id": "6007",
+        "season_id": "6007",
         "begin": "2017-03-24T03:00:00.000Z",
-        "broadcast": "R/2017-03-24T03:00:00.000Z/P7D",
-        "season_id": "6007"
+        "broadcast": "R/2017-03-24T03:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -246,9 +246,9 @@
       {
         "site": "bilibili",
         "id": "6070",
+        "season_id": "6070",
         "begin": "2017-03-26T16:00:01.000Z",
-        "broadcast": "R/2017-08-30T05:57:00.000Z/P7D",
-        "season_id": "6070"
+        "broadcast": "R/2017-08-30T05:57:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -372,9 +372,9 @@
       {
         "site": "bilibili",
         "id": "6075",
+        "season_id": "6075",
         "begin": "2017-03-17T16:00:01.000Z",
-        "broadcast": "R/2017-04-18T02:15:00.000Z/P7D",
-        "season_id": "6075"
+        "broadcast": "R/2017-04-18T02:15:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -532,9 +532,9 @@
       {
         "site": "bilibili",
         "id": "113152",
+        "season_id": "24959",
         "begin": "2017-03-10T16:00:00.000Z",
-        "broadcast": "R/2018-07-03T04:25:00.000Z/P7D",
-        "season_id": "24959"
+        "broadcast": "R/2018-07-03T04:25:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -605,9 +605,9 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28481063",
+        "season_id": "44662",
         "begin": "",
-        "broadcast": "",
-        "season_id": "44662"
+        "broadcast": ""
       },
       {
         "site": "unext",

@@ -153,9 +153,9 @@
       {
         "site": "bilibili",
         "id": "2434",
+        "season_id": "2434",
         "begin": "2014-06-21T11:12:00.000Z",
-        "broadcast": "R/2014-06-21T11:12:00.000Z/P7D",
-        "season_id": "2434"
+        "broadcast": "R/2014-06-21T11:12:00.000Z/P7D"
       },
       {
         "site": "unext",

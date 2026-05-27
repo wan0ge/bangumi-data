@@ -232,9 +232,9 @@
       {
         "site": "bilibili",
         "id": "6162",
+        "season_id": "6162",
         "begin": "2006-09-27T16:00:01.000Z",
-        "broadcast": "R/2017-05-10T10:24:00.000Z/P7D",
-        "season_id": "6162"
+        "broadcast": "R/2017-05-10T10:24:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -341,9 +341,9 @@
       {
         "site": "bilibili",
         "id": "3779",
+        "season_id": "3779",
         "begin": "2016-04-19T02:18:00.000Z",
-        "broadcast": "R/2016-04-19T02:18:00.000Z/P7D",
-        "season_id": "3779"
+        "broadcast": "R/2016-04-19T02:18:00.000Z/P7D"
       },
       {
         "site": "tmdb",

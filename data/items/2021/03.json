@@ -70,9 +70,9 @@
       {
         "site": "gamer",
         "id": "110755",
+        "video_sn": "22198",
         "begin": "2021-03-27T09:30:00.000Z",
-        "broadcast": "R/2021-03-27T09:30:00.000Z/P7D",
-        "video_sn": "22198"
+        "broadcast": "R/2021-03-27T09:30:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -95,9 +95,9 @@
       {
         "site": "gamer_hk",
         "id": "110755",
+        "video_sn": "22198",
         "begin": "2021-03-27T09:30:00.000Z",
-        "broadcast": "R/2021-03-27T09:30:00.000Z/P7D",
-        "video_sn": "22198"
+        "broadcast": "R/2021-03-27T09:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -270,16 +270,16 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28234145",
+        "season_id": "38461",
         "begin": "2021-05-18T11:00:00.000Z",
-        "broadcast": "R/2021-05-18T11:00:00.000Z/P7D",
-        "season_id": "38461"
+        "broadcast": "R/2021-05-18T11:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "28233862",
+        "season_id": "38180",
         "begin": "2021-03-06T15:00:01.000Z",
-        "broadcast": "R/2021-03-06T15:00:01.000Z/P7D",
-        "season_id": "38180"
+        "broadcast": "R/2021-03-06T15:00:01.000Z/P7D"
       },
       {
         "site": "unext",
@@ -341,9 +341,9 @@
       {
         "site": "gamer",
         "id": "112596",
+        "video_sn": "25612",
         "begin": "2021-10-08T07:00:00.000Z",
-        "broadcast": "R/2021-10-08T07:00:00.000Z/P7D",
-        "video_sn": "25612"
+        "broadcast": "R/2021-10-08T07:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -358,9 +358,9 @@
       {
         "site": "gamer_hk",
         "id": "112596",
+        "video_sn": "25612",
         "begin": "2021-10-08T07:00:00.000Z",
-        "broadcast": "R/2021-10-08T07:00:00.000Z/P7D",
-        "video_sn": "25612"
+        "broadcast": "R/2021-10-08T07:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -423,9 +423,9 @@
       {
         "site": "bilibili",
         "id": "28371498",
+        "season_id": "44515",
         "begin": "2023-01-20T04:00:00.000Z",
-        "broadcast": "R/2023-01-20T04:00:00.000Z/P7D",
-        "season_id": "44515"
+        "broadcast": "R/2023-01-20T04:00:00.000Z/P7D"
       },
       {
         "site": "mikan",

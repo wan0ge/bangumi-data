@@ -73,9 +73,9 @@
       {
         "site": "bilibili",
         "id": "28222687",
+        "season_id": "28589",
         "begin": "2019-09-30T23:33:00.000Z",
-        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D",
-        "season_id": "28589"
+        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -106,16 +106,16 @@
       {
         "site": "gamer",
         "id": "107629",
+        "video_sn": "13815",
         "begin": "2019-09-30T23:35:00.000Z",
-        "broadcast": "R/2019-09-30T23:35:00.000Z/P7D",
-        "video_sn": "13815"
+        "broadcast": "R/2019-09-30T23:35:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28222835",
+        "season_id": "28669",
         "begin": "2019-09-30T23:33:00.000Z",
-        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D",
-        "season_id": "28669"
+        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -144,9 +144,9 @@
       {
         "site": "gamer_hk",
         "id": "107629",
+        "video_sn": "13815",
         "begin": "2026-01-02T04:00:00.000Z",
-        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D",
-        "video_sn": "13815"
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -232,16 +232,16 @@
       {
         "site": "bilibili",
         "id": "28225115",
+        "season_id": "30288",
         "begin": "2019-12-20T16:00:00.000Z",
-        "broadcast": "",
-        "season_id": "30288"
+        "broadcast": ""
       },
       {
         "site": "gamer",
         "id": "101412",
+        "video_sn": "14405",
         "begin": "2019-12-19T16:00:00.000Z",
-        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D",
-        "video_sn": "14405"
+        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -252,9 +252,9 @@
       {
         "site": "gamer_hk",
         "id": "101412",
+        "video_sn": "14405",
         "begin": "2019-12-19T16:00:00.000Z",
-        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D",
-        "video_sn": "14405"
+        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -311,9 +311,9 @@
       {
         "site": "bilibili",
         "id": "28227003",
+        "season_id": "31861",
         "begin": "2020-01-05T16:00:03.000Z",
-        "broadcast": "R/2020-01-05T16:00:03.000Z/P7D",
-        "season_id": "31861"
+        "broadcast": "R/2020-01-05T16:00:03.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -392,16 +392,16 @@
       {
         "site": "bilibili",
         "id": "28338170",
+        "season_id": "41958",
         "begin": "2022-05-31T16:00:05.000Z",
-        "broadcast": "R/2022-05-31T16:00:05.000Z/P7D",
-        "season_id": "41958"
+        "broadcast": "R/2022-05-31T16:00:05.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "131761",
+        "video_sn": "33394",
         "begin": "2023-04-28T03:00:00.000Z",
-        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D",
-        "video_sn": "33394"
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -452,9 +452,9 @@
       {
         "site": "bilibili",
         "id": "28222724",
+        "season_id": "28616",
         "begin": "2019-09-26T16:00:00.000Z",
-        "broadcast": "R/2019-09-27T12:00:00.000Z/P7D",
-        "season_id": "28616"
+        "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -513,9 +513,9 @@
       {
         "site": "bilibili",
         "id": "28222715",
+        "season_id": "28610",
         "begin": "2019-09-24T16:00:00.000Z",
-        "broadcast": "R/2019-09-25T01:00:00.000Z/P7D",
-        "season_id": "28610"
+        "broadcast": "R/2019-09-25T01:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -575,9 +575,9 @@
       {
         "site": "bilibili",
         "id": "28226644",
+        "season_id": "31779",
         "begin": "2020-03-17T16:00:01.000Z",
-        "broadcast": "R/2020-03-17T16:00:01.000Z/P7D",
-        "season_id": "31779"
+        "broadcast": "R/2020-03-17T16:00:01.000Z/P7D"
       },
       {
         "site": "mikan",

@@ -138,9 +138,9 @@
       {
         "site": "gamer",
         "id": "134656",
+        "video_sn": "45517",
         "begin": "2025-09-19T04:00:00.000Z",
-        "broadcast": "R/2025-09-19T04:00:00.000Z/P7D",
-        "video_sn": "45517"
+        "broadcast": "R/2025-09-19T04:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -203,9 +203,9 @@
       {
         "site": "bilibili",
         "id": "21236139",
+        "season_id": "47602",
         "begin": "2025-01-10T08:00:00.000Z",
-        "broadcast": "R/2025-01-10T08:00:00.000Z/P7D",
-        "season_id": "47602"
+        "broadcast": "R/2025-01-10T08:00:00.000Z/P7D"
       },
       {
         "site": "danime",

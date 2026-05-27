@@ -60,8 +60,8 @@
       {
         "site": "bilibili",
         "id": "2429",
-        "begin": "1984-04-14T16:00:00.000Z",
-        "season_id": "2429"
+        "season_id": "2429",
+        "begin": "1984-04-14T16:00:00.000Z"
       },
       {
         "site": "tmdb",

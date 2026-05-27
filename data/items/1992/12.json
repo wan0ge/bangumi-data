@@ -22,9 +22,9 @@
       {
         "site": "bilibili",
         "id": "3992",
+        "season_id": "3992",
         "begin": "2016-05-16T04:00:00.000Z",
-        "broadcast": "R/2016-05-16T04:00:00.000Z/P7D",
-        "season_id": "3992"
+        "broadcast": "R/2016-05-16T04:00:00.000Z/P7D"
       },
       {
         "site": "unext",

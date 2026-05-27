@@ -52,9 +52,9 @@
       {
         "site": "gamer_hk",
         "id": "135594",
+        "video_sn": "41638",
         "begin": "2025-01-02T14:00:00.000Z",
-        "broadcast": "R/2025-01-02T14:00:00.000Z/P7D",
-        "video_sn": "41638"
+        "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -67,16 +67,16 @@
       {
         "site": "gamer",
         "id": "135594",
+        "video_sn": "41638",
         "begin": "2025-01-02T14:00:00.000Z",
-        "broadcast": "R/2025-01-02T14:00:00.000Z/P7D",
-        "video_sn": "41638"
+        "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "23679586",
+        "season_id": "73081",
         "begin": "2025-01-02T14:00:00.000Z",
-        "broadcast": "R/2025-01-02T14:00:00.000Z/P7D",
-        "season_id": "73081"
+        "broadcast": "R/2025-01-02T14:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -183,9 +183,9 @@
       {
         "site": "bilibili",
         "id": "24006597",
+        "season_id": "76133",
         "begin": "2025-01-25T17:00:00.000Z",
-        "broadcast": "R/2025-01-25T17:00:00.000Z/P7D",
-        "season_id": "76133"
+        "broadcast": "R/2025-01-25T17:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -261,9 +261,9 @@
       {
         "site": "gamer_hk",
         "id": "137119",
+        "video_sn": "41766",
         "begin": "2025-01-10T14:00:00.000Z",
-        "broadcast": "R/2025-01-10T14:00:00.000Z/P7D",
-        "video_sn": "41766"
+        "broadcast": "R/2025-01-10T14:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -272,9 +272,9 @@
       {
         "site": "gamer",
         "id": "137119",
+        "video_sn": "41766",
         "begin": "2025-01-10T14:00:00.000Z",
-        "broadcast": "R/2025-01-10T14:00:00.000Z/P7D",
-        "video_sn": "41766"
+        "broadcast": "R/2025-01-10T14:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -289,9 +289,9 @@
       {
         "site": "bilibili",
         "id": "27125905",
+        "season_id": "106968",
         "begin": "2025-08-06T10:00:00.000Z",
-        "broadcast": "R/2025-08-06T10:00:00.000Z/P7D",
-        "season_id": "106968"
+        "broadcast": "R/2025-08-06T10:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -350,16 +350,16 @@
       {
         "site": "gamer_hk",
         "id": "136265",
+        "video_sn": "41650",
         "begin": "2025-01-05T13:00:00.000Z",
-        "broadcast": "R/2025-01-05T13:00:00.000Z/P7D",
-        "video_sn": "41650"
+        "broadcast": "R/2025-01-05T13:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "136265",
+        "video_sn": "41650",
         "begin": "2025-01-05T13:00:00.000Z",
-        "broadcast": "R/2025-01-05T13:00:00.000Z/P7D",
-        "video_sn": "41650"
+        "broadcast": "R/2025-01-05T13:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -539,9 +539,9 @@
       {
         "site": "bilibili",
         "id": "24005479",
+        "season_id": "76122",
         "begin": "2025-01-11T14:00:00.000Z",
-        "broadcast": "R/2025-01-11T14:00:00.000Z/P7D",
-        "season_id": "76122"
+        "broadcast": "R/2025-01-11T14:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -641,16 +641,16 @@
       {
         "site": "gamer",
         "id": "130911",
+        "video_sn": "35508",
         "begin": "2025-01-12T13:30:00.000Z",
-        "broadcast": "R/2025-01-12T13:30:00.000Z/P7D",
-        "video_sn": "35508"
+        "broadcast": "R/2025-01-12T13:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "130911",
+        "video_sn": "35508",
         "begin": "2025-01-12T13:30:00.000Z",
-        "broadcast": "R/2025-01-12T13:30:00.000Z/P7D",
-        "video_sn": "35508"
+        "broadcast": "R/2025-01-12T13:30:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -753,9 +753,9 @@
       {
         "site": "gamer_hk",
         "id": "140165",
+        "video_sn": "41641",
         "begin": "2025-01-03T16:00:00.000Z",
-        "broadcast": "R/2025-01-03T16:00:00.000Z/P7D",
-        "video_sn": "41641"
+        "broadcast": "R/2025-01-03T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -768,9 +768,9 @@
       {
         "site": "gamer",
         "id": "140165",
+        "video_sn": "41641",
         "begin": "2025-01-03T16:00:00.000Z",
-        "broadcast": "R/2025-01-03T16:00:00.000Z/P7D",
-        "video_sn": "41641"
+        "broadcast": "R/2025-01-03T16:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -874,9 +874,9 @@
       {
         "site": "gamer_hk",
         "id": "137809",
+        "video_sn": "41646",
         "begin": "2025-01-04T16:30:00.000Z",
-        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D",
-        "video_sn": "41646"
+        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -889,9 +889,9 @@
       {
         "site": "gamer",
         "id": "137809",
+        "video_sn": "41646",
         "begin": "2025-01-04T16:30:00.000Z",
-        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D",
-        "video_sn": "41646"
+        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1049,9 +1049,9 @@
       {
         "site": "gamer_hk",
         "id": "137192",
+        "video_sn": "41756",
         "begin": "2025-01-09T16:00:00.000Z",
-        "broadcast": "R/2025-01-09T16:00:00.000Z/P7D",
-        "video_sn": "41756"
+        "broadcast": "R/2025-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1060,9 +1060,9 @@
       {
         "site": "gamer",
         "id": "137192",
+        "video_sn": "41756",
         "begin": "2025-01-09T16:00:00.000Z",
-        "broadcast": "R/2025-01-09T16:00:00.000Z/P7D",
-        "video_sn": "41756"
+        "broadcast": "R/2025-01-09T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -1182,16 +1182,16 @@
       {
         "site": "gamer_hk",
         "id": "138112",
+        "video_sn": "41762",
         "begin": "2025-01-09T17:00:00.000Z",
-        "broadcast": "R/2025-01-09T17:00:00.000Z/P7D",
-        "video_sn": "41762"
+        "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "138112",
+        "video_sn": "41762",
         "begin": "2025-01-09T17:00:00.000Z",
-        "broadcast": "R/2025-01-09T17:00:00.000Z/P7D",
-        "video_sn": "41762"
+        "broadcast": "R/2025-01-09T17:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1282,9 +1282,9 @@
       {
         "site": "gamer_hk",
         "id": "142404",
+        "video_sn": "41770",
         "begin": "2025-01-10T14:30:00.000Z",
-        "broadcast": "R/2025-01-10T14:30:00.000Z/P7D",
-        "video_sn": "41770"
+        "broadcast": "R/2025-01-10T14:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1293,9 +1293,9 @@
       {
         "site": "gamer",
         "id": "142404",
+        "video_sn": "41770",
         "begin": "2025-01-10T14:30:00.000Z",
-        "broadcast": "R/2025-01-10T14:30:00.000Z/P7D",
-        "video_sn": "41770"
+        "broadcast": "R/2025-01-10T14:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -1493,9 +1493,9 @@
       {
         "site": "gamer_hk",
         "id": "134172",
+        "video_sn": "41774",
         "begin": "2025-01-10T16:30:00.000Z",
-        "broadcast": "R/2025-01-10T16:30:00.000Z/P7D",
-        "video_sn": "41774"
+        "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1510,9 +1510,9 @@
       {
         "site": "gamer",
         "id": "134172",
+        "video_sn": "41774",
         "begin": "2025-01-10T16:30:00.000Z",
-        "broadcast": "R/2025-01-10T16:30:00.000Z/P7D",
-        "video_sn": "41774"
+        "broadcast": "R/2025-01-10T16:30:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -1650,9 +1650,9 @@
       {
         "site": "bilibili",
         "id": "25508736",
+        "season_id": "91092",
         "begin": "2025-03-16T02:00:00.000Z",
-        "broadcast": "R/2025-03-16T02:00:00.000Z/P7D",
-        "season_id": "91092"
+        "broadcast": "R/2025-03-16T02:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1729,9 +1729,9 @@
       {
         "site": "gamer",
         "id": "137331",
+        "video_sn": "41800",
         "begin": "2025-01-12T09:00:00.000Z",
-        "broadcast": "R/2025-01-12T09:00:00.000Z/P7D",
-        "video_sn": "41800"
+        "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -1754,9 +1754,9 @@
       {
         "site": "gamer_hk",
         "id": "137331",
+        "video_sn": "41800",
         "begin": "2025-01-12T09:00:00.000Z",
-        "broadcast": "R/2025-01-12T09:00:00.000Z/P7D",
-        "video_sn": "41800"
+        "broadcast": "R/2025-01-12T09:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1821,16 +1821,16 @@
       {
         "site": "gamer",
         "id": "142297",
+        "video_sn": "41805",
         "begin": "2025-01-12T15:30:00.000Z",
-        "broadcast": "R/2025-01-12T15:30:00.000Z/P7D",
-        "video_sn": "41805"
+        "broadcast": "R/2025-01-12T15:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "142297",
+        "video_sn": "41805",
         "begin": "2025-01-12T15:30:00.000Z",
-        "broadcast": "R/2025-01-12T15:30:00.000Z/P7D",
-        "video_sn": "41805"
+        "broadcast": "R/2025-01-12T15:30:00.000Z/P7D"
       },
       {
         "site": "netflix",
@@ -1933,16 +1933,16 @@
       {
         "site": "gamer",
         "id": "139915",
+        "video_sn": "41743",
         "begin": "2025-01-07T17:35:00.000Z",
-        "broadcast": "R/2025-01-07T17:35:00.000Z/P7D",
-        "video_sn": "41743"
+        "broadcast": "R/2025-01-07T17:35:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "139915",
+        "video_sn": "41743",
         "begin": "2025-01-07T17:35:00.000Z",
-        "broadcast": "R/2025-01-07T17:35:00.000Z/P7D",
-        "video_sn": "41743"
+        "broadcast": "R/2025-01-07T17:35:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2110,9 +2110,9 @@
       {
         "site": "gamer_hk",
         "id": "139258",
+        "video_sn": "41635",
         "begin": "2025-01-01T13:30:00.000Z",
-        "broadcast": "R/2025-01-01T13:30:00.000Z/P7D",
-        "video_sn": "41635"
+        "broadcast": "R/2025-01-01T13:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2125,9 +2125,9 @@
       {
         "site": "gamer",
         "id": "139258",
+        "video_sn": "41635",
         "begin": "2025-01-01T13:30:00.000Z",
-        "broadcast": "R/2025-01-01T13:30:00.000Z/P7D",
-        "video_sn": "41635"
+        "broadcast": "R/2025-01-01T13:30:00.000Z/P7D"
       },
       {
         "site": "tropics",
@@ -2224,9 +2224,9 @@
       {
         "site": "gamer_hk",
         "id": "140518",
+        "video_sn": "41634",
         "begin": "2025-01-01T14:30:00.000Z",
-        "broadcast": "R/2025-01-01T14:30:00.000Z/P7D",
-        "video_sn": "41634"
+        "broadcast": "R/2025-01-01T14:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2239,9 +2239,9 @@
       {
         "site": "gamer",
         "id": "140518",
+        "video_sn": "41634",
         "begin": "2025-01-01T14:30:00.000Z",
-        "broadcast": "R/2025-01-01T14:30:00.000Z/P7D",
-        "video_sn": "41634"
+        "broadcast": "R/2025-01-01T14:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -2427,9 +2427,9 @@
       {
         "site": "bilibili",
         "id": "24004932",
+        "season_id": "76117",
         "begin": "2025-01-06T13:30:00.000Z",
-        "broadcast": "R/2025-01-06T13:30:00.000Z/P7D",
-        "season_id": "76117"
+        "broadcast": "R/2025-01-06T13:30:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -2509,16 +2509,16 @@
       {
         "site": "gamer_hk",
         "id": "136424",
+        "video_sn": "41736",
         "begin": "2025-01-06T14:30:00.000Z",
-        "broadcast": "R/2025-01-06T14:30:00.000Z/P7D",
-        "video_sn": "41736"
+        "broadcast": "R/2025-01-06T14:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "136424",
+        "video_sn": "41736",
         "begin": "2025-01-06T14:30:00.000Z",
-        "broadcast": "R/2025-01-06T14:30:00.000Z/P7D",
-        "video_sn": "41736"
+        "broadcast": "R/2025-01-06T14:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2685,9 +2685,9 @@
       {
         "site": "gamer_hk",
         "id": "138120",
+        "video_sn": "41748",
         "begin": "2025-01-08T16:55:00.000Z",
-        "broadcast": "R/2025-01-08T16:55:00.000Z/P7D",
-        "video_sn": "41748"
+        "broadcast": "R/2025-01-08T16:55:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2696,16 +2696,16 @@
       {
         "site": "gamer",
         "id": "138120",
+        "video_sn": "41748",
         "begin": "2025-01-08T16:55:00.000Z",
-        "broadcast": "R/2025-01-08T16:55:00.000Z/P7D",
-        "video_sn": "41748"
+        "broadcast": "R/2025-01-08T16:55:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "24361881",
+        "season_id": "79683",
         "begin": "2025-01-08T16:55:00.000Z",
-        "broadcast": "R/2025-01-08T16:55:00.000Z/P7D",
-        "season_id": "79683"
+        "broadcast": "R/2025-01-08T16:55:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2798,16 +2798,16 @@
       {
         "site": "gamer_hk",
         "id": "139019",
+        "video_sn": "41639",
         "begin": "2025-01-02T16:00:00.000Z",
-        "broadcast": "R/2025-01-02T16:00:00.000Z/P7D",
-        "video_sn": "41639"
+        "broadcast": "R/2025-01-02T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "139019",
+        "video_sn": "41639",
         "begin": "2025-01-02T16:00:00.000Z",
-        "broadcast": "R/2025-01-02T16:00:00.000Z/P7D",
-        "video_sn": "41639"
+        "broadcast": "R/2025-01-02T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -2965,9 +2965,9 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "24474455",
+        "season_id": "80761",
         "begin": "2025-01-06T14:00:00.000Z",
-        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D",
-        "season_id": "80761"
+        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2976,9 +2976,9 @@
       {
         "site": "gamer",
         "id": "140558",
+        "video_sn": "41734",
         "begin": "2025-01-06T14:00:00.000Z",
-        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D",
-        "video_sn": "41734"
+        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
@@ -2995,9 +2995,9 @@
       {
         "site": "gamer_hk",
         "id": "140558",
+        "video_sn": "41734",
         "begin": "2025-01-06T14:00:00.000Z",
-        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D",
-        "video_sn": "41734"
+        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -3006,9 +3006,9 @@
       {
         "site": "bilibili",
         "id": "23761026",
+        "season_id": "73828",
         "begin": "2025-01-06T14:00:00.000Z",
-        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D",
-        "season_id": "73828"
+        "broadcast": "R/2025-01-06T14:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3092,9 +3092,9 @@
       {
         "site": "gamer",
         "id": "140168",
+        "video_sn": "41640",
         "begin": "2025-01-03T14:30:00.000Z",
-        "broadcast": "R/2025-01-03T14:30:00.000Z/P7D",
-        "video_sn": "41640"
+        "broadcast": "R/2025-01-03T14:30:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3261,9 +3261,9 @@
       {
         "site": "bilibili",
         "id": "24360257",
+        "season_id": "79667",
         "begin": "2025-01-07T14:30:00.000Z",
-        "broadcast": "R/2025-01-07T14:30:00.000Z/P7D",
-        "season_id": "79667"
+        "broadcast": "R/2025-01-07T14:30:00.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -3349,9 +3349,9 @@
       {
         "site": "bilibili",
         "id": "24025020",
+        "season_id": "76312",
         "begin": "2025-01-12T14:30:01.000Z",
-        "broadcast": "R/2025-01-12T14:30:01.000Z/P7D",
-        "season_id": "76312"
+        "broadcast": "R/2025-01-12T14:30:01.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3492,16 +3492,16 @@
       {
         "site": "gamer_hk",
         "id": "137041",
+        "video_sn": "41750",
         "begin": "2025-01-09T14:00:00.000Z",
-        "broadcast": "R/2025-01-09T14:00:00.000Z/P7D",
-        "video_sn": "41750"
+        "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "137041",
+        "video_sn": "41750",
         "begin": "2025-01-09T14:00:00.000Z",
-        "broadcast": "R/2025-01-09T14:00:00.000Z/P7D",
-        "video_sn": "41750"
+        "broadcast": "R/2025-01-09T14:00:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -3512,9 +3512,9 @@
       {
         "site": "bilibili",
         "id": "24449643",
+        "season_id": "80512",
         "begin": "2025-01-23T14:00:00.000Z",
-        "broadcast": "R/2025-01-23T14:00:00.000Z/P7D",
-        "season_id": "80512"
+        "broadcast": "R/2025-01-23T14:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -3588,9 +3588,9 @@
       {
         "site": "gamer_hk",
         "id": "133810",
+        "video_sn": "41648",
         "begin": "2025-01-04T17:00:00.000Z",
-        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D",
-        "video_sn": "41648"
+        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -3603,9 +3603,9 @@
       {
         "site": "gamer",
         "id": "133810",
+        "video_sn": "41648",
         "begin": "2025-01-04T17:00:00.000Z",
-        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D",
-        "video_sn": "41648"
+        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
       },
       {
         "site": "tropics",
@@ -3857,9 +3857,9 @@
       {
         "site": "gamer",
         "id": "134516",
+        "video_sn": "41784",
         "begin": "2025-01-11T16:00:00.000Z",
-        "broadcast": "R/2025-01-11T16:00:00.000Z/P7D",
-        "video_sn": "41784"
+        "broadcast": "R/2025-01-11T16:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3870,9 +3870,9 @@
       {
         "site": "gamer_hk",
         "id": "134516",
+        "video_sn": "41784",
         "begin": "2025-01-11T16:00:00.000Z",
-        "broadcast": "R/2025-01-11T16:00:00.000Z/P7D",
-        "video_sn": "41784"
+        "broadcast": "R/2025-01-11T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -3966,9 +3966,9 @@
       {
         "site": "gamer",
         "id": "141258",
+        "video_sn": "41786",
         "begin": "2025-01-11T16:30:00.000Z",
-        "broadcast": "R/2025-01-11T16:30:00.000Z/P7D",
-        "video_sn": "41786"
+        "broadcast": "R/2025-01-11T16:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -3985,9 +3985,9 @@
       {
         "site": "gamer_hk",
         "id": "141258",
+        "video_sn": "41786",
         "begin": "2025-01-11T16:30:00.000Z",
-        "broadcast": "R/2025-01-11T16:30:00.000Z/P7D",
-        "video_sn": "41786"
+        "broadcast": "R/2025-01-11T16:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4012,9 +4012,9 @@
       {
         "site": "bilibili",
         "id": "280730538",
+        "season_id": "117925",
         "begin": "2025-10-31T10:00:00.000Z",
-        "broadcast": "R/2025-10-31T10:00:00.000Z/P7D",
-        "season_id": "117925"
+        "broadcast": "R/2025-10-31T10:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -4079,16 +4079,16 @@
       {
         "site": "gamer",
         "id": "137790",
+        "video_sn": "41642",
         "begin": "2025-01-03T17:00:00.000Z",
-        "broadcast": "R/2025-01-03T17:00:00.000Z/P7D",
-        "video_sn": "41642"
+        "broadcast": "R/2025-01-03T17:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "137790",
+        "video_sn": "41642",
         "begin": "2025-01-03T17:00:00.000Z",
-        "broadcast": "R/2025-01-03T17:00:00.000Z/P7D",
-        "video_sn": "41642"
+        "broadcast": "R/2025-01-03T17:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -4179,16 +4179,16 @@
       {
         "site": "gamer",
         "id": "143134",
+        "video_sn": "41765",
         "begin": "2025-01-17T12:00:00.000Z",
-        "broadcast": "R/2025-01-17T12:00:00.000Z/P7D",
-        "video_sn": "41765"
+        "broadcast": "R/2025-01-17T12:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "143134",
+        "video_sn": "41765",
         "begin": "2025-01-17T12:00:00.000Z",
-        "broadcast": "R/2025-01-17T12:00:00.000Z/P7D",
-        "video_sn": "41765"
+        "broadcast": "R/2025-01-17T12:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4255,9 +4255,9 @@
       {
         "site": "gamer_hk",
         "id": "140189",
+        "video_sn": "41754",
         "begin": "2025-01-09T14:30:00.000Z",
-        "broadcast": "R/2025-01-09T14:30:00.000Z/P7D",
-        "video_sn": "41754"
+        "broadcast": "R/2025-01-09T14:30:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -4268,9 +4268,9 @@
       {
         "site": "gamer",
         "id": "140189",
+        "video_sn": "41754",
         "begin": "2025-01-09T14:30:00.000Z",
-        "broadcast": "R/2025-01-09T14:30:00.000Z/P7D",
-        "video_sn": "41754"
+        "broadcast": "R/2025-01-09T14:30:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -4365,9 +4365,9 @@
       {
         "site": "gamer_hk",
         "id": "138607",
+        "video_sn": "41645",
         "begin": "2025-01-04T16:30:00.000Z",
-        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D",
-        "video_sn": "41645"
+        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4398,16 +4398,16 @@
       {
         "site": "gamer",
         "id": "138607",
+        "video_sn": "41645",
         "begin": "2025-01-04T16:30:00.000Z",
-        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D",
-        "video_sn": "41645"
+        "broadcast": "R/2025-01-04T16:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "24474625",
+        "season_id": "80763",
         "begin": "2025-01-22T12:00:00.000Z",
-        "broadcast": "R/2025-01-22T12:00:00.000Z/P7D",
-        "season_id": "80763"
+        "broadcast": "R/2025-01-22T12:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -4631,9 +4631,9 @@
       {
         "site": "gamer_hk",
         "id": "138414",
+        "video_sn": "41597",
         "begin": "2024-12-28T14:00:00.000Z",
-        "broadcast": "R/2024-12-28T14:00:00.000Z/P7D",
-        "video_sn": "41597"
+        "broadcast": "R/2024-12-28T14:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -4652,9 +4652,9 @@
       {
         "site": "gamer",
         "id": "138414",
+        "video_sn": "41597",
         "begin": "2024-12-28T14:00:00.000Z",
-        "broadcast": "R/2024-12-28T14:00:00.000Z/P7D",
-        "video_sn": "41597"
+        "broadcast": "R/2024-12-28T14:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -4742,23 +4742,23 @@
       {
         "site": "gamer_hk",
         "id": "142242",
+        "video_sn": "41647",
         "begin": "2025-01-04T17:00:00.000Z",
-        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D",
-        "video_sn": "41647"
+        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "142242",
+        "video_sn": "41647",
         "begin": "2025-01-04T17:00:00.000Z",
-        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D",
-        "video_sn": "41647"
+        "broadcast": "R/2025-01-04T17:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "24499077",
+        "season_id": "81007",
         "begin": "2025-02-11T10:30:00.000Z",
-        "broadcast": "R/2025-02-11T10:30:00.000Z/P7D",
-        "season_id": "81007"
+        "broadcast": "R/2025-02-11T10:30:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -4928,16 +4928,16 @@
       {
         "site": "bilibili",
         "id": "24004250",
+        "season_id": "76110",
         "begin": "2025-01-26T10:30:00.000Z",
-        "broadcast": "R/2025-01-26T10:30:00.000Z/P7D",
-        "season_id": "76110"
+        "broadcast": "R/2025-01-26T10:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "136398",
+        "video_sn": "41798",
         "begin": "2025-01-12T08:30:00.000Z",
-        "broadcast": "R/2025-01-12T08:30:00.000Z/P7D",
-        "video_sn": "41798"
+        "broadcast": "R/2025-01-12T08:30:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -4954,9 +4954,9 @@
       {
         "site": "gamer_hk",
         "id": "136398",
+        "video_sn": "41798",
         "begin": "2025-01-12T08:30:00.000Z",
-        "broadcast": "R/2025-01-12T08:30:00.000Z/P7D",
-        "video_sn": "41798"
+        "broadcast": "R/2025-01-12T08:30:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -5063,16 +5063,16 @@
       {
         "site": "gamer_hk",
         "id": "138640",
+        "video_sn": "41636",
         "begin": "2025-01-01T16:30:00.000Z",
-        "broadcast": "R/2025-01-01T16:30:00.000Z/P7D",
-        "video_sn": "41636"
+        "broadcast": "R/2025-01-01T16:30:00.000Z/P7D"
       },
       {
         "site": "gamer",
         "id": "138640",
+        "video_sn": "41636",
         "begin": "2025-01-01T16:30:00.000Z",
-        "broadcast": "R/2025-01-01T16:30:00.000Z/P7D",
-        "video_sn": "41636"
+        "broadcast": "R/2025-01-01T16:30:00.000Z/P7D"
       },
       {
         "site": "prime",
@@ -5263,16 +5263,16 @@
       {
         "site": "gamer",
         "id": "133843",
+        "video_sn": "41596",
         "begin": "2024-12-31T14:00:00.000Z",
-        "broadcast": "R/2024-12-31T14:00:00.000Z/P7D",
-        "video_sn": "41596"
+        "broadcast": "R/2024-12-31T14:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "133843",
+        "video_sn": "41596",
         "begin": "2024-12-31T14:00:00.000Z",
-        "broadcast": "R/2024-12-31T14:00:00.000Z/P7D",
-        "video_sn": "41596"
+        "broadcast": "R/2024-12-31T14:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -5400,16 +5400,16 @@
       {
         "site": "gamer",
         "id": "131251",
+        "video_sn": "40260",
         "begin": "2025-02-05T14:30:00.000Z",
-        "broadcast": "R/2025-02-05T14:30:00.000Z/P7D",
-        "video_sn": "40260"
+        "broadcast": "R/2025-02-05T14:30:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "131251",
+        "video_sn": "40260",
         "begin": "2025-02-05T14:30:00.000Z",
-        "broadcast": "R/2025-02-05T14:30:00.000Z/P7D",
-        "video_sn": "40260"
+        "broadcast": "R/2025-02-05T14:30:00.000Z/P7D"
       },
       {
         "site": "viu",

@@ -179,9 +179,9 @@
       {
         "site": "bilibili",
         "id": "131692",
+        "season_id": "25561",
         "begin": "2018-09-07T08:30:10.000Z",
-        "broadcast": "R/2018-09-07T08:30:10.000Z/P7D",
-        "season_id": "25561"
+        "broadcast": "R/2018-09-07T08:30:10.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -267,9 +267,9 @@
       {
         "site": "bilibili",
         "id": "28220583",
+        "season_id": "27500",
         "begin": "2019-04-25T04:38:48.000Z",
-        "broadcast": "R/2019-04-25T04:38:48.000Z/P7D",
-        "season_id": "27500"
+        "broadcast": "R/2019-04-25T04:38:48.000Z/P7D"
       },
       {
         "site": "tmdb",

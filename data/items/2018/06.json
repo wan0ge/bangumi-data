@@ -19,9 +19,9 @@
       {
         "site": "bilibili",
         "id": "97272",
+        "season_id": "24416",
         "begin": "2018-06-01T16:00:01.000Z",
-        "broadcast": "",
-        "season_id": "24416"
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -96,9 +96,9 @@
       {
         "site": "bilibili",
         "id": "952544",
+        "season_id": "24951",
         "begin": "2018-10-26T16:00:00.000Z",
-        "broadcast": "",
-        "season_id": "24951"
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -155,9 +155,9 @@
       {
         "site": "bilibili",
         "id": "92812",
+        "season_id": "24287",
         "begin": "2018-06-08T16:00:00.000Z",
-        "broadcast": "",
-        "season_id": "24287"
+        "broadcast": ""
       },
       {
         "site": "unext",
@@ -214,9 +214,9 @@
       {
         "site": "gamer",
         "id": "93283",
+        "video_sn": "35205",
         "begin": "2023-10-02T01:40:00.000Z",
-        "broadcast": "R/2023-10-02T01:40:00.000Z/P7D",
-        "video_sn": "35205"
+        "broadcast": "R/2023-10-02T01:40:00.000Z/P7D"
       },
       {
         "site": "unext",

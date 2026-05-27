@@ -23,9 +23,9 @@
       {
         "site": "bilibili",
         "id": "2486",
+        "season_id": "2486",
         "begin": "1969-10-04T16:00:00.000Z",
-        "broadcast": "R/1969-10-05T09:30:00.000Z/P7D",
-        "season_id": "2486"
+        "broadcast": "R/1969-10-05T09:30:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -57,16 +57,16 @@
       {
         "site": "gamer",
         "id": "21504",
+        "video_sn": "48217",
         "begin": "2026-03-27T04:00:00.000Z",
-        "broadcast": "R/2026-03-27T04:00:00.000Z/P7D",
-        "video_sn": "48217"
+        "broadcast": "R/2026-03-27T04:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "21504",
+        "video_sn": "48217",
         "begin": "2026-03-27T04:00:00.000Z",
-        "broadcast": "R/2026-03-27T04:00:00.000Z/P7D",
-        "video_sn": "48217"
+        "broadcast": "R/2026-03-27T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -125,8 +125,8 @@
       {
         "site": "bilibili",
         "id": "8272",
-        "begin": "1969-10-04T16:00:01.000Z",
-        "season_id": "20554"
+        "season_id": "20554",
+        "begin": "1969-10-04T16:00:01.000Z"
       },
       {
         "site": "unext",

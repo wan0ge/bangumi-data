@@ -26,9 +26,9 @@
       {
         "site": "bilibili",
         "id": "6470",
+        "season_id": "6470",
         "begin": "2017-11-24T16:30:00.000Z",
-        "broadcast": "R/2017-11-24T16:30:00.000Z/P7D",
-        "season_id": "6470"
+        "broadcast": "R/2017-11-24T16:30:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -39,9 +39,9 @@
       {
         "site": "gamer",
         "id": "91280",
+        "video_sn": "32612",
         "begin": "2023-02-10T02:30:00.000Z",
-        "broadcast": "R/2023-02-10T02:30:00.000Z/P7D",
-        "video_sn": "32612"
+        "broadcast": "R/2023-02-10T02:30:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -60,9 +60,9 @@
       {
         "site": "gamer_hk",
         "id": "91280",
+        "video_sn": "32612",
         "begin": "2023-02-10T02:30:00.000Z",
-        "broadcast": "R/2023-02-10T02:30:00.000Z/P7D",
-        "video_sn": "32612"
+        "broadcast": "R/2023-02-10T02:30:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -114,9 +114,9 @@
       {
         "site": "bilibili",
         "id": "122632",
+        "season_id": "24702",
         "begin": "2018-08-08T16:00:00.000Z",
-        "broadcast": "R/2018-08-08T16:00:02.000Z/P7D",
-        "season_id": "24702"
+        "broadcast": "R/2018-08-08T16:00:02.000Z/P7D"
       },
       {
         "site": "unext",
@@ -238,9 +238,9 @@
       {
         "site": "bilibili",
         "id": "100772",
+        "season_id": "24534",
         "begin": "2017-11-24T16:00:00.000Z",
-        "broadcast": "R/2018-06-12T09:35:00.000Z/P7D",
-        "season_id": "24534"
+        "broadcast": "R/2018-06-12T09:35:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -289,9 +289,9 @@
       {
         "site": "bilibili",
         "id": "121412",
+        "season_id": "25234",
         "begin": "2017-06-22T16:00:00.000Z",
-        "broadcast": "R/2018-08-03T11:20:00.000Z/P7D",
-        "season_id": "25234"
+        "broadcast": "R/2018-08-03T11:20:00.000Z/P7D"
       },
       {
         "site": "unext",

@@ -55,9 +55,9 @@
       {
         "site": "bilibili",
         "id": "5449",
+        "season_id": "5449",
         "begin": "2016-08-16T06:59:00.000Z",
-        "broadcast": "R/2016-08-16T06:59:00.000Z/P7D",
-        "season_id": "5449"
+        "broadcast": "R/2016-08-16T06:59:00.000Z/P7D"
       },
       {
         "site": "unext",

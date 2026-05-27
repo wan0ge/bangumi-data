@@ -24,9 +24,9 @@
       {
         "site": "bilibili",
         "id": "3318",
+        "season_id": "3318",
         "begin": "2006-06-28T16:00:01.000Z",
-        "broadcast": "R/2016-01-28T03:03:00.000Z/P7D",
-        "season_id": "3318"
+        "broadcast": "R/2016-01-28T03:03:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -79,9 +79,9 @@
       {
         "site": "bilibili",
         "id": "1434",
+        "season_id": "1434",
         "begin": "2006-06-28T16:00:00.000Z",
-        "broadcast": "R/2009-11-09T17:03:00.000Z/P7D",
-        "season_id": "1434"
+        "broadcast": "R/2009-11-09T17:03:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -218,9 +218,9 @@
       {
         "site": "bilibili",
         "id": "3053",
+        "season_id": "3053",
         "begin": "2015-11-24T15:43:00.000Z",
-        "broadcast": "R/2015-11-24T15:43:00.000Z/P7D",
-        "season_id": "3053"
+        "broadcast": "R/2015-11-24T15:43:00.000Z/P7D"
       },
       {
         "site": "tmdb",

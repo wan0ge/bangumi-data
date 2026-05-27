@@ -19,9 +19,9 @@
       {
         "site": "bilibili",
         "id": "5927",
+        "season_id": "5927",
         "begin": "2017-02-09T02:26:00.000Z",
-        "broadcast": "R/2017-02-09T02:26:00.000Z/P7D",
-        "season_id": "5927"
+        "broadcast": "R/2017-02-09T02:26:00.000Z/P7D"
       },
       {
         "site": "tmdb",

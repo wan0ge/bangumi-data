@@ -67,9 +67,9 @@
       {
         "site": "bilibili",
         "id": "6399",
+        "season_id": "6399",
         "begin": "2017-08-21T03:38:00.000Z",
-        "broadcast": "R/2017-08-21T03:38:00.000Z/P7D",
-        "season_id": "6399"
+        "broadcast": "R/2017-08-21T03:38:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -121,9 +121,9 @@
       {
         "site": "bilibili",
         "id": "2461",
+        "season_id": "2461",
         "begin": "2014-06-05T15:12:25.000Z",
-        "broadcast": "R/2014-06-05T15:12:25.000Z/P7D",
-        "season_id": "2461"
+        "broadcast": "R/2014-06-05T15:12:25.000Z/P7D"
       },
       {
         "site": "tmdb",

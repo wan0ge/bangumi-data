@@ -24,9 +24,9 @@
       {
         "site": "bilibili",
         "id": "4208955",
+        "season_id": "26009",
         "begin": "2018-11-11T06:52:01.000Z",
-        "broadcast": "R/2018-11-11T06:52:01.000Z/P7D",
-        "season_id": "26009"
+        "broadcast": "R/2018-11-11T06:52:01.000Z/P7D"
       },
       {
         "site": "danime",
@@ -122,9 +122,9 @@
       {
         "site": "bilibili",
         "id": "2393",
+        "season_id": "2393",
         "begin": "2013-05-18T20:53:19.000Z",
-        "broadcast": "R/2013-05-18T20:53:19.000Z/P7D",
-        "season_id": "2393"
+        "broadcast": "R/2013-05-18T20:53:19.000Z/P7D"
       },
       {
         "site": "unext",
@@ -480,9 +480,9 @@
       {
         "site": "bilibili",
         "id": "2416",
+        "season_id": "2416",
         "begin": "2020-04-26T09:57:00.000Z",
-        "broadcast": "R/2020-04-26T09:57:00.000Z/P7D",
-        "season_id": "2416"
+        "broadcast": "R/2020-04-26T09:57:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -493,9 +493,9 @@
       {
         "site": "gamer_hk",
         "id": "30500",
+        "video_sn": "14225",
         "begin": "2019-11-25T09:40:00.000Z",
-        "broadcast": "R/2019-11-25T09:40:00.000Z/P7D",
-        "video_sn": "14225"
+        "broadcast": "R/2019-11-25T09:40:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -506,9 +506,9 @@
       {
         "site": "gamer",
         "id": "30500",
+        "video_sn": "14225",
         "begin": "2019-11-25T09:40:00.000Z",
-        "broadcast": "R/2019-11-25T09:40:00.000Z/P7D",
-        "video_sn": "14225"
+        "broadcast": "R/2019-11-25T09:40:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -549,9 +549,9 @@
       {
         "site": "bilibili",
         "id": "130932",
+        "season_id": "25531",
         "begin": "2018-09-06T10:01:35.000Z",
-        "broadcast": "R/2018-09-06T10:01:35.000Z/P7D",
-        "season_id": "25531"
+        "broadcast": "R/2018-09-06T10:01:35.000Z/P7D"
       },
       {
         "site": "unext",
