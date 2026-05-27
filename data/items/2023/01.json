@@ -328,7 +328,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28435384",
         "begin": "2023-01-06T18:25:00.000Z",
-        "broadcast": "R/2023-01-06T18:25:00.000Z/P7D"
+        "broadcast": "R/2023-01-06T18:25:00.000Z/P7D",
+        "season_id": "44221"
       },
       {
         "site": "bilibili",
@@ -1948,7 +1949,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28480898",
         "begin": "2023-01-09T17:15:00.000Z",
-        "broadcast": "R/2023-01-09T17:15:00.000Z/P7D"
+        "broadcast": "R/2023-01-09T17:15:00.000Z/P7D",
+        "season_id": "44470"
       },
       {
         "site": "muse_hk",
@@ -3007,7 +3009,8 @@
         "site": "bilibili_tw",
         "id": "28480892",
         "begin": "2023-01-07T17:00:00.000Z",
-        "broadcast": "R/2023-01-07T17:00:00.000Z/P7D"
+        "broadcast": "R/2023-01-07T17:00:00.000Z/P7D",
+        "season_id": "44464"
       },
       {
         "site": "gamer",

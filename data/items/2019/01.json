@@ -1630,7 +1630,8 @@
         "site": "bilibili",
         "id": "4762714",
         "begin": "2019-01-06T16:15:00.000Z",
-        "broadcast": "R/2019-01-06T16:15:00.000Z/P7D"
+        "broadcast": "R/2019-01-06T16:15:00.000Z/P7D",
+        "season_id": "26298"
       },
       {
         "site": "nicovideo",

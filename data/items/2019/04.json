@@ -3645,7 +3645,8 @@
         "site": "bilibili",
         "id": "19557847",
         "begin": "2019-04-10T04:00:00.000Z",
-        "broadcast": "R/2019-04-10T04:00:00.000Z/P7D"
+        "broadcast": "R/2019-04-10T04:00:00.000Z/P7D",
+        "season_id": "26710"
       },
       {
         "site": "acfun",

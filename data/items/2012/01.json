@@ -638,7 +638,8 @@
         "id": "816",
         "begin": "2012-01-04T16:00:00.000Z",
         "broadcast": "R/2012-03-30T15:47:00.000Z/P7D",
-        "comment": "SP: 2866"
+        "comment": "SP: 2866",
+        "season_id": "816"
       },
       {
         "site": "unext",

@@ -2144,7 +2144,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28339851",
         "begin": "2022-10-01T16:00:00.000Z",
-        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D"
+        "broadcast": "R/2022-10-01T16:00:00.000Z/P7D",
+        "season_id": "43278"
       },
       {
         "site": "gamer",
@@ -4057,7 +4058,8 @@
         "id": "28339620",
         "begin": "2022-10-28T16:23:01.000Z",
         "broadcast": "R/2022-10-28T16:23:01.000Z/P7D",
-        "comment": "中配: 28339621"
+        "comment": "中配: 28339621",
+        "season_id": "43057"
       },
       {
         "site": "nicovideo",

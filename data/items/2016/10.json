@@ -3504,7 +3504,8 @@
         "id": "10645046",
         "begin": "2019-01-17T03:30:00.000Z",
         "broadcast": "R/2019-01-17T03:30:00.000Z/P7D",
-        "comment": "第二季"
+        "comment": "第二季",
+        "season_id": "26460"
       },
       {
         "site": "dmhy",
@@ -4203,7 +4204,8 @@
         "site": "bilibili",
         "id": "5558",
         "begin": "2016-10-05T13:55:00.000Z",
-        "broadcast": "R/2016-10-05T13:55:00.000Z/P7D"
+        "broadcast": "R/2016-10-05T13:55:00.000Z/P7D",
+        "season_id": "5558"
       },
       {
         "site": "youku",
@@ -4297,7 +4299,8 @@
         "site": "bilibili_tw",
         "id": "4313102",
         "begin": "2018-11-27T07:22:03.000Z",
-        "broadcast": "R/2018-11-27T07:22:03.000Z/P7D"
+        "broadcast": "R/2018-11-27T07:22:03.000Z/P7D",
+        "season_id": "5531"
       },
       {
         "site": "bangumi_moe",
@@ -4710,7 +4713,8 @@
         "site": "bilibili",
         "id": "5595",
         "begin": "2016-10-06T03:46:28.000Z",
-        "broadcast": "R/2016-10-20T02:24:04.000Z/P7D"
+        "broadcast": "R/2016-10-20T02:24:04.000Z/P7D",
+        "season_id": "5595"
       },
       {
         "site": "bangumi",
@@ -4772,7 +4776,8 @@
         "site": "bilibili",
         "id": "5570",
         "begin": "2016-10-06T03:46:28.000Z",
-        "broadcast": "R/2016-10-20T02:23:48.000Z/P7D"
+        "broadcast": "R/2016-10-20T02:23:48.000Z/P7D",
+        "season_id": "5570"
       },
       {
         "site": "tmdb",
@@ -4800,7 +4805,8 @@
         "site": "bilibili",
         "id": "5430",
         "begin": "2016-10-06T02:37:49.000Z",
-        "broadcast": "R/2016-10-06T02:37:00.000Z/P7D"
+        "broadcast": "R/2016-10-06T02:37:00.000Z/P7D",
+        "season_id": "5430"
       },
       {
         "site": "youku",
@@ -5087,7 +5093,8 @@
         "site": "bilibili",
         "id": "5599",
         "begin": "2016-09-30T02:59:09.000Z",
-        "broadcast": "R/2016-10-17T13:24:00.000Z/P7D"
+        "broadcast": "R/2016-10-17T13:24:00.000Z/P7D",
+        "season_id": "5599"
       },
       {
         "site": "qq",
@@ -5149,7 +5156,8 @@
         "site": "bilibili",
         "id": "5572",
         "begin": "2016-09-30T02:59:09.000Z",
-        "broadcast": "R/2016-09-30T02:59:00.000Z/P7D"
+        "broadcast": "R/2016-09-30T02:59:00.000Z/P7D",
+        "season_id": "5572"
       },
       {
         "site": "qq",

@@ -1720,7 +1720,8 @@
         "site": "bilibili",
         "id": "4058",
         "begin": "2014-10-05T16:00:01.000Z",
-        "broadcast": "R/2017-03-22T01:54:00.000Z/P7D"
+        "broadcast": "R/2017-03-22T01:54:00.000Z/P7D",
+        "season_id": "4058"
       },
       {
         "site": "unext",

@@ -1938,7 +1938,8 @@
         "site": "bilibili_tw",
         "id": "4313422",
         "begin": "2018-11-29T10:29:11.000Z",
-        "broadcast": "R/2018-11-29T10:29:11.000Z/P7D"
+        "broadcast": "R/2018-11-29T10:29:11.000Z/P7D",
+        "season_id": "26182"
       },
       {
         "site": "unext",

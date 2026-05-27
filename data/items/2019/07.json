@@ -2383,7 +2383,8 @@
         "site": "bilibili_tw",
         "id": "28221405",
         "begin": "2019-07-11T19:25:00.000Z",
-        "broadcast": "R/2019-07-11T19:25:00.000Z/P7D"
+        "broadcast": "R/2019-07-11T19:25:00.000Z/P7D",
+        "season_id": "28008"
       },
       {
         "site": "nicovideo",
@@ -3341,7 +3342,8 @@
         "site": "bilibili",
         "id": "28221282",
         "begin": "2019-10-04T16:00:00.000Z",
-        "broadcast": "R/2019-10-04T16:00:00.000Z/P7D"
+        "broadcast": "R/2019-10-04T16:00:00.000Z/P7D",
+        "season_id": "27935"
       },
       {
         "site": "nicovideo",
@@ -3533,7 +3535,8 @@
         "id": "28340508",
         "begin": "",
         "broadcast": "",
-        "comment": "OAD2: 28340509, OAD3: 28340510, OAD4: 28340511, OAD5: 28340512"
+        "comment": "OAD2: 28340509, OAD3: 28340510, OAD4: 28340511, OAD5: 28340512",
+        "season_id": "43907"
       },
       {
         "site": "abema",

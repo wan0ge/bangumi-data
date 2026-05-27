@@ -113,7 +113,8 @@
         "site": "bilibili_tw",
         "id": "4312942",
         "begin": "2018-11-26T04:34:26.000Z",
-        "broadcast": "R/2018-11-26T04:34:26.000Z/P7D"
+        "broadcast": "R/2018-11-26T04:34:26.000Z/P7D",
+        "season_id": "26163"
       },
       {
         "site": "unext",
@@ -3645,7 +3646,8 @@
         "site": "bilibili",
         "id": "5210",
         "begin": "2016-07-07T16:00:01.000Z",
-        "broadcast": "R/2016-07-15T02:14:00.000Z/P7D"
+        "broadcast": "R/2016-07-15T02:14:00.000Z/P7D",
+        "season_id": "5210"
       },
       {
         "site": "iqiyi",
@@ -3700,7 +3702,8 @@
         "site": "bilibili",
         "id": "5050",
         "begin": "2016-07-07T16:00:01.000Z",
-        "broadcast": "R/2016-07-08T02:16:04.000Z/P7D"
+        "broadcast": "R/2016-07-08T02:16:04.000Z/P7D",
+        "season_id": "5050"
       },
       {
         "site": "iqiyi",

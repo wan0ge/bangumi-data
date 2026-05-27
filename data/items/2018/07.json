@@ -277,7 +277,8 @@
         "site": "bilibili",
         "id": "102512",
         "begin": "2018-07-03T16:30:00.000Z",
-        "broadcast": "R/2018-07-03T16:30:00.000Z/P7D"
+        "broadcast": "R/2018-07-03T16:30:00.000Z/P7D",
+        "season_id": "24567"
       },
       {
         "site": "netflix",
@@ -2758,7 +2759,8 @@
         "site": "bilibili",
         "id": "95272",
         "begin": "2018-07-05T04:00:00.000Z",
-        "broadcast": "R/2018-07-05T04:00:00.000Z/P7D"
+        "broadcast": "R/2018-07-05T04:00:00.000Z/P7D",
+        "season_id": "24336"
       },
       {
         "site": "nicovideo",
@@ -2826,7 +2828,8 @@
         "site": "bilibili",
         "id": "95292",
         "begin": "2018-07-05T04:00:00.000Z",
-        "broadcast": "R/2018-07-05T04:00:00.000Z/P7D"
+        "broadcast": "R/2018-07-05T04:00:00.000Z/P7D",
+        "season_id": "24333"
       },
       {
         "site": "tmdb",

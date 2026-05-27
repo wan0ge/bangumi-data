@@ -30,7 +30,8 @@
         "site": "bilibili",
         "id": "28231940",
         "begin": "2020-12-07T00:00:00.000Z",
-        "broadcast": "R/2020-12-07T00:00:00.000Z/P7D"
+        "broadcast": "R/2020-12-07T00:00:00.000Z/P7D",
+        "season_id": "36297"
       },
       {
         "site": "netflix",

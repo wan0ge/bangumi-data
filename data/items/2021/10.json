@@ -4315,7 +4315,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28235287",
         "begin": "2021-10-10T15:45:01.000Z",
-        "broadcast": "R/2021-10-10T15:45:01.000Z/P7D"
+        "broadcast": "R/2021-10-10T15:45:01.000Z/P7D",
+        "season_id": "39593"
       },
       {
         "site": "netflix",

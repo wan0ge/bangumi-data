@@ -1234,7 +1234,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28237165",
         "begin": "2022-03-27T15:05:01.000Z",
-        "broadcast": "R/2022-03-27T15:05:01.000Z/P7D"
+        "broadcast": "R/2022-03-27T15:05:01.000Z/P7D",
+        "season_id": "41456"
       },
       {
         "site": "gamer",
@@ -1737,7 +1738,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28237200",
         "begin": "2022-04-07T13:30:00.000Z",
-        "broadcast": "R/2022-04-07T13:30:00.000Z/P7D"
+        "broadcast": "R/2022-04-07T13:30:00.000Z/P7D",
+        "season_id": "41491"
       },
       {
         "site": "nicovideo",
@@ -1931,7 +1933,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28237209",
         "begin": "2022-04-02T10:00:00.000Z",
-        "broadcast": "R/2022-04-02T10:00:00.000Z/P7D"
+        "broadcast": "R/2022-04-02T10:00:00.000Z/P7D",
+        "season_id": "41500"
       },
       {
         "site": "bilibili",
@@ -2435,7 +2438,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28237190",
         "begin": "2022-04-08T14:00:00.000Z",
-        "broadcast": "R/2022-04-08T14:00:00.000Z/P7D"
+        "broadcast": "R/2022-04-08T14:00:00.000Z/P7D",
+        "season_id": "41481"
       },
       {
         "site": "nicovideo",
@@ -3141,7 +3145,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28237208",
         "begin": "2022-04-06T03:00:00.000Z",
-        "broadcast": "R/2022-04-06T03:00:00.000Z/P7D"
+        "broadcast": "R/2022-04-06T03:00:00.000Z/P7D",
+        "season_id": "41499"
       },
       {
         "site": "gamer",
@@ -3436,7 +3441,8 @@
         "site": "bilibili_hk_mo",
         "id": "28237259",
         "begin": "2022-04-22T16:30:00.000Z",
-        "broadcast": "R/2022-04-22T16:30:00.000Z/P7D"
+        "broadcast": "R/2022-04-22T16:30:00.000Z/P7D",
+        "season_id": "41550"
       },
       {
         "site": "gamer",
@@ -3551,7 +3557,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28237180",
         "begin": "2022-04-06T13:00:00.000Z",
-        "broadcast": "R/2022-04-06T13:00:00.000Z/P7D"
+        "broadcast": "R/2022-04-06T13:00:00.000Z/P7D",
+        "season_id": "41471"
       },
       {
         "site": "gamer",

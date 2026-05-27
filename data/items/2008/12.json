@@ -100,7 +100,8 @@
         "site": "bilibili_hk_mo_tw",
         "id": "28338753",
         "begin": "2022-09-09T10:00:00.000Z",
-        "broadcast": "R/2022-09-09T10:00:00.000Z/P7D"
+        "broadcast": "R/2022-09-09T10:00:00.000Z/P7D",
+        "season_id": "42305"
       },
       {
         "site": "unext",
