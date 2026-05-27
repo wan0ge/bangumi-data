@@ -28,12 +28,14 @@
       {
         "site": "gamer",
         "id": "130539",
+        "video_sn": "33047",
         "begin": "2023-03-03T20:00:00.000Z",
         "broadcast": "R/2023-03-03T20:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28481167",
+        "season_id": "44779",
         "begin": "2023-11-15T12:00:00.000Z",
         "broadcast": "R/2023-11-15T12:00:00.000Z/P7D"
       },
@@ -52,6 +54,7 @@
       {
         "site": "gamer_hk",
         "id": "130539",
+        "video_sn": "33047",
         "begin": "",
         "broadcast": ""
       },
@@ -291,6 +294,7 @@
       {
         "site": "bilibili_tw",
         "id": "20161245",
+        "season_id": "44958",
         "begin": "",
         "broadcast": "",
         "comment": "遊郭潛入篇, 遊郭決戰篇: 20203323"
@@ -498,6 +502,7 @@
       {
         "site": "bilibili",
         "id": "28481096",
+        "season_id": "44689",
         "begin": "2023-11-11T02:00:00.000Z",
         "broadcast": "R/2023-11-11T02:00:00.000Z/P7D"
       },

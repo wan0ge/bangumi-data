@@ -76,6 +76,16 @@ declare interface OnairSite {
     comment?: string;
 
     /**
+     * 動畫瘋首集 video_sn，用于直接生成播放链接
+     */
+    video_sn?: string;
+
+    /**
+     * Bilibili season id，用于直接生成播放页链接
+     */
+    season_id?: string;
+
+    /**
      * 番剧放送站点区域限制，用于覆盖站点本身的区域限制
      */
     regions: string[];
