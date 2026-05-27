@@ -1,0 +1,76 @@
+name: Auto Publish to npm
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'  # 防止 auto-bump 循环触发
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Check if version changed
+        id: version
+        run: |
+          CURRENT=$(node -e "console.log(require('./package.json').version)")
+          PREVIOUS=$(git show HEAD~1:package.json 2>/dev/null | node -e "
+            const fs=require('fs');
+            let d=fs.readFileSync(0,'utf8');
+            try { console.log(JSON.parse(d).version) } catch(e) { console.log('') }
+          " || echo "")
+          echo "current=$CURRENT" >> $GITHUB_OUTPUT
+          echo "previous=$PREVIOUS" >> $GITHUB_OUTPUT
+          if [ "$CURRENT" != "$PREVIOUS" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "::notice::手动 bump: $PREVIOUS → $CURRENT"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "::notice::版本未变，将自动 bump"
+          fi
+
+      - name: Publish (manual bump)
+        if: steps.version.outputs.changed == 'true'
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Auto bump and publish
+        if: steps.version.outputs.changed == 'false'
+        run: |
+          CURRENT="${{ steps.version.outputs.current }}"
+          NEXT=$(node -e "
+            const v='$CURRENT'.split('.');
+            v[2] = parseInt(v[2]) + 1;
+            console.log(v.join('.'))
+          ")
+          npm pkg set version="$NEXT"
+          npm publish --access public
+
+          # 将自动 bump 后的版本号提交回仓库
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add package.json
+          git commit -m "chore: auto release $NEXT"
+          git tag "v$NEXT"
+          git push origin master --tags
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

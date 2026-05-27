@@ -1,6 +1,6 @@
 {
-  "name": "bangumi-data",
-  "version": "0.3.132",
+  "name": "@wan0ge/bangumi-data",
+  "version": "0.3.200-test.1",
   "description": "Raw data for Anime",
   "main": "dist/data.json",
   "types": "data.d.ts",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bangumi-data/bangumi-data.git"
+    "url": "git+https://github.com/wan0ge/bangumi-data.git"
   },
   "bugs": {
-    "url": "https://github.com/bangumi-data/bangumi-data/issues"
+    "url": "https://github.com/wan0ge/bangumi-data/issues"
   },
   "keywords": [
     "bangumi",

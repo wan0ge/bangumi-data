@@ -25,6 +25,7 @@
       {
         "site": "bilibili",
         "id": "8712",
+        "season_id": "21326",
         "begin": "2017-12-01T16:00:00.000Z",
         "broadcast": "R/2017-12-02T03:00:00.000Z/P7D"
       },
@@ -282,6 +283,7 @@
       {
         "site": "gamer",
         "id": "100516",
+        "video_sn": "26339",
         "begin": "2021-11-07T15:54:00.000Z",
         "broadcast": "R/2021-11-07T15:54:00.000Z/P7D",
         "comment": "Wall Sina,Goodbye―Part Two―: 120438, Lost Girls Lost in the Cruel World: 120635"
@@ -289,6 +291,7 @@
       {
         "site": "gamer_hk",
         "id": "100516",
+        "video_sn": "26339",
         "begin": "2021-11-07T15:54:00.000Z",
         "broadcast": "R/2021-11-07T15:54:00.000Z/P7D",
         "comment": "Wall Sina,Goodbye―Part Two―: 120438, Lost Girls Lost in the Cruel World: 120635"
@@ -391,6 +394,7 @@
       {
         "site": "bilibili",
         "id": "28234950",
+        "season_id": "39258",
         "begin": "2021-09-30T10:00:00.000Z",
         "broadcast": "R/2021-09-30T10:00:00.000Z/P7D"
       },
@@ -463,6 +467,7 @@
       {
         "site": "bilibili",
         "id": "71992",
+        "season_id": "23677",
         "begin": "2018-02-09T10:30:00.000Z",
         "broadcast": "R/2018-02-09T10:30:00.000Z/P7D"
       },
@@ -475,12 +480,14 @@
       {
         "site": "gamer",
         "id": "88162",
+        "video_sn": "39206",
         "begin": "2024-08-01T02:00:00.000Z",
         "broadcast": "R/2024-08-01T02:00:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "88162",
+        "video_sn": "39206",
         "begin": "2024-08-01T02:00:00.000Z",
         "broadcast": "R/2024-08-01T02:00:00.000Z/P7D"
       },

@@ -24,6 +24,7 @@
       {
         "site": "bilibili",
         "id": "2496",
+        "season_id": "2496",
         "begin": "",
         "broadcast": ""
       },
@@ -70,6 +71,7 @@
       {
         "site": "bilibili",
         "id": "2496",
+        "season_id": "2496",
         "begin": "",
         "broadcast": ""
       },
@@ -111,6 +113,7 @@
       {
         "site": "bilibili",
         "id": "3814",
+        "season_id": "3814",
         "begin": "2016-04-20T06:46:00.000Z",
         "broadcast": "R/2016-04-20T06:46:00.000Z/P7D"
       },

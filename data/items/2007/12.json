@@ -90,6 +90,7 @@
       {
         "site": "bilibili",
         "id": "5742",
+        "season_id": "5742",
         "begin": "2007-12-07T16:00:01.000Z",
         "broadcast": "R/2016-12-03T07:48:00.000Z/P7D"
       },
@@ -178,6 +179,7 @@
       {
         "site": "bilibili",
         "id": "3254",
+        "season_id": "3254",
         "begin": "2007-12-18T16:00:01.000Z",
         "broadcast": "R/2016-01-01T08:33:50.000Z/P7D"
       },
@@ -238,6 +240,7 @@
       {
         "site": "bilibili",
         "id": "4831",
+        "season_id": "4831",
         "begin": "2017-03-18T08:15:36.000Z",
         "broadcast": "R/2017-03-18T08:15:36.000Z/P7D"
       },
@@ -292,6 +295,7 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28338752",
+        "season_id": "42304",
         "begin": "",
         "broadcast": ""
       },

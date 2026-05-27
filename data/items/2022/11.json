@@ -63,6 +63,7 @@
       {
         "site": "gamer",
         "id": "76225",
+        "video_sn": "35184",
         "begin": "2023-09-22T04:00:00.000Z",
         "broadcast": "R/2023-09-22T04:00:00.000Z/P7D"
       },
@@ -81,6 +82,7 @@
       {
         "site": "gamer_hk",
         "id": "76225",
+        "video_sn": "35184",
         "begin": "",
         "broadcast": ""
       },
@@ -192,12 +194,14 @@
       {
         "site": "gamer",
         "id": "119767",
+        "video_sn": "33122",
         "begin": "2023-03-23T15:00:00.000Z",
         "broadcast": "R/2023-03-23T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28481018",
+        "season_id": "44616",
         "begin": "",
         "broadcast": ""
       },
@@ -216,6 +220,7 @@
       {
         "site": "gamer_hk",
         "id": "119767",
+        "video_sn": "33122",
         "begin": "",
         "broadcast": ""
       },
@@ -301,6 +306,7 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28340355",
+        "season_id": "43772",
         "begin": "",
         "broadcast": ""
       },
@@ -359,6 +365,7 @@
       {
         "site": "bilibili",
         "id": "28339717",
+        "season_id": "43149",
         "begin": "2022-09-29T23:00:01.000Z",
         "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
       },
@@ -428,6 +435,7 @@
       {
         "site": "bilibili",
         "id": "28370944",
+        "season_id": "45005",
         "begin": "2023-10-21T02:00:00.000Z",
         "broadcast": "R/2023-10-21T02:00:00.000Z/P7D"
       },

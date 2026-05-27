@@ -68,6 +68,7 @@
       {
         "site": "bilibili",
         "id": "5747",
+        "season_id": "5747",
         "begin": "2016-12-31T15:00:00.000Z",
         "broadcast": "R/2016-12-31T15:00:00.000Z/P7D"
       },
@@ -141,6 +142,7 @@
       {
         "site": "bilibili",
         "id": "5833",
+        "season_id": "5833",
         "begin": "2016-12-24T16:00:01.000Z",
         "broadcast": "R/2016-12-27T02:36:00.000Z/P7D"
       },
@@ -211,6 +213,7 @@
       {
         "site": "bilibili",
         "id": "5938",
+        "season_id": "5938",
         "begin": "2016-09-02T16:00:00.000Z",
         "broadcast": ""
       },
@@ -223,6 +226,7 @@
       {
         "site": "bilibili_hk_mo_tw",
         "id": "28481062",
+        "season_id": "44661",
         "begin": "",
         "broadcast": ""
       },
@@ -281,6 +285,7 @@
       {
         "site": "bilibili",
         "id": "5763",
+        "season_id": "5763",
         "begin": "2016-12-13T06:30:00.000Z",
         "broadcast": ""
       },
@@ -328,6 +333,7 @@
       {
         "site": "bilibili",
         "id": "5882",
+        "season_id": "5882",
         "begin": "2016-12-19T16:00:01.000Z",
         "broadcast": "R/2017-01-15T02:40:00.000Z/P7D"
       },
@@ -374,6 +380,7 @@
       {
         "site": "bilibili",
         "id": "5769",
+        "season_id": "5769",
         "begin": "2016-12-15T16:00:01.000Z",
         "broadcast": ""
       },
@@ -385,12 +392,14 @@
       {
         "site": "gamer",
         "id": "74561",
+        "video_sn": "7027",
         "begin": "2016-12-16T09:20:00.000Z",
         "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
       },
       {
         "site": "gamer_hk",
         "id": "74561",
+        "video_sn": "7027",
         "begin": "2016-12-16T09:20:00.000Z",
         "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
       },
@@ -495,6 +504,7 @@
       {
         "site": "bilibili",
         "id": "28228779",
+        "season_id": "33382",
         "begin": "2020-04-29T16:00:00.000Z",
         "broadcast": ""
       },
@@ -725,12 +735,14 @@
       {
         "site": "bilibili",
         "id": "5576",
+        "season_id": "5576",
         "begin": "2016-12-16T16:00:01.000Z",
         "broadcast": ""
       },
       {
         "site": "gamer",
         "id": "84428",
+        "video_sn": "29570",
         "begin": "2022-06-03T01:30:00.000Z",
         "broadcast": "R/2022-06-03T01:30:00.000Z/P7D"
       },
@@ -747,6 +759,7 @@
       {
         "site": "gamer_hk",
         "id": "84428",
+        "video_sn": "29570",
         "begin": "2022-06-03T01:30:00.000Z",
         "broadcast": "R/2022-06-03T01:30:00.000Z/P7D"
       },
@@ -795,6 +808,7 @@
       {
         "site": "bilibili",
         "id": "6136",
+        "season_id": "6136",
         "begin": "2016-12-30T16:00:00.000Z",
         "broadcast": "R/2017-05-04T10:34:00.000Z/P7D"
       },
