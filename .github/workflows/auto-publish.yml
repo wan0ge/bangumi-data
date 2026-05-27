@@ -57,10 +57,17 @@ jobs:
         if: steps.version.outputs.changed == 'false'
         run: |
           CURRENT="${{ steps.version.outputs.current }}"
+
+          # 测试版本号（含 -test.）不触发 auto-bump，直接跳过
+          if echo "$CURRENT" | grep -q '\-test\.'; then
+            echo "::notice::检测到测试版本 $CURRENT，跳过 auto-bump 和发布"
+            exit 0
+          fi
+
           NEXT=$(node -e "
-            const v='$CURRENT'.split('.');
-            v[2] = parseInt(v[2]) + 1;
-            console.log(v.join('.'))
+            const parts = '$CURRENT'.split('.');
+            parts[2] = String(Number(parts[2]) + 1);
+            console.log(parts.join('.'));
           ")
           npm pkg set version="$NEXT"
           npm publish --access public
