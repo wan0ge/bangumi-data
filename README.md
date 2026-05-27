@@ -6,8 +6,21 @@
 [![jsDelivr](https://badgen.net/jsdelivr/hits/npm/@wan0ge/bangumi-data?icon=https://api.iconify.design/simple-icons:jsdelivr.svg?color=white)](https://www.jsdelivr.com/package/npm/@wan0ge/bangumi-data)
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome?icon=https://api.iconify.design/octicon:git-pull-request.svg?color=white)](https://github.com/wan0ge/bangumi-data/blob/master/CONTRIBUTING.md)
 
-> 本仓库是 [bangumi-data/bangumi-data](https://github.com/bangumi-data/bangumi-data) 的 fork，在原版数据基础上新增了 `season_id` / `video_sn` 字段，并通过 CI 自动发布至 npm（`@wan0ge/bangumi-data`）。
-> 本 fork 的所有数据补全工作**依赖上游 bangumi-data 的更新**，上游维护者人工录入新番剧数据后，本 fork 的自动化脚本才会对新条目补全 `season_id` / `video_sn` 字段。感谢上游所有贡献者的持续维护。
+本仓库是 [bangumi-data/bangumi-data](https://github.com/bangumi-data/bangumi-data) 的 fork，在原版数据基础上新增了 `season_id` / `video_sn` 字段，并通过 CI 自动发布至 npm（`@wan0ge/bangumi-data`）。
+本 fork 的所有数据补全工作**依赖上游 bangumi-data 的更新**，上游维护者人工录入新番剧数据后，本 fork 的自动化脚本才会对新条目补全 `season_id` / `video_sn` 字段。感谢上游所有贡献者的持续维护。
+
+---
+
+## 与上游的差异
+
+| 特性 | 上游 bangumi-data | 本 fork（@wan0ge） |
+|---|---|---|
+| `season_id` 字段 | 无 | 新增（尽力补全 B 站番剧 season_id） |
+| `video_sn` 字段 | 无 | 新增（尽力补全巴哈姆特动画疯 video_sn） |
+| 自动数据补全 | 手动 `bdh update` | `auto-sync.sh` 定时运行（依赖上游有新数据） |
+| npm 发布 | 手动 | GitHub Actions 自动 `npm publish` |
+| 版本号 | 手动 bump | 自动 bump（与上游版本联动） |
+| 覆盖范围 | 公开站点 | 额外覆盖 B 站港澳台/台湾分区 |
 
 ---
 
@@ -67,7 +80,7 @@
   → npm install → build → npm publish @wan0ge/bangumi-data
 ```
 
-> 自动化补全的前提是上游已录入对应条目。上游数据未覆盖的条目，本 fork 也无法补全。
+自动化补全的前提是上游已录入对应条目。上游数据未覆盖的条目，本 fork 也无法补全。
 
 ---
 
