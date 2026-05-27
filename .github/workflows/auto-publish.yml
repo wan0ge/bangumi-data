@@ -8,7 +8,7 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    if: github.actor != 'github-actions[bot]'  # 防止 auto-bump 循环触发
+    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Checkout
@@ -34,8 +34,9 @@ jobs:
           CURRENT=$(node -e "console.log(require('./package.json').version)")
           PREVIOUS=$(git show HEAD~1:package.json 2>/dev/null | node -e "
             const fs=require('fs');
-            let d=fs.readFileSync(0,'utf8');
-            try { console.log(JSON.parse(d).version) } catch(e) { console.log('') }
+            let d='';
+            try { d=fs.readFileSync(0,'utf8'); } catch(e) {}
+            try { console.log(JSON.parse(d).version); } catch(e) { console.log(''); }
           " || echo "")
           echo "current=$CURRENT" >> $GITHUB_OUTPUT
           echo "previous=$PREVIOUS" >> $GITHUB_OUTPUT
@@ -72,7 +73,6 @@ jobs:
           npm pkg set version="$NEXT"
           npm publish --access public
 
-          # 将自动 bump 后的版本号提交回仓库
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add package.json
