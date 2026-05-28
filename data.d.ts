@@ -88,7 +88,12 @@ declare interface OnairSite {
     /**
      * 番剧放送站点区域限制，用于覆盖站点本身的区域限制
      */
-    regions: string[];
+    regions?: string[];
+
+    /**
+     * 相关版本（如配音版、粤配版等）的站点信息
+     */
+    related?: Array<{ id: string; season_id?: string; label?: string }>;
 }
 
 /**
