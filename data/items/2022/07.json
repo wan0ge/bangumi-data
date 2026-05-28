@@ -3979,6 +3979,13 @@
         "site": "bilibili",
         "id": "28337756",
         "season_id": "41891",
+        "related": [
+          {
+            "id": "28339734",
+            "season_id": "43163",
+            "label": "中配版"
+          }
+        ],
         "begin": "",
         "broadcast": "",
         "comment": "中配版: 28339734"
