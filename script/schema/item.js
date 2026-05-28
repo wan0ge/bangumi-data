@@ -85,6 +85,11 @@ module.exports = Joi.object({
           comment: Joi.string().trim().allow(''),
           season_id: Joi.string().trim().allow(''),
           video_sn: Joi.string().trim().allow(''),
+          related: Joi.array().items(Joi.object({
+            id: Joi.string().required(),
+            season_id: Joi.string().allow(''),
+            label: Joi.string().allow(''),
+          })).allow(null),
         }),
       }
     )
