@@ -350,6 +350,13 @@
         "site": "bilibili",
         "id": "899",
         "season_id": "899",
+        "related": [
+          {
+            "id": "2836",
+            "season_id": "2836",
+            "label": "中文"
+          }
+        ],
         "begin": "2019-10-16T09:52:00.000Z",
         "broadcast": "R/2019-10-16T09:52:00.000Z/P7D",
         "comment": "中文: 2836"

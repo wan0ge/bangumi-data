@@ -499,6 +499,13 @@
         "site": "bilibili",
         "id": "6375",
         "season_id": "6375",
+        "related": [
+          {
+            "id": "2952",
+            "season_id": "2952",
+            "label": "中文"
+          }
+        ],
         "begin": "2017-07-14T07:46:00.000Z",
         "broadcast": "R/2017-07-14T07:46:00.000Z/P7D",
         "comment": "中文: 2952"

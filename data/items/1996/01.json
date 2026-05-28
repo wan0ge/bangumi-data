@@ -53,6 +53,13 @@
         "site": "bilibili",
         "id": "28228775",
         "season_id": "33378",
+        "related": [
+          {
+            "id": "28228813",
+            "season_id": "33415",
+            "label": "中配"
+          }
+        ],
         "begin": "2009-04-18T11:30:00.000Z",
         "broadcast": "R/2020-04-30T11:00:00.000Z/P7D",
         "comment": "中配: 28228813"
@@ -227,6 +234,13 @@
         "site": "bilibili",
         "id": "2303",
         "season_id": "2303",
+        "related": [
+          {
+            "id": "5412",
+            "season_id": "5412",
+            "label": "中配"
+          }
+        ],
         "begin": "1996-01-09T16:00:00.000Z",
         "broadcast": "R/2020-06-05T03:41:00.000Z/P7D",
         "comment": "中配: 5412"

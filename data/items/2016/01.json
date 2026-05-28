@@ -1766,6 +1766,13 @@
         "site": "bilibili",
         "id": "3128",
         "season_id": "3128",
+        "related": [
+          {
+            "id": "5388",
+            "season_id": "5388",
+            "label": "粵語"
+          }
+        ],
         "begin": "2016-01-09T14:30:00.000Z",
         "broadcast": "R/2016-01-09T14:30:00.000Z/P7D",
         "comment": "粵語: 5388"

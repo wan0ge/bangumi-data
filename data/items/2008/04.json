@@ -1450,6 +1450,13 @@
         "site": "bilibili",
         "id": "5382",
         "season_id": "5382",
+        "related": [
+          {
+            "id": "1250",
+            "season_id": "1250",
+            "label": "中文"
+          }
+        ],
         "begin": "2008-04-04T16:00:00.000Z",
         "broadcast": "R/2016-07-26T09:24:00.000Z/P7D",
         "comment": "中文: 1250"
