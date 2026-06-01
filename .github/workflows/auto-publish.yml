@@ -48,8 +48,22 @@ jobs:
             echo "::notice::版本未变，将自动 bump"
           fi
 
-      - name: Publish (manual bump)
+      - name: Check if version already published
         if: steps.version.outputs.changed == 'true'
+        id: npm-check
+        run: |
+          PKG_NAME=$(node -e "console.log(require('./package.json').name)")
+          PKG_VERSION="${{ steps.version.outputs.current }}"
+          if npm view "${PKG_NAME}@${PKG_VERSION}" version --json >/dev/null 2>&1; then
+            echo "already_published=true" >> $GITHUB_OUTPUT
+            echo "::notice::版本 ${PKG_NAME}@${PKG_VERSION} 已存在于 npm，跳过发布"
+          else
+            echo "already_published=false" >> $GITHUB_OUTPUT
+            echo "::notice::版本 ${PKG_NAME}@${PKG_VERSION} 不存在于 npm，将继续发布"
+          fi
+
+      - name: Publish (manual bump)
+        if: steps.version.outputs.changed == 'true' && steps.npm-check.outputs.already_published == 'false'
         run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
