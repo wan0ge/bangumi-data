@@ -1411,6 +1411,12 @@
       {
         "site": "aniList",
         "id": "20701"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpofvHF4nPHjSlnnlOpy3Rg",
+        "begin": "2026-05-26T13:00:06.000Z",
+        "broadcast": "R/2026-05-26T13:00:06.000Z/P7D"
       }
     ]
   },
@@ -3004,6 +3010,12 @@
       {
         "site": "aniList",
         "id": "20812"
+      },
+      {
+        "site": "prime",
+        "id": "B0FGHQ1DMR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4255,7 +4267,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/50712/season/0/episode/9"
+        "id": "movie/511082"
       },
       {
         "site": "mal",

@@ -286,6 +286,12 @@
       {
         "site": "aniList",
         "id": "123645"
+      },
+      {
+        "site": "gamer",
+        "id": "113491",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

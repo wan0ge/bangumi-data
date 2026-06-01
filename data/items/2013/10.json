@@ -2467,6 +2467,13 @@
       {
         "site": "aniList",
         "id": "19319"
+      },
+      {
+        "site": "bilibili",
+        "id": "4374",
+        "begin": "2017-03-31T17:16:08.000Z",
+        "broadcast": "R/2017-03-31T17:16:08.000Z/P7D",
+        "comment": "中配: 27757135"
       }
     ]
   },
@@ -2690,6 +2697,12 @@
       {
         "site": "aniList",
         "id": "17549"
+      },
+      {
+        "site": "abema",
+        "id": "25-23aagrwux-zi",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
