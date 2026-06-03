@@ -11,6 +11,7 @@ jobs:
     if: github.actor != 'github-actions[bot]'
     permissions:
       contents: write
+      id-token: write  # Trusted Publishing 要求：允许 GitHub 生成短期 OIDC 凭证
 
     steps:
       - name: Checkout
@@ -26,6 +27,10 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      # Trusted Publishing 要求 npm >= 11.5.1，确保使用最新版本
+      - name: Upgrade npm
+        run: npm install -g npm@latest
 
       - name: Build
         run: npm run build
@@ -64,11 +69,10 @@ jobs:
             echo "::notice::版本 ${PKG_NAME}@${PKG_VERSION} 不存在于 npm，将继续发布"
           fi
 
+      # 手动 bump 路径：package.json 版本号已由推送方设置，直接发布
       - name: Publish (manual bump)
         if: steps.version.outputs.changed == 'true' && steps.npm-check.outputs.already_published == 'false'
-        run: npm publish --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npm publish --access public --provenance
 
       - name: Create GitHub Release (manual bump)
         if: steps.version.outputs.changed == 'true' && steps.npm-check.outputs.already_published == 'false'
@@ -80,28 +84,47 @@ jobs:
           draft: false
           prerelease: false
 
+      # 自动 bump 路径：版本号未变，由 Actions 根据策略计算下一版本后发布
+      #
+      # 版本号策略（与 auto-sync.sh 的 calc_next_version 保持一致）：
+      #   含 -test. 后缀 → 跳过（测试版本不触发自动发布）
+      #   含数字尾缀（如 0.3.210-1）→ minor 策略：尾缀 +1（→ 0.3.210-2）
+      #   纯三段版本号（如 0.3.210）→ major 策略：patch +1（→ 0.3.211）
       - name: Auto bump and publish
         if: steps.version.outputs.changed == 'false'
         id: auto-bump
         run: |
           CURRENT="${{ steps.version.outputs.current }}"
 
-          # 测试版本号（含 -test.）不触发 auto-bump，直接跳过
+          # 测试版本（含 -test.）不触发自动发布
           if echo "$CURRENT" | grep -q '\-test\.'; then
             echo "::notice::检测到测试版本 $CURRENT，跳过 auto-bump 和发布"
             echo "skipped=true" >> $GITHUB_OUTPUT
             exit 0
           fi
 
+          # 根据当前版本是否含数字尾缀决定 minor/major 策略
           NEXT=$(node -e "
-            const parts = '$CURRENT'.split('.');
-            parts[2] = String(Number(parts[2]) + 1);
-            console.log(parts.join('.'));
+            const cur = '$CURRENT';
+            // 匹配 major.minor.patch 和可选的数字尾缀，如 0.3.210 或 0.3.210-1
+            const m = cur.match(/^(\d+\.\d+\.\d+)(?:-(\d+))?$/);
+            if (!m) { console.log(cur); process.exit(0); }
+            const base   = m[1];
+            const suffix = m[2] != null ? Number(m[2]) : null;
+            if (suffix != null) {
+              // minor 策略：尾缀递增
+              console.log(base + '-' + (suffix + 1));
+            } else {
+              // major 策略：patch 递增
+              const parts = base.split('.').map(Number);
+              parts[2]++;
+              console.log(parts.join('.'));
+            }
           ")
           echo "next=$NEXT" >> $GITHUB_OUTPUT
           echo "skipped=false" >> $GITHUB_OUTPUT
           npm pkg set version="$NEXT"
-          npm publish --access public
+          npm publish --access public --provenance
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -109,8 +132,6 @@ jobs:
           git commit -m "chore: auto release $NEXT"
           git tag "v$NEXT"
           git push origin master --tags
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Create GitHub Release (auto bump)
         if: steps.version.outputs.changed == 'false' && steps.auto-bump.outputs.skipped == 'false'
