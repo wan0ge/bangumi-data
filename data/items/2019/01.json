@@ -66,6 +66,12 @@
       {
         "site": "aniList",
         "id": "103139"
+      },
+      {
+        "site": "abema",
+        "id": "194-18",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -673,6 +679,12 @@
       {
         "site": "aniList",
         "id": "102680"
+      },
+      {
+        "site": "abema",
+        "id": "25-108",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1607,6 +1619,12 @@
       {
         "site": "aniList",
         "id": "21322"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039035",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
       }
     ]
   },

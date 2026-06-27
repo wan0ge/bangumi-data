@@ -3417,6 +3417,12 @@
       {
         "site": "aniList",
         "id": "162896"
+      },
+      {
+        "site": "abema",
+        "id": "26-227",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4321,6 +4327,12 @@
         "id": "G3KHEVD3E",
         "begin": "2024-07-04T15:59:00.000Z",
         "broadcast": "R/2024-07-04T15:59:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "189-68",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

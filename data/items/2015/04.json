@@ -158,6 +158,12 @@
         "video_sn": "5125",
         "begin": "2026-01-31T16:00:00.000Z",
         "broadcast": "R/2026-01-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-78",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -704,6 +710,12 @@
       {
         "site": "aniList",
         "id": "20792"
+      },
+      {
+        "site": "abema",
+        "id": "26-28",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4518,7 +4530,7 @@
       },
       {
         "site": "prime",
-        "id": "B06Y1LQ3Q5",
+        "id": "B0GWYD9X16",
         "begin": "",
         "broadcast": ""
       },

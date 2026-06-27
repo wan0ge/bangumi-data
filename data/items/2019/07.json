@@ -1551,7 +1551,7 @@
       },
       {
         "site": "prime",
-        "id": "B0FK952S2V",
+        "id": "B0GSSTCFNV",
         "begin": "",
         "broadcast": ""
       },
@@ -1572,6 +1572,12 @@
         "id": "GYQWNXPZY",
         "begin": "2019-07-06T00:00:00.000Z",
         "broadcast": "R/2019-07-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "194-16",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2060,6 +2066,12 @@
       {
         "site": "aniList",
         "id": "107490"
+      },
+      {
+        "site": "abema",
+        "id": "189-12",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

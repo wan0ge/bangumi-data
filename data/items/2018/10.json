@@ -759,6 +759,12 @@
       {
         "site": "aniList",
         "id": "101280"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYZJ43JMR",
+        "begin": "2018-10-02T00:00:00.000Z",
+        "broadcast": "R/2018-10-02T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2256,8 +2262,8 @@
       {
         "site": "crunchyroll",
         "id": "G6QW9J2Z6",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2018-10-05T15:00:00.000Z",
+        "broadcast": "R/2018-10-05T15:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -2646,6 +2652,12 @@
       {
         "site": "aniList",
         "id": "102351"
+      },
+      {
+        "site": "abema",
+        "id": "171-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5155,6 +5167,12 @@
       {
         "site": "aniList",
         "id": "99614"
+      },
+      {
+        "site": "abema",
+        "id": "115-130",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

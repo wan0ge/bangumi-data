@@ -204,6 +204,12 @@
       {
         "site": "aniList",
         "id": "21878"
+      },
+      {
+        "site": "abema",
+        "id": "25-47",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1301,6 +1307,9 @@
       ],
       "zh-Hant": [
         "幼女戰記"
+      ],
+      "en": [
+        "Saga of Tanya the Evil"
       ]
     },
     "type": "tv",
@@ -1402,6 +1411,12 @@
       {
         "site": "aniList",
         "id": "21613"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR9P57W96",
+        "begin": "2017-01-06T00:00:00.000Z",
+        "broadcast": "R/2017-01-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1548,6 +1563,12 @@
       {
         "site": "aniList",
         "id": "21298"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrj9e5GI2AtAT0AMh6js5VY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

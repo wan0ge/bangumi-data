@@ -221,6 +221,12 @@
       {
         "site": "aniList",
         "id": "1117"
+      },
+      {
+        "site": "abema",
+        "id": "746-2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

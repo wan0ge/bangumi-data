@@ -211,6 +211,12 @@
       {
         "site": "aniList",
         "id": "14813"
+      },
+      {
+        "site": "abema",
+        "id": "19-77",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -595,6 +601,12 @@
       {
         "site": "aniList",
         "id": "15809"
+      },
+      {
+        "site": "prime",
+        "id": "B0FP55MZ7K",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -656,6 +668,12 @@
       {
         "site": "aniList",
         "id": "15225"
+      },
+      {
+        "site": "abema",
+        "id": "117-8ykbs-yxrau",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
