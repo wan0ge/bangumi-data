@@ -6354,12 +6354,14 @@
       {
         "site": "gamer",
         "id": "147306",
+        "video_sn": "49497",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "147306",
+        "video_sn": "49497",
         "begin": "",
         "broadcast": ""
       }
@@ -6918,6 +6920,7 @@
       {
         "site": "gamer",
         "id": "152101",
+        "video_sn": "49721",
         "begin": "2026-06-12T04:00:00.000Z",
         "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
         "comment": "開幕篇, 柱集結篇: 152102"
@@ -6925,6 +6928,7 @@
       {
         "site": "gamer_hk",
         "id": "152101",
+        "video_sn": "49721",
         "begin": "2026-06-12T04:00:00.000Z",
         "broadcast": "R/2026-06-12T04:00:00.000Z/P7D",
         "comment": "開幕篇, 柱集結篇: 152102"
