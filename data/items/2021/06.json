@@ -286,12 +286,6 @@
       {
         "site": "aniList",
         "id": "123645"
-      },
-      {
-        "site": "gamer",
-        "id": "113491",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -378,6 +372,12 @@
       {
         "site": "aniList",
         "id": "99900"
+      },
+      {
+        "site": "abema",
+        "id": "25-326",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

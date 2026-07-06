@@ -1976,12 +1976,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "19-251",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "tmdb",
         "id": "tv/93816"
       },
@@ -2450,12 +2444,6 @@
       {
         "site": "bangumi",
         "id": "289945"
-      },
-      {
-        "site": "unext",
-        "id": "SID0158072",
-        "begin": "2024-11-15T03:00:00.000Z",
-        "broadcast": "R/2024-11-15T03:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

@@ -254,12 +254,6 @@
         "broadcast": "R/2025-04-13T13:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "25-286",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "67ed5cc28b961748467f4607"
       },
@@ -343,12 +337,6 @@
       {
         "site": "bangumi",
         "id": "526816"
-      },
-      {
-        "site": "abema",
-        "id": "13-197",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -606,8 +594,8 @@
       {
         "site": "netflix",
         "id": "81991687",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-26T16:00:00.000Z",
+        "broadcast": "R/2025-04-26T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -714,18 +702,6 @@
         "video_sn": "42933",
         "begin": "2025-04-06T14:30:00.000Z",
         "broadcast": "R/2025-04-06T14:30:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0181257",
-        "begin": "2025-04-06T14:00:00.000Z",
-        "broadcast": "R/2025-04-06T14:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-200",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -915,12 +891,6 @@
         "id": "SID0181243",
         "begin": "2025-04-07T15:30:00.000Z",
         "broadcast": "R/2025-04-07T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "25-287",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "bangumi_moe",
@@ -1146,8 +1116,8 @@
       {
         "site": "netflix",
         "id": "82033328",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-08T16:00:00.000Z",
+        "broadcast": "R/2026-01-08T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -1224,8 +1194,8 @@
       {
         "site": "netflix",
         "id": "82025664",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-02T16:00:00.000Z",
+        "broadcast": "R/2025-04-02T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -1980,12 +1950,6 @@
         "broadcast": "R/2025-04-07T17:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "189-80",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "67ed5cbc8b961748467f45df"
       },
@@ -2048,8 +2012,8 @@
       {
         "site": "netflix",
         "id": "82040423",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-12-19T00:00:00.000Z",
+        "broadcast": "R/2025-12-19T00:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2176,8 +2140,8 @@
       {
         "site": "netflix",
         "id": "82082135",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-11-30T00:00:00.000Z",
+        "broadcast": "R/2025-11-30T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -2207,12 +2171,6 @@
       {
         "site": "nicovideo",
         "id": "takaminesan",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "abema",
-        "id": "54-104",
         "begin": "",
         "broadcast": ""
       },
@@ -2325,8 +2283,8 @@
       {
         "site": "netflix",
         "id": "82030222",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-31T16:00:00.000Z",
+        "broadcast": "R/2025-05-31T16:00:00.000Z/P7D"
       },
       {
         "site": "danime",
@@ -2451,6 +2409,18 @@
       {
         "site": "aniList",
         "id": "184989"
+      },
+      {
+        "site": "unext",
+        "id": "SID0309178",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29109",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -2499,12 +2469,6 @@
         "id": "SID0181255",
         "begin": "2025-04-03T15:30:00.000Z",
         "broadcast": "R/2025-04-03T15:30:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "13-198",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -2563,8 +2527,8 @@
       {
         "site": "netflix",
         "id": "82040407",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-11-30T00:00:00.000Z",
+        "broadcast": "R/2025-11-30T00:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -2614,12 +2578,6 @@
         "broadcast": "R/2025-04-08T14:30:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "420-73",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "kowloongr",
         "begin": "",
@@ -2635,8 +2593,8 @@
       {
         "site": "netflix",
         "id": "82033236",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-04T16:00:00.000Z",
+        "broadcast": "R/2025-04-04T16:00:00.000Z/P7D"
       },
       {
         "site": "mikan",
@@ -2738,12 +2696,6 @@
         "id": "SID0181250",
         "begin": "2025-04-06T15:00:00.000Z",
         "broadcast": "R/2025-04-06T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "54-103",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -2923,12 +2875,6 @@
         "video_sn": "42911",
         "begin": "2025-04-05T16:00:00.000Z",
         "broadcast": "R/2025-04-05T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "26-239",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mikan",
@@ -3401,8 +3347,8 @@
       {
         "site": "netflix",
         "id": "82033310",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-13T16:00:00.000Z",
+        "broadcast": "R/2025-08-13T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3491,8 +3437,8 @@
       {
         "site": "netflix",
         "id": "82036784",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-01T16:00:00.000Z",
+        "broadcast": "R/2025-04-01T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -3586,12 +3532,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "170-75",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0181273",
         "begin": "2025-04-03T13:30:00.000Z",
@@ -3663,12 +3603,6 @@
       {
         "site": "bangumi",
         "id": "511264"
-      },
-      {
-        "site": "abema",
-        "id": "643-9",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -3927,8 +3861,8 @@
       {
         "site": "netflix",
         "id": "82036361",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-06T16:00:00.000Z",
+        "broadcast": "R/2025-04-06T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -4085,12 +4019,6 @@
       {
         "site": "bangumi",
         "id": "493813"
-      },
-      {
-        "site": "abema",
-        "id": "643-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "nicovideo",
@@ -4282,12 +4210,6 @@
         "id": "531159"
       },
       {
-        "site": "abema",
-        "id": "26-243",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "67ed5cc98b961748467f4633"
       },
@@ -4408,12 +4330,6 @@
         "broadcast": "R/2025-04-06T15:15:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-241",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "bangumi_moe",
         "id": "67ed5cba8b961748467f45d7"
       },
@@ -4460,8 +4376,8 @@
       {
         "site": "netflix",
         "id": "81986711",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-13T16:00:00.000Z",
+        "broadcast": "R/2025-08-13T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -4548,12 +4464,6 @@
         "id": "SID0181240",
         "begin": "2025-04-03T16:00:00.000Z",
         "broadcast": "R/2025-04-03T16:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "415-11",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",
@@ -4852,12 +4762,6 @@
         "id": "495633"
       },
       {
-        "site": "abema",
-        "id": "643-10",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "nicovideo",
         "id": "fukamikun",
         "begin": "",
@@ -4919,18 +4823,6 @@
       {
         "site": "nicovideo",
         "id": "koihana-anime",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0181252",
-        "begin": "2025-04-03T03:00:00.000Z",
-        "broadcast": "R/2025-04-03T03:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "19-262",
         "begin": "",
         "broadcast": ""
       },
@@ -5265,8 +5157,8 @@
       {
         "site": "netflix",
         "id": "82030192",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-08-14T16:00:00.000Z",
+        "broadcast": "R/2025-08-14T16:00:00.000Z/P7D"
       },
       {
         "site": "viu",
@@ -5360,12 +5252,6 @@
       {
         "site": "bangumi",
         "id": "544872"
-      },
-      {
-        "site": "abema",
-        "id": "622-5",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",
@@ -5546,12 +5432,6 @@
         "broadcast": ""
       },
       {
-        "site": "abema",
-        "id": "26-219",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "disneyplus",
         "id": "18Gmg8yEPTIG",
         "begin": "",
@@ -5683,12 +5563,6 @@
       {
         "site": "mikan",
         "id": "3641"
-      },
-      {
-        "site": "abema",
-        "id": "202-2",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "crunchyroll",
@@ -6346,8 +6220,8 @@
       {
         "site": "netflix",
         "id": "81251383",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-09T16:00:00.000Z",
+        "broadcast": "R/2025-04-09T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -6664,12 +6538,6 @@
       {
         "site": "bangumi",
         "id": "547832"
-      },
-      {
-        "site": "abema",
-        "id": "740-1",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",

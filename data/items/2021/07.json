@@ -2770,12 +2770,6 @@
         "broadcast": "R/2021-07-04T14:00:00.000Z/P7D"
       },
       {
-        "site": "mytv",
-        "id": "idolish7thirdbeat_139517",
-        "begin": "2023-10-10T12:50:00.000Z",
-        "broadcast": "R/2023-10-10T12:50:00.000Z/P7D"
-      },
-      {
         "site": "unext",
         "id": "SID0058448",
         "begin": "2021-07-07T03:00:00.000Z",
@@ -3207,12 +3201,6 @@
         "broadcast": "R/2021-07-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "unext",
-        "id": "SID0058473",
-        "begin": "2021-07-07T03:00:00.000Z",
-        "broadcast": "R/2021-07-07T03:00:00.000Z/P7D"
-      },
-      {
         "site": "mikan",
         "id": "2503"
       },
@@ -3443,12 +3431,6 @@
         "id": "420-11",
         "begin": "",
         "broadcast": ""
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgarYXnz38UWOky-pGBX7Ew",
-        "begin": "2024-02-11T13:00:00.000Z",
-        "broadcast": "R/2024-02-11T13:00:00.000Z/P1D"
       },
       {
         "site": "unext",
@@ -4277,6 +4259,12 @@
       {
         "site": "aniList",
         "id": "127331"
+      },
+      {
+        "site": "danime",
+        "id": "28964",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },

@@ -2758,12 +2758,6 @@
         "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-218",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "gamer_hk",
         "id": "67071",
         "video_sn": "1125",
@@ -4131,8 +4125,8 @@
       {
         "site": "netflix",
         "id": "81719818",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-09-17T16:00:00.000Z",
+        "broadcast": "R/2025-09-17T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",

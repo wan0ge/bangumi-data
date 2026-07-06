@@ -236,6 +236,12 @@
       {
         "site": "aniList",
         "id": "102976"
+      },
+      {
+        "site": "abema",
+        "id": "25-157",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

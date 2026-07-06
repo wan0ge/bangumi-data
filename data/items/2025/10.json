@@ -108,8 +108,8 @@
       {
         "site": "netflix",
         "id": "82662122",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-30T16:00:00.000Z",
+        "broadcast": "R/2026-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -313,6 +313,12 @@
       {
         "site": "aniList",
         "id": "153800"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgexrKVJazYIIfwbJZzI8fl",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -442,8 +448,8 @@
       {
         "site": "netflix",
         "id": "81171925",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-04T16:00:00.000Z",
+        "broadcast": "R/2024-10-04T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -606,8 +612,8 @@
       {
         "site": "netflix",
         "id": "82153100",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-11T16:00:00.000Z",
+        "broadcast": "R/2026-02-11T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -1196,8 +1202,8 @@
       {
         "site": "netflix",
         "id": "82182515",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-30T16:00:00.000Z",
+        "broadcast": "R/2026-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1345,8 +1351,8 @@
       {
         "site": "netflix",
         "id": "82155561",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-02T16:00:00.000Z",
+        "broadcast": "R/2025-10-02T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -1744,8 +1750,8 @@
       {
         "site": "netflix",
         "id": "82662100",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-30T16:00:00.000Z",
+        "broadcast": "R/2026-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -1776,8 +1782,8 @@
       {
         "site": "netflix",
         "id": "81511410",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2022-04-08T16:00:00.000Z",
+        "broadcast": "R/2022-04-08T16:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -1990,8 +1996,8 @@
       {
         "site": "netflix",
         "id": "82172573",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-04T16:00:00.000Z",
+        "broadcast": "R/2026-02-04T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
@@ -2625,8 +2631,8 @@
       {
         "site": "netflix",
         "id": "82159136",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-05T16:00:00.000Z",
+        "broadcast": "R/2025-10-05T16:00:00.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -2674,6 +2680,12 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UciBXfN6YJXy0zR1fcCu06WI",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0FSXJ99DM",
         "begin": "",
         "broadcast": ""
       }
@@ -2847,8 +2859,8 @@
       {
         "site": "netflix",
         "id": "82147615",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-10-05T16:00:00.000Z",
+        "broadcast": "R/2025-10-05T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -3274,8 +3286,8 @@
       {
         "site": "netflix",
         "id": "82162824",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-04-29T16:00:00.000Z",
+        "broadcast": "R/2026-04-29T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -3965,8 +3977,8 @@
       {
         "site": "netflix",
         "id": "82662136",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-30T16:00:00.000Z",
+        "broadcast": "R/2026-01-30T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -4376,8 +4388,8 @@
       {
         "site": "netflix",
         "id": "82155538",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-13T16:00:00.000Z",
+        "broadcast": "R/2026-02-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -4544,8 +4556,8 @@
       {
         "site": "netflix",
         "id": "82176195",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-02-13T16:00:00.000Z",
+        "broadcast": "R/2026-02-13T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -5364,8 +5376,8 @@
       {
         "site": "netflix",
         "id": "82030222",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-31T16:00:00.000Z",
+        "broadcast": "R/2025-05-31T16:00:00.000Z/P7D"
       },
       {
         "site": "unext",
@@ -5629,8 +5641,8 @@
       {
         "site": "netflix",
         "id": "80135674",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2024-10-31T00:00:00.000Z",
+        "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -6389,12 +6401,6 @@
         "id": "tv/136342"
       },
       {
-        "site": "abema",
-        "id": "182-1479",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "50139"
       },
@@ -6652,6 +6658,12 @@
       {
         "site": "anidb",
         "id": "19639"
+      },
+      {
+        "site": "unext",
+        "id": "SID0306711",
+        "begin": "2026-07-02T15:00:00.000Z",
+        "broadcast": "R/2026-07-02T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -6715,6 +6727,22 @@
       {
         "site": "mikan",
         "id": "3894"
+      },
+      {
+        "site": "mal",
+        "id": "50159"
+      },
+      {
+        "site": "aniList",
+        "id": "140337"
+      },
+      {
+        "site": "anidb",
+        "id": "16911"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/959646"
       }
     ]
   }

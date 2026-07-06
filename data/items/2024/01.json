@@ -329,12 +329,6 @@
         "broadcast": "R/2024-01-13T16:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "194-37",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "dmhy",
         "id": "北海道辣妹"
       },
@@ -949,12 +943,6 @@
         "broadcast": ""
       },
       {
-        "site": "mytv",
-        "id": "thefoolishangeldanceswiththedevil0001_143274",
-        "begin": "2025-06-15T02:00:00.000Z",
-        "broadcast": "R/2025-06-15T02:00:00.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/231357"
       },
@@ -1058,8 +1046,8 @@
       {
         "site": "netflix",
         "id": "81910095",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-29T16:00:00.000Z",
+        "broadcast": "R/2025-04-29T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -1178,8 +1166,8 @@
       {
         "site": "netflix",
         "id": "81768306",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-05-13T16:00:00.000Z",
+        "broadcast": "R/2025-05-13T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -2473,8 +2461,8 @@
       {
         "site": "netflix",
         "id": "81747942",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-04-29T16:00:00.000Z",
+        "broadcast": "R/2025-04-29T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3388,8 +3376,8 @@
       {
         "site": "netflix",
         "id": "81975380",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-03-29T16:00:00.000Z",
+        "broadcast": "R/2025-03-29T16:00:00.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -3554,6 +3542,12 @@
       {
         "site": "aniList",
         "id": "162842"
+      },
+      {
+        "site": "danime",
+        "id": "26805",
+        "begin": "2026-01-09T15:00:00.000Z",
+        "broadcast": "R/2026-01-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -5466,12 +5460,6 @@
         "id": "SID0098254",
         "begin": "2024-02-09T15:00:00.000Z",
         "broadcast": "R/2024-02-09T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "622-3",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "tmdb",

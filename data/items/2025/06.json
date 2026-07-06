@@ -53,8 +53,8 @@
       {
         "site": "netflix",
         "id": "82040459",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2025-06-26T16:00:00.000Z",
+        "broadcast": "R/2025-06-26T16:00:00.000Z/P7D"
       },
       {
         "site": "disneyplus",
@@ -243,8 +243,8 @@
       {
         "site": "netflix",
         "id": "81999068",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-01-19T16:00:00.000Z",
+        "broadcast": "R/2026-01-19T16:00:00.000Z/P7D"
       },
       {
         "site": "mal",
@@ -302,6 +302,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "面包超人 恰彭的英雄！"
+      ],
+      "zh-Hant": [
+        "麵包超人電影版：小水滴的英雄！"
       ]
     },
     "type": "movie",
@@ -333,6 +336,12 @@
       {
         "site": "anidb",
         "id": "19257"
+      },
+      {
+        "site": "gamer",
+        "id": "146164",
+        "begin": "2026-07-02T16:00:00.000Z",
+        "broadcast": "R/2026-07-02T16:00:00.000Z/P7D"
       }
     ]
   },
