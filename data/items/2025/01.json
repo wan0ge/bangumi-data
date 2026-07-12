@@ -402,6 +402,18 @@
       {
         "site": "aniList",
         "id": "170650"
+      },
+      {
+        "site": "unext",
+        "id": "SID0163328",
+        "begin": "2026-07-07T03:00:00.000Z",
+        "broadcast": "R/2026-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DQ9B5SGL",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2533,6 +2545,12 @@
       {
         "site": "aniList",
         "id": "170916"
+      },
+      {
+        "site": "mighty",
+        "id": "PL2ql078AibHX22EkyiMFAku1HBRD6dQVJ",
+        "begin": "2025-11-06T11:00:06.000Z",
+        "broadcast": "R/2025-11-06T11:00:06.000Z/P7D"
       }
     ]
   },
@@ -2827,6 +2845,9 @@
       ],
       "en": [
         "The Daily Life of a Middle-Aged Online Shopper in Another World"
+      ],
+      "zh-Hant": [
+        "中年男的異世界網購生活"
       ]
     },
     "type": "tv",
@@ -2898,6 +2919,18 @@
       {
         "site": "aniList",
         "id": "180292"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140899",
+        "begin": "2026-07-10T03:00:00.000Z",
+        "broadcast": "R/2026-07-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "140899",
+        "begin": "2026-07-10T03:00:00.000Z",
+        "broadcast": "R/2026-07-10T03:00:00.000Z/P7D"
       }
     ]
   },
