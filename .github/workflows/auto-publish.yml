@@ -95,7 +95,7 @@ jobs:
       # 手动 bump 路径：package.json 版本号已由推送方设置且未发布，直接发布
       - name: Publish (manual bump)
         if: steps.version.outputs.changed == 'true' && steps.npm-check.outputs.already_published == 'false'
-        run: npm publish --access public --provenance
+        run: npm publish --access public --provenance --tag latest
 
       - name: Create GitHub Release (manual bump)
         if: steps.version.outputs.changed == 'true' && steps.npm-check.outputs.already_published == 'false'
@@ -181,7 +181,7 @@ jobs:
           echo "::notice::自动计算版本: $CURRENT → $NEXT (上游: ${UP_VER:-未知})"
 
           npm pkg set version="$NEXT"
-          npm publish --access public --provenance
+          npm publish --access public --provenance --tag latest
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
