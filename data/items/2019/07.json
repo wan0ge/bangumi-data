@@ -3680,6 +3680,12 @@
       {
         "site": "aniList",
         "id": "106287"
+      },
+      {
+        "site": "abema",
+        "id": "746-23",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
