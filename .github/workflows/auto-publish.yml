@@ -192,3 +192,34 @@ jobs:
           body: ""
           draft: false
           prerelease: false
+
+      # 发布后清除 jsDelivr CDN 缓存
+      # jsDelivr 对版本范围 URL（如 @0.3）缓存最长 7 天，不清除则用户拿不到新版本
+      # 等待 120 秒让 npm 传播新版本，否则 jsDelivr 可能重新缓存旧版本
+      - name: Purge jsDelivr cache
+        if: |
+          (steps.version.outputs.changed == 'true' && steps.npm-check.outputs.already_published == 'false') ||
+          steps.auto-bump.outputs.skipped == 'false'
+        run: |
+          echo "::notice::发布完成，等待 120 秒让 npm 传播新版本..."
+          sleep 120
+          echo "::notice::清除 jsDelivr CDN 缓存..."
+          RESPONSE=$(curl -s -m 30 "https://purge.jsdelivr.net/npm/@wan0ge/bangumi-data@0.3/dist/data.json")
+          echo "$RESPONSE"
+          STATUS=$(echo "$RESPONSE" | node -e "
+            let d='';
+            process.stdin.on('data', c => d += c);
+            process.stdin.on('end', () => {
+              try {
+                const j = JSON.parse(d);
+                console.log(j.status || 'unknown');
+              } catch(e) {
+                console.log('error');
+              }
+            });
+          ")
+          if [ "$STATUS" = "finished" ]; then
+            echo "::notice::jsDelivr 缓存清除成功"
+          else
+            echo "::warning::jsDelivr 缓存清除可能失败，状态: $STATUS"
+          fi
