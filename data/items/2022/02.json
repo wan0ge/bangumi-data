@@ -140,6 +140,18 @@
       {
         "site": "tmdb",
         "id": "movie/890580"
+      },
+      {
+        "site": "mal",
+        "id": "37914"
+      },
+      {
+        "site": "anidb",
+        "id": "14091"
+      },
+      {
+        "site": "aniList",
+        "id": "101705"
       }
     ]
   },
@@ -423,6 +435,18 @@
       {
         "site": "tmdb",
         "id": "movie/648457"
+      },
+      {
+        "site": "mal",
+        "id": "40722"
+      },
+      {
+        "site": "anidb",
+        "id": "15270"
+      },
+      {
+        "site": "aniList",
+        "id": "113345"
       }
     ]
   },

@@ -39,6 +39,18 @@
       {
         "site": "tmdb",
         "id": "tv/80713/season/0/episode/33"
+      },
+      {
+        "site": "mal",
+        "id": "55237"
+      },
+      {
+        "site": "anidb",
+        "id": "18024"
+      },
+      {
+        "site": "aniList",
+        "id": "164551"
       }
     ]
   },
@@ -3104,6 +3116,18 @@
       {
         "site": "tmdb",
         "id": "tv/101099"
+      },
+      {
+        "site": "mal",
+        "id": "41224"
+      },
+      {
+        "site": "anidb",
+        "id": "15966"
+      },
+      {
+        "site": "aniList",
+        "id": "114136"
       }
     ]
   },
@@ -4674,6 +4698,14 @@
       {
         "site": "mal",
         "id": "57470"
+      },
+      {
+        "site": "anidb",
+        "id": "18303"
+      },
+      {
+        "site": "aniList",
+        "id": "170913"
       }
     ]
   },

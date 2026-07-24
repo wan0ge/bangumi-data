@@ -92,6 +92,18 @@
       {
         "site": "tmdb",
         "id": "tv/21738"
+      },
+      {
+        "site": "mal",
+        "id": "1096"
+      },
+      {
+        "site": "anidb",
+        "id": "395"
+      },
+      {
+        "site": "aniList",
+        "id": "1096"
       }
     ]
   },
@@ -444,6 +456,18 @@
       {
         "site": "tmdb",
         "id": "tv/81081"
+      },
+      {
+        "site": "mal",
+        "id": "4584"
+      },
+      {
+        "site": "anidb",
+        "id": "5054"
+      },
+      {
+        "site": "aniList",
+        "id": "4584"
       }
     ]
   },
@@ -528,6 +552,18 @@
       {
         "site": "tmdb",
         "id": "tv/11841"
+      },
+      {
+        "site": "mal",
+        "id": "924"
+      },
+      {
+        "site": "anidb",
+        "id": "2069"
+      },
+      {
+        "site": "aniList",
+        "id": "924"
       }
     ]
   }

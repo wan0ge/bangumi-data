@@ -242,6 +242,10 @@
       {
         "site": "aniList",
         "id": "7230"
+      },
+      {
+        "site": "anidb",
+        "id": "6791"
       }
     ]
   },
@@ -292,6 +296,10 @@
       {
         "site": "bangumi",
         "id": "70886"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/210061"
       },
       {
         "site": "nicovideo",

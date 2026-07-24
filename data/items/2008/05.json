@@ -75,6 +75,10 @@
       {
         "site": "tmdb",
         "id": "movie/23154"
+      },
+      {
+        "site": "anidb",
+        "id": "4932"
       }
     ]
   },

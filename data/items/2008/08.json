@@ -68,6 +68,18 @@
       {
         "site": "tmdb",
         "id": "movie/665580"
+      },
+      {
+        "site": "mal",
+        "id": "8709"
+      },
+      {
+        "site": "anidb",
+        "id": "6803"
+      },
+      {
+        "site": "aniList",
+        "id": "8709"
       }
     ]
   },
@@ -218,6 +230,10 @@
       {
         "site": "tmdb",
         "id": "movie/23155"
+      },
+      {
+        "site": "anidb",
+        "id": "4932"
       }
     ]
   },
@@ -255,6 +271,18 @@
       {
         "site": "tmdb",
         "id": "movie/414131"
+      },
+      {
+        "site": "mal",
+        "id": "4646"
+      },
+      {
+        "site": "anidb",
+        "id": "5894"
+      },
+      {
+        "site": "aniList",
+        "id": "4646"
       }
     ]
   },

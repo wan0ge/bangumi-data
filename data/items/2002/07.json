@@ -639,6 +639,18 @@
       {
         "site": "tmdb",
         "id": "tv/26563"
+      },
+      {
+        "site": "mal",
+        "id": "382"
+      },
+      {
+        "site": "anidb",
+        "id": "242"
+      },
+      {
+        "site": "aniList",
+        "id": "382"
       }
     ]
   },

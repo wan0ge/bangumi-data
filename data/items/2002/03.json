@@ -204,6 +204,18 @@
       {
         "site": "tmdb",
         "id": "tv/43032/season/0/episode/22"
+      },
+      {
+        "site": "mal",
+        "id": "2010"
+      },
+      {
+        "site": "anidb",
+        "id": "536"
+      },
+      {
+        "site": "aniList",
+        "id": "2010"
       }
     ]
   },
@@ -422,6 +434,10 @@
         "id": "SID0017087",
         "begin": "2026-07-02T15:00:00.000Z",
         "broadcast": "R/2026-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21738"
       }
     ]
   },
@@ -550,6 +566,18 @@
       {
         "site": "tmdb",
         "id": "movie/969251"
+      },
+      {
+        "site": "mal",
+        "id": "2146"
+      },
+      {
+        "site": "anidb",
+        "id": "744"
+      },
+      {
+        "site": "aniList",
+        "id": "2146"
       }
     ]
   },

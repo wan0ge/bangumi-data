@@ -2588,6 +2588,18 @@
         "id": "yuruani",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "10633"
+      },
+      {
+        "site": "anidb",
+        "id": "8746"
+      },
+      {
+        "site": "aniList",
+        "id": "10633"
       }
     ]
   },
@@ -3073,6 +3085,10 @@
       {
         "site": "aniList",
         "id": "10119"
+      },
+      {
+        "site": "anidb",
+        "id": "8204"
       }
     ]
   },

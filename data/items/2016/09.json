@@ -601,6 +601,10 @@
       {
         "site": "aniList",
         "id": "102093"
+      },
+      {
+        "site": "anidb",
+        "id": "11615"
       }
     ]
   },
@@ -1032,6 +1036,18 @@
       {
         "site": "tmdb",
         "id": "tv/64196/season/0/episode/9"
+      },
+      {
+        "site": "anidb",
+        "id": "12147"
+      },
+      {
+        "site": "mal",
+        "id": "33372"
+      },
+      {
+        "site": "aniList",
+        "id": "87489"
       }
     ]
   },
@@ -1063,6 +1079,18 @@
       {
         "site": "tmdb",
         "id": "movie/452617"
+      },
+      {
+        "site": "mal",
+        "id": "32547"
+      },
+      {
+        "site": "anidb",
+        "id": "12689"
+      },
+      {
+        "site": "aniList",
+        "id": "21585"
       }
     ]
   },
@@ -1110,6 +1138,18 @@
       {
         "site": "tmdb",
         "id": "movie/394326"
+      },
+      {
+        "site": "mal",
+        "id": "33190"
+      },
+      {
+        "site": "anidb",
+        "id": "12058"
+      },
+      {
+        "site": "aniList",
+        "id": "21771"
       }
     ]
   }
