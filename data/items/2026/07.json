@@ -4831,12 +4831,14 @@
       {
         "site": "gamer",
         "id": "146138",
+        "video_sn": "50402",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "146138",
+        "video_sn": "50402",
         "begin": "",
         "broadcast": ""
       },
@@ -6115,12 +6117,14 @@
       {
         "site": "gamer",
         "id": "141219",
+        "video_sn": "46994",
         "begin": "2026-07-13T14:00:00.000Z",
         "broadcast": "R/2026-07-13T14:00:00.000Z/P0D"
       },
       {
         "site": "gamer_hk",
         "id": "141219",
+        "video_sn": "46994",
         "begin": "2026-07-13T14:00:00.000Z",
         "broadcast": "R/2026-07-13T14:00:00.000Z/P0D"
       },
