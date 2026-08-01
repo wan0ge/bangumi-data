@@ -1,6 +1,6 @@
 {
   "name": "@wan0ge/bangumi-data",
-  "version": "0.3.221",
+  "version": "0.3.222",
   "description": "Raw data for Anime",
   "main": "dist/data.json",
   "types": "data.d.ts",
