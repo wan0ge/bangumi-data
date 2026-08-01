@@ -707,6 +707,12 @@
       {
         "site": "aniList",
         "id": "172258"
+      },
+      {
+        "site": "abema",
+        "id": "420-60",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5610,6 +5616,24 @@
       {
         "site": "aniList",
         "id": "179878"
+      },
+      {
+        "site": "unext",
+        "id": "SID0309761",
+        "begin": "2026-07-18T03:00:00.000Z",
+        "broadcast": "R/2026-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29037",
+        "begin": "2026-07-17T15:00:00.000Z",
+        "broadcast": "R/2026-07-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F9LNV3MS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
