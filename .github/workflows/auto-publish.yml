@@ -38,9 +38,9 @@ jobs:
       - name: Build
         run: npm run build
 
-      # 获取上游 bangumi-data 最新版本号，用于决定版本号策略：
-      # 我们领先或平齐上游 → patch 递增（如 0.3.214 → 0.3.215）
-      # 上游领先我们 → 对齐上游+1（如 0.3.214 → 0.3.215）
+      # 获取上游 bangumi-data 最新版本号，用于版本号乘数扩充法计算：
+      # 上游 patch 升级 → 对齐上游 × 100（如 0.3.21702 → 0.3.21800）
+      # 上游未变 → 内部修订 +1（如 0.3.21700 → 0.3.21701）
       - name: Get upstream latest version
         id: upstream
         run: |
@@ -113,11 +113,10 @@ jobs:
       #
       # 版本号策略（与 auto-sync.sh 的 calc_next_version 保持一致）：
       #   含 -test. 后缀 → 跳过（测试版本不触发自动发布）
-      #   我们领先或平齐上游（cur >= up）→ patch 递增
-      #     示例：cur=0.3.214-1, up=0.3.213 → 0.3.215
-      #           cur=0.3.214,   up=0.3.213 → 0.3.215
-      #   上游领先我们（cur < up）→ 对齐上游+1
-      #     示例：cur=0.3.214,   up=0.3.216 → 0.3.217
+      #   上游 patch 升级 → 对齐上游 × 100，内部重置
+      #     示例：cur=0.3.21702, up=0.3.218 → 0.3.21800
+      #   上游未变 → 内部修订 +1
+      #     示例：cur=0.3.21700, up=0.3.217 → 0.3.21701
       - name: Auto bump and publish
         if: steps.version.outputs.changed == 'false' || (steps.version.outputs.changed == 'true' && steps.npm-check.outputs.already_published == 'true')
         id: auto-bump
@@ -141,24 +140,24 @@ jobs:
               if (!m) return [0, 3, 200];
               return [Number(m[1]), Number(m[2]), Number(m[3])];
             }
-            function cmp(a, b) {
-              for (let i = 0; i < 3; i++) {
-                if (a[i] > b[i]) return  1;
-                if (a[i] < b[i]) return -1;
-              }
-              return 0;
-            }
 
             const cur = parseVer(cur_raw);
             const up  = parseVer(up_str);
 
+            // 从当前版本号提取上游追踪版本和内部修订次数
+            const curUpstreamPatch = Math.floor(cur[2] / 100);
+            const curInternal = cur[2] % 100;
+
             let next;
-            if (cmp(cur, up) >= 0) {
-              // 我们领先或平齐上游：在当前基础上 patch+1
-              next = [cur[0], cur[1], cur[2] + 1];
+            if (up[0] > cur[0] || (up[0] === cur[0] && up[1] > cur[1])) {
+              // 上游 major 或 minor 升级：跟随上游，内部重置
+              next = [up[0], up[1], up[2] * 100];
+            } else if (up[2] > curUpstreamPatch) {
+              // 上游 patch 升级：对齐上游 × 100，内部重置
+              next = [cur[0], cur[1], up[2] * 100];
             } else {
-              // 上游领先我们：对齐上游+1
-              next = [up[0], up[1], up[2] + 1];
+              // 上游未变：内部修订 +1
+              next = [cur[0], cur[1], curUpstreamPatch * 100 + (curInternal + 1)];
             }
             console.log(next.join('.'));
           " 2>/dev/null || echo "")
