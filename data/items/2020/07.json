@@ -196,7 +196,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/45782/season/4"
+        "id": "tv/45782/season/4/episode/13"
       },
       {
         "site": "mal",
@@ -289,7 +289,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/91270"
+        "id": "tv/91270/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -743,7 +743,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/65942"
+        "id": "tv/65942/season/1/episode/26"
       },
       {
         "site": "mal",

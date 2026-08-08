@@ -983,7 +983,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/45790/season/5"
+        "id": "tv/45790/season/5/episode/13"
       },
       {
         "site": "mal",
@@ -1099,7 +1099,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/120089"
+        "id": "tv/120089/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -3122,6 +3122,12 @@
       {
         "site": "aniList",
         "id": "146438"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073684",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -3754,7 +3760,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/112010"
+        "id": "tv/112010/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -3900,7 +3906,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/129553"
+        "id": "tv/129553/season/1/episode/14"
       },
       {
         "site": "mal",
@@ -4402,7 +4408,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/76128/season/3"
+        "id": "tv/76128/season/3/episode/14"
       },
       {
         "site": "mal",

@@ -3114,7 +3114,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/211709"
+        "id": "tv/211709/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -4552,6 +4552,10 @@
       {
         "site": "aniList",
         "id": "173489"
+      },
+      {
+        "site": "anidb",
+        "id": "18661"
       }
     ]
   },
@@ -4946,7 +4950,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/203737"
+        "id": "tv/203737/season/1/episode/12"
       },
       {
         "site": "mal",
@@ -5096,7 +5100,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/158373"
+        "id": "tv/158373/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -5143,7 +5147,7 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/234868"
+        "id": "tv/234868/season/1/episode/13"
       },
       {
         "site": "mal",
@@ -5620,6 +5624,12 @@
       {
         "site": "aniList",
         "id": "158641"
+      },
+      {
+        "site": "danime",
+        "id": "29065",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
       }
     ]
   }
