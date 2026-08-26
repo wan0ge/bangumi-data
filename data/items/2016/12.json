@@ -1070,6 +1070,14 @@
       {
         "site": "anidb",
         "id": "12284"
+      },
+      {
+        "site": "aniList",
+        "id": "87499"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/415287"
       }
     ]
   }

@@ -151,6 +151,14 @@
       {
         "site": "anidb",
         "id": "1855"
+      },
+      {
+        "site": "aniList",
+        "id": "11995"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/865356"
       }
     ]
   }

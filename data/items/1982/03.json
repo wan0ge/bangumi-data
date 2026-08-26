@@ -290,6 +290,14 @@
       {
         "site": "anidb",
         "id": "764"
+      },
+      {
+        "site": "aniList",
+        "id": "1549"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/139287"
       }
     ]
   },
@@ -319,6 +327,10 @@
       {
         "site": "anidb",
         "id": "7540"
+      },
+      {
+        "site": "aniList",
+        "id": "132655"
       }
     ]
   },
@@ -344,6 +356,14 @@
       {
         "site": "anidb",
         "id": "6386"
+      },
+      {
+        "site": "aniList",
+        "id": "11097"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/742358"
       }
     ]
   }

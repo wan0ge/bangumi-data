@@ -950,6 +950,12 @@
       {
         "site": "aniList",
         "id": "9289"
+      },
+      {
+        "site": "abema",
+        "id": "198-1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

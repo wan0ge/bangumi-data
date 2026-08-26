@@ -63,6 +63,12 @@
       {
         "site": "aniList",
         "id": "157"
+      },
+      {
+        "site": "abema",
+        "id": "115-134",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1126,6 +1132,14 @@
       {
         "site": "anidb",
         "id": "3307"
+      },
+      {
+        "site": "aniList",
+        "id": "16776"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1366381"
       }
     ]
   }
