@@ -2843,6 +2843,12 @@
       {
         "site": "aniList",
         "id": "183275"
+      },
+      {
+        "site": "netflix",
+        "id": "82085670",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

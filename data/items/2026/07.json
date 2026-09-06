@@ -1140,6 +1140,12 @@
       {
         "site": "bangumi_moe",
         "id": "6a715384b56eb30ad03fd4e5"
+      },
+      {
+        "site": "prime",
+        "id": "B0H71G7HBQ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3599,6 +3605,12 @@
       {
         "site": "bangumi_moe",
         "id": "6a715383b56eb30ad03fd4dd"
+      },
+      {
+        "site": "prime",
+        "id": "B0H76XTKRR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6442,6 +6454,12 @@
       {
         "site": "anidb",
         "id": "20189"
+      },
+      {
+        "site": "unext",
+        "id": "SID0313897",
+        "begin": "2026-08-14T03:00:00.000Z",
+        "broadcast": "R/2026-08-14T03:00:00.000Z/P7D"
       }
     ]
   },
