@@ -352,6 +352,12 @@
       {
         "site": "aniList",
         "id": "11665"
+      },
+      {
+        "site": "prime",
+        "id": "B0H5QL9S5V",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -417,6 +423,12 @@
       {
         "site": "aniList",
         "id": "11433"
+      },
+      {
+        "site": "abema",
+        "id": "11-6",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

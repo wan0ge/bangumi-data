@@ -1930,7 +1930,8 @@
         "英雄王,為了窮盡武道而轉生~而後成為世界最強見習騎士♀~"
       ],
       "en": [
-        "Reborn To Master The Blade:From Hero-King To Extraordinary Squire"
+        "Reborn To Master The Blade:From Hero-King To Extraordinary Squire",
+        "Reborn to Master the Blade: From Hero-King to Extraordinary Squire"
       ]
     },
     "type": "tv",
@@ -2023,6 +2024,12 @@
       {
         "site": "aniList",
         "id": "142193"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GQWH0MP94",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

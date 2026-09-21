@@ -111,7 +111,8 @@
     "title": "クロノクルセイド",
     "titleTranslate": {
       "en": [
-        "CHRNO CRUSADE"
+        "CHRNO CRUSADE",
+        "Chrono Crusade"
       ],
       "zh-Hans": [
         "圣枪修女"
@@ -154,6 +155,12 @@
       {
         "site": "aniList",
         "id": "60"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYGGXP7EY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
