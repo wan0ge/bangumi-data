@@ -148,6 +148,10 @@
         "id": "PLBfXfKRiIs1A",
         "begin": "2023-09-29T14:30:10.000Z",
         "broadcast": "R/2023-09-29T14:30:10.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "芙莉蓮"
       }
     ]
   },
@@ -427,6 +431,10 @@
       {
         "site": "aniList",
         "id": "158791"
+      },
+      {
+        "site": "acgnx",
+        "id": "特搜組 大吾"
       }
     ]
   },
@@ -480,6 +488,14 @@
       {
         "site": "aniList",
         "id": "170660"
+      },
+      {
+        "site": "acgnx",
+        "id": "Chickip Dancers"
+      },
+      {
+        "site": "dmhy",
+        "id": "Chickip Dancers"
       }
     ]
   },
@@ -596,6 +612,14 @@
       {
         "site": "aniList",
         "id": "155527"
+      },
+      {
+        "site": "acgnx",
+        "id": "大小姐 看門狗"
+      },
+      {
+        "site": "dmhy",
+        "id": "大小姐 看門狗"
       }
     ]
   },
@@ -705,6 +729,14 @@
       {
         "site": "aniList",
         "id": "146493"
+      },
+      {
+        "site": "acgnx",
+        "id": "狩龍人"
+      },
+      {
+        "site": "dmhy",
+        "id": "狩龍人"
       }
     ]
   },
@@ -849,6 +881,10 @@
       {
         "site": "aniList",
         "id": "143327"
+      },
+      {
+        "site": "acgnx",
+        "id": "MF GHOST"
       }
     ]
   },
@@ -955,6 +991,14 @@
       {
         "site": "aniList",
         "id": "156184"
+      },
+      {
+        "site": "acgnx",
+        "id": "冒險者 女兒"
+      },
+      {
+        "site": "dmhy",
+        "id": "冒險者 女兒"
       }
     ]
   },

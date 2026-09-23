@@ -107,6 +107,10 @@
       {
         "site": "aniList",
         "id": "21857"
+      },
+      {
+        "site": "acgnx",
+        "id": "政宗君"
       }
     ]
   },
@@ -210,6 +214,10 @@
         "id": "25-47",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "加百列"
       }
     ]
   },
@@ -269,6 +277,10 @@
       {
         "site": "aniList",
         "id": "97636"
+      },
+      {
+        "site": "acgnx",
+        "id": "秋葉原之旅"
       }
     ]
   },
@@ -359,6 +371,10 @@
       {
         "site": "aniList",
         "id": "97592"
+      },
+      {
+        "site": "acgnx",
+        "id": "亞人醬"
       }
     ]
   },
@@ -414,6 +430,10 @@
       {
         "site": "aniList",
         "id": "97776"
+      },
+      {
+        "site": "acgnx",
+        "id": "SchoolGirl Strikers"
       }
     ]
   },
@@ -510,6 +530,10 @@
       {
         "site": "aniList",
         "id": "21407"
+      },
+      {
+        "site": "acgnx",
+        "id": "Yowamushi New"
       }
     ]
   },
@@ -590,7 +614,7 @@
       },
       {
         "site": "dmhy",
-        "id": "獻上祝福"
+        "id": "獻上 祝福"
       },
       {
         "site": "bangumi_moe",
@@ -633,6 +657,10 @@
       {
         "site": "aniList",
         "id": "21699"
+      },
+      {
+        "site": "acgnx",
+        "id": "獻上 祝福"
       }
     ]
   },
@@ -913,6 +941,10 @@
       {
         "site": "aniList",
         "id": "97818"
+      },
+      {
+        "site": "acgnx",
+        "id": "Surgical"
       }
     ]
   },
@@ -1019,6 +1051,10 @@
         "id": "248-1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "小林家"
       }
     ]
   },
@@ -1095,6 +1131,10 @@
       {
         "site": "aniList",
         "id": "21696"
+      },
+      {
+        "site": "acgnx",
+        "id": "迷路帖"
       }
     ]
   },
@@ -1153,6 +1193,10 @@
       {
         "site": "aniList",
         "id": "98045"
+      },
+      {
+        "site": "acgnx",
+        "id": "偵探團 NEO"
       }
     ]
   },
@@ -1212,6 +1256,10 @@
       {
         "site": "aniList",
         "id": "21858"
+      },
+      {
+        "site": "acgnx",
+        "id": "小魔女學"
       }
     ]
   },
@@ -1289,6 +1337,10 @@
       {
         "site": "aniList",
         "id": "97730"
+      },
+      {
+        "site": "acgnx",
+        "id": "Seiren|清戀"
       }
     ]
   },
@@ -1411,6 +1463,10 @@
         "id": "GR9P57W96",
         "begin": "2017-01-06T00:00:00.000Z",
         "broadcast": "R/2017-01-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "幼女戰記"
       }
     ]
   },
@@ -1475,6 +1531,10 @@
       {
         "site": "aniList",
         "id": "21887"
+      },
+      {
+        "site": "acgnx",
+        "id": "風夏"
       }
     ]
   },
@@ -1563,6 +1623,10 @@
         "id": "PL12UaAf_xzfrj9e5GI2AtAT0AMh6js5VY",
         "begin": "2026-07-02T13:00:06.000Z",
         "broadcast": "R/2026-07-02T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "倉高"
       }
     ]
   },
@@ -1657,6 +1721,10 @@
       {
         "site": "aniList",
         "id": "21861"
+      },
+      {
+        "site": "acgnx",
+        "id": "青之 京都"
       }
     ]
   },
@@ -1734,6 +1802,10 @@
       {
         "site": "aniList",
         "id": "21733"
+      },
+      {
+        "site": "acgnx",
+        "id": "助六"
       }
     ]
   },
@@ -1811,6 +1883,10 @@
       {
         "site": "aniList",
         "id": "21744"
+      },
+      {
+        "site": "acgnx",
+        "id": "靈劍山"
       }
     ]
   },
@@ -1893,6 +1969,10 @@
       {
         "site": "aniList",
         "id": "20986"
+      },
+      {
+        "site": "acgnx",
+        "id": "鎖鏈戰記"
       }
     ]
   },
@@ -1978,6 +2058,10 @@
       {
         "site": "aniList",
         "id": "21677"
+      },
+      {
+        "site": "acgnx",
+        "id": "lDLIVE"
       }
     ]
   },
@@ -2053,6 +2137,10 @@
       {
         "site": "aniList",
         "id": "97673"
+      },
+      {
+        "site": "acgnx",
+        "id": "Nyanko Days"
       }
     ]
   },
@@ -2141,6 +2229,10 @@
         "id": "21359",
         "begin": "2026-07-31T15:00:00.000Z",
         "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "熱情|Zestiria|情熱"
       }
     ]
   },
@@ -2211,6 +2303,10 @@
       {
         "site": "aniList",
         "id": "97618"
+      },
+      {
+        "site": "acgnx",
+        "id": "偶像事變"
       }
     ]
   },
@@ -2283,6 +2379,14 @@
       {
         "site": "aniList",
         "id": "97889"
+      },
+      {
+        "site": "acgnx",
+        "id": "銀魂"
+      },
+      {
+        "site": "dmhy",
+        "id": "銀魂"
       }
     ]
   },
@@ -2356,6 +2460,10 @@
       {
         "site": "aniList",
         "id": "97745"
+      },
+      {
+        "site": "acgnx",
+        "id": "組鎮"
       }
     ]
   },
@@ -2449,6 +2557,10 @@
       {
         "site": "aniList",
         "id": "21823"
+      },
+      {
+        "site": "acgnx",
+        "id": "ACCA 13"
       }
     ]
   },
@@ -2564,6 +2676,10 @@
       {
         "site": "aniList",
         "id": "21731"
+      },
+      {
+        "site": "acgnx",
+        "id": "Hand Shakers"
       }
     ]
   },
@@ -2661,6 +2777,10 @@
         "id": "54-26",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "動物朋友"
       }
     ]
   },
@@ -2745,6 +2865,10 @@
         "id": "G6P83KZM6",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "的意大|大利料"
       }
     ]
   },
@@ -2823,6 +2947,10 @@
       {
         "site": "aniList",
         "id": "97857"
+      },
+      {
+        "site": "acgnx",
+        "id": "One Room"
       }
     ]
   },
@@ -2917,6 +3045,10 @@
       {
         "site": "aniList",
         "id": "21126"
+      },
+      {
+        "site": "acgnx",
+        "id": "Chaos Child"
       }
     ]
   },
@@ -2988,6 +3120,10 @@
       {
         "site": "aniList",
         "id": "21645"
+      },
+      {
+        "site": "acgnx",
+        "id": "MARGINAL"
       }
     ]
   },
@@ -3087,6 +3223,10 @@
       {
         "site": "aniList",
         "id": "21836"
+      },
+      {
+        "site": "acgnx",
+        "id": "Super Lovers"
       }
     ]
   },
@@ -3158,6 +3298,10 @@
       {
         "site": "aniList",
         "id": "21701"
+      },
+      {
+        "site": "acgnx",
+        "id": "人渣的本"
       }
     ]
   },
@@ -3242,6 +3386,10 @@
       {
         "site": "anidb",
         "id": "12429"
+      },
+      {
+        "site": "acgnx",
+        "id": "Rewrite"
       }
     ]
   },
@@ -3324,6 +3472,10 @@
       {
         "site": "aniList",
         "id": "97890"
+      },
+      {
+        "site": "acgnx",
+        "id": "芝居"
       }
     ]
   },
@@ -3386,6 +3538,10 @@
       {
         "site": "aniList",
         "id": "116053"
+      },
+      {
+        "site": "acgnx",
+        "id": "戰國鳥獸"
       }
     ]
   },

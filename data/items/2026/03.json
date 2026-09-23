@@ -97,6 +97,18 @@
       {
         "site": "bangumi_moe",
         "id": "69db11b24b29be5e9e214f48"
+      },
+      {
+        "site": "acgnx",
+        "id": "春夏秋冬代行者"
+      },
+      {
+        "site": "anibt",
+        "id": "551455"
+      },
+      {
+        "site": "dmhy",
+        "id": "春夏秋冬代行者"
       }
     ]
   },
@@ -196,6 +208,18 @@
       {
         "site": "tmdb",
         "id": "tv/90937/season/3/episode/13"
+      },
+      {
+        "site": "acgnx",
+        "id": "BEASTARS"
+      },
+      {
+        "site": "anibt",
+        "id": "485990"
+      },
+      {
+        "site": "dmhy",
+        "id": "BEASTARS"
       }
     ]
   },
@@ -249,6 +273,18 @@
       {
         "site": "mikan",
         "id": "3887"
+      },
+      {
+        "site": "acgnx",
+        "id": "jojo 馬"
+      },
+      {
+        "site": "anibt",
+        "id": "551918"
+      },
+      {
+        "site": "dmhy",
+        "id": "jojo 馬"
       }
     ]
   },
@@ -325,6 +361,10 @@
       {
         "site": "tmdb",
         "id": "tv/208493/season/0"
+      },
+      {
+        "site": "anibt",
+        "id": "459601"
       }
     ]
   },
@@ -351,6 +391,10 @@
       {
         "site": "tmdb",
         "id": "movie/1646064"
+      },
+      {
+        "site": "anibt",
+        "id": "544627"
       }
     ]
   },
@@ -374,6 +418,10 @@
         "id": "29031",
         "begin": "2026-06-09T21:00:00.000Z",
         "broadcast": "R/2026-06-09T21:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "663242"
       }
     ]
   },
@@ -383,6 +431,9 @@
       "zh-Hans": [
         "剧场版 暗杀教室 大家的时间",
         "剧场版 暗杀教室 我们的时光"
+      ],
+      "zh-Hant": [
+        "劇場版「暗殺教室」：我們的時光"
       ],
       "en": [
         "Assassination Classroom the Movie: Our Time"
@@ -425,6 +476,22 @@
         "id": "B0H8PD4WNK",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "583746"
+      },
+      {
+        "site": "gamer",
+        "id": "147124",
+        "begin": "2026-09-20T16:00:00.000Z",
+        "broadcast": "R/2026-09-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147124",
+        "begin": "2026-09-20T16:00:00.000Z",
+        "broadcast": "R/2026-09-20T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -468,6 +535,10 @@
         "id": "SID0318107",
         "begin": "2026-09-11T15:00:00.000Z",
         "broadcast": "R/2026-09-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "491656"
       }
     ]
   },
@@ -513,6 +584,10 @@
         "id": "SID0316732",
         "begin": "2026-09-17T15:00:00.000Z",
         "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "576669"
       }
     ]
   }

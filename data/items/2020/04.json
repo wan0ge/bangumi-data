@@ -79,6 +79,10 @@
       {
         "site": "aniList",
         "id": "106319"
+      },
+      {
+        "site": "acgnx",
+        "id": "八男"
       }
     ]
   },
@@ -193,6 +197,10 @@
         "id": "26-66",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "輝夜 告白"
       }
     ]
   },
@@ -267,6 +275,10 @@
       {
         "site": "aniList",
         "id": "113311"
+      },
+      {
+        "site": "acgnx",
+        "id": "之事"
       }
     ]
   },
@@ -354,6 +366,26 @@
         "id": "413-2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "書痴|书痴 下克上"
+      },
+      {
+        "site": "dmhy",
+        "id": "書痴|书痴 下克上"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "109037",
+        "begin": "2026-09-22T04:00:00.000Z",
+        "broadcast": "R/2026-09-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "109037",
+        "begin": "2026-09-22T04:00:00.000Z",
+        "broadcast": "R/2026-09-22T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -437,6 +469,10 @@
       {
         "site": "aniList",
         "id": "107294"
+      },
+      {
+        "site": "acgnx",
+        "id": "邪神 廚二病|飛踢"
       }
     ]
   },
@@ -526,6 +562,10 @@
       {
         "site": "aniList",
         "id": "107871"
+      },
+      {
+        "site": "acgnx",
+        "id": "公主 連結|連接 Dive"
       }
     ]
   },
@@ -601,6 +641,10 @@
       {
         "site": "aniList",
         "id": "108629"
+      },
+      {
+        "site": "acgnx",
+        "id": "啄木鳥 偵探"
       }
     ]
   },
@@ -758,6 +802,10 @@
       {
         "site": "aniList",
         "id": "103110"
+      },
+      {
+        "site": "acgnx",
+        "id": "IDOLiSH7 Second BEAT"
       }
     ]
   },
@@ -863,6 +911,10 @@
       {
         "site": "aniList",
         "id": "114043"
+      },
+      {
+        "site": "acgnx",
+        "id": "食戟之靈"
       }
     ]
   },
@@ -990,6 +1042,10 @@
       {
         "site": "aniList",
         "id": "111762"
+      },
+      {
+        "site": "acgnx",
+        "id": "水果藍|生肖奇缘|幻影天使"
       }
     ]
   },
@@ -1078,6 +1134,14 @@
         "id": "SID0047146",
         "begin": "2020-04-07T07:15:00.000Z",
         "broadcast": "R/2020-04-07T07:15:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "遊戲王 SEVENS"
+      },
+      {
+        "site": "dmhy",
+        "id": "遊戲王 SEVENS"
       }
     ]
   },
@@ -1163,6 +1227,14 @@
       {
         "site": "aniList",
         "id": "111310"
+      },
+      {
+        "site": "acgnx",
+        "id": "夢夢貓|甜夢貓|MewkleDeamy|Mewkledreamy"
+      },
+      {
+        "site": "dmhy",
+        "id": "夢夢貓|甜夢貓|MewkleDeamy|Mewkledreamy"
       }
     ]
   },
@@ -1237,6 +1309,10 @@
       {
         "site": "aniList",
         "id": "112302"
+      },
+      {
+        "site": "acgnx",
+        "id": "棒球大聯盟"
       }
     ]
   },
@@ -1326,6 +1402,10 @@
       {
         "site": "aniList",
         "id": "114411"
+      },
+      {
+        "site": "acgnx",
+        "id": "文豪 鍊金 審判"
       }
     ]
   },
@@ -1401,6 +1481,10 @@
       {
         "site": "aniList",
         "id": "108266"
+      },
+      {
+        "site": "acgnx",
+        "id": "繼 怪怪守護神"
       }
     ]
   },
@@ -1512,6 +1596,10 @@
       {
         "site": "aniList",
         "id": "113570"
+      },
+      {
+        "site": "acgnx",
+        "id": "社長 戰鬥 時間"
       }
     ]
   },
@@ -1633,6 +1721,10 @@
       {
         "site": "aniList",
         "id": "104647"
+      },
+      {
+        "site": "acgnx",
+        "id": "轉生成 遊戲"
       }
     ]
   },
@@ -1734,6 +1826,10 @@
       {
         "site": "aniList",
         "id": "110458"
+      },
+      {
+        "site": "acgnx",
+        "id": "白貓 計劃|Project"
       }
     ]
   },
@@ -1844,6 +1940,10 @@
       {
         "site": "aniList",
         "id": "109019"
+      },
+      {
+        "site": "acgnx",
+        "id": "放學 海堤|堤防"
       }
     ]
   },
@@ -1929,6 +2029,10 @@
       {
         "site": "aniList",
         "id": "109856"
+      },
+      {
+        "site": "acgnx",
+        "id": "LISTENERS"
       }
     ]
   },
@@ -2016,6 +2120,10 @@
       {
         "site": "aniList",
         "id": "112353"
+      },
+      {
+        "site": "acgnx",
+        "id": "聽 電波"
       }
     ]
   },
@@ -2090,6 +2198,10 @@
       {
         "site": "aniList",
         "id": "112444"
+      },
+      {
+        "site": "acgnx",
+        "id": "天晴爛漫"
       }
     ]
   },
@@ -2201,6 +2313,10 @@
       {
         "site": "aniList",
         "id": "110547"
+      },
+      {
+        "site": "acgnx",
+        "id": "ARTE"
       }
     ]
   },
@@ -2297,6 +2413,10 @@
       {
         "site": "aniList",
         "id": "112325"
+      },
+      {
+        "site": "acgnx",
+        "id": "闇|影 詩章|之詩"
       }
     ]
   },
@@ -2365,6 +2485,14 @@
       {
         "site": "aniList",
         "id": "114717"
+      },
+      {
+        "site": "acgnx",
+        "id": "Earth Granner"
+      },
+      {
+        "site": "dmhy",
+        "id": "Earth Granner"
       }
     ]
   },
@@ -2493,6 +2621,10 @@
       {
         "site": "aniList",
         "id": "114811"
+      },
+      {
+        "site": "acgnx",
+        "id": "數碼 大冒險"
       }
     ]
   },
@@ -2585,6 +2717,10 @@
       {
         "site": "aniList",
         "id": "111500"
+      },
+      {
+        "site": "acgnx",
+        "id": "新櫻花大戰"
       }
     ]
   },
@@ -2682,6 +2818,10 @@
       {
         "site": "aniList",
         "id": "109020"
+      },
+      {
+        "site": "acgnx",
+        "id": "昨日之歌"
       }
     ]
   },
@@ -2765,6 +2905,14 @@
       {
         "site": "aniList",
         "id": "114402"
+      },
+      {
+        "site": "acgnx",
+        "id": "喷嚏 大魔"
+      },
+      {
+        "site": "dmhy",
+        "id": "喷嚏 大魔"
       }
     ]
   },
@@ -2864,6 +3012,10 @@
       {
         "site": "aniList",
         "id": "111323"
+      },
+      {
+        "site": "acgnx",
+        "id": "辣妹 恐龍"
       }
     ]
   },
@@ -2938,6 +3090,10 @@
       {
         "site": "aniList",
         "id": "110354"
+      },
+      {
+        "site": "acgnx",
+        "id": "BNA"
       }
     ]
   },
@@ -3044,6 +3200,10 @@
         "id": "towerofgods1_146657",
         "begin": "2026-06-30T16:00:00.000Z",
         "broadcast": "R/2026-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "神之塔"
       }
     ]
   },
@@ -3165,6 +3325,10 @@
         "id": "G9VHN9P7W",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "格萊普尼爾"
       }
     ]
   },
@@ -3307,6 +3471,10 @@
       {
         "site": "anidb",
         "id": "15403"
+      },
+      {
+        "site": "acgnx",
+        "id": "手指 擾亂"
       }
     ]
   },
@@ -3468,6 +3636,10 @@
       {
         "site": "aniList",
         "id": "113108"
+      },
+      {
+        "site": "acgnx",
+        "id": "王者天下"
       }
     ]
   },
@@ -3592,6 +3764,10 @@
       {
         "site": "aniList",
         "id": "110130"
+      },
+      {
+        "site": "acgnx",
+        "id": "球詠"
       }
     ]
   },
@@ -3665,6 +3841,14 @@
       {
         "site": "aniList",
         "id": "114233"
+      },
+      {
+        "site": "acgnx",
+        "id": "潛網大戰"
+      },
+      {
+        "site": "dmhy",
+        "id": "潛網大戰"
       }
     ]
   },
@@ -3732,6 +3916,14 @@
       {
         "site": "aniList",
         "id": "116248"
+      },
+      {
+        "site": "acgnx",
+        "id": "GIRL學|女學"
+      },
+      {
+        "site": "dmhy",
+        "id": "GIRL學|女學"
       }
     ]
   },
@@ -3815,6 +4007,10 @@
       {
         "site": "aniList",
         "id": "114888"
+      },
+      {
+        "site": "acgnx",
+        "id": "富豪 刑事|刑警 Balance"
       }
     ]
   },
@@ -4058,6 +4254,14 @@
       {
         "site": "aniList",
         "id": "115186"
+      },
+      {
+        "site": "acgnx",
+        "id": "別冊 奧林匹克"
+      },
+      {
+        "site": "dmhy",
+        "id": "別冊 奧林匹克"
       }
     ]
   },
@@ -4168,6 +4372,10 @@
       {
         "site": "aniList",
         "id": "112534"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔神英雄傳 七魂"
       }
     ]
   },
@@ -4394,6 +4602,14 @@
       {
         "site": "aniList",
         "id": "116791"
+      },
+      {
+        "site": "acgnx",
+        "id": "貓貓"
+      },
+      {
+        "site": "dmhy",
+        "id": "貓貓"
       }
     ]
   },
@@ -4551,6 +4767,14 @@
       {
         "site": "anidb",
         "id": "13752"
+      },
+      {
+        "site": "acgnx",
+        "id": "Kiratto"
+      },
+      {
+        "site": "dmhy",
+        "id": "Kiratto"
       }
     ]
   },

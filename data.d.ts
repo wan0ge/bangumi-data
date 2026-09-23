@@ -224,6 +224,8 @@ type SiteList =
     | "mighty"
     | "dmhy"
     | "mikan"
+    | "acgnx"
+    | "anibt"
     | "bangumi_moe";
 
 export const siteMeta: Record<SiteList, SiteMeta>;

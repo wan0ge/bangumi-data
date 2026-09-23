@@ -70,6 +70,10 @@
       {
         "site": "aniList",
         "id": "15583"
+      },
+      {
+        "site": "acgnx",
+        "id": "会大"
       }
     ]
   },
@@ -129,6 +133,10 @@
       {
         "site": "aniList",
         "id": "14921"
+      },
+      {
+        "site": "acgnx",
+        "id": "濒危"
       }
     ]
   },
@@ -360,6 +368,10 @@
       {
         "site": "aniList",
         "id": "17397"
+      },
+      {
+        "site": "acgnx",
+        "id": "saipu"
       }
     ]
   },

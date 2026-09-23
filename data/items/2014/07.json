@@ -163,6 +163,10 @@
         "id": "248-3",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "Free!"
       }
     ]
   },
@@ -241,6 +245,10 @@
       {
         "site": "aniList",
         "id": "20649"
+      },
+      {
+        "site": "acgnx",
+        "id": "幕末rock"
       }
     ]
   },
@@ -355,6 +363,10 @@
         "id": "171-1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "喰種|食屍"
       }
     ]
   },
@@ -430,6 +442,10 @@
       {
         "site": "aniList",
         "id": "20645"
+      },
+      {
+        "site": "acgnx",
+        "id": "GLASSLIP|璃之"
       }
     ]
   },
@@ -492,6 +508,10 @@
       {
         "site": "aniList",
         "id": "20667"
+      },
+      {
+        "site": "acgnx",
+        "id": "Argevollen"
       }
     ]
   },
@@ -565,6 +585,10 @@
       {
         "site": "aniList",
         "id": "20583"
+      },
+      {
+        "site": "acgnx",
+        "id": "有鐵|RAIL WARS"
       }
     ]
   },
@@ -645,6 +669,10 @@
         "id": "B07F5PVMVD",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "生要|locodol"
       }
     ]
   },
@@ -721,6 +749,10 @@
       {
         "site": "aniList",
         "id": "14751"
+      },
+      {
+        "site": "acgnx",
+        "id": "少女 Crystal"
       }
     ]
   },
@@ -817,6 +849,10 @@
       {
         "site": "aniList",
         "id": "20594"
+      },
+      {
+        "site": "acgnx",
+        "id": "刀剑"
       }
     ]
   },
@@ -897,6 +933,10 @@
       {
         "site": "aniList",
         "id": "20632"
+      },
+      {
+        "site": "acgnx",
+        "id": "Aldnoah"
       }
     ]
   },
@@ -978,6 +1018,14 @@
       {
         "site": "aniList",
         "id": "20742"
+      },
+      {
+        "site": "acgnx",
+        "id": "Pripara"
+      },
+      {
+        "site": "dmhy",
+        "id": "Pripara"
       }
     ]
   },
@@ -1114,6 +1162,10 @@
       {
         "site": "aniList",
         "id": "20475"
+      },
+      {
+        "site": "acgnx",
+        "id": "存遊"
       }
     ]
   },
@@ -1186,6 +1238,10 @@
       {
         "site": "aniList",
         "id": "20722"
+      },
+      {
+        "site": "acgnx",
+        "id": "囝仔"
       }
     ]
   },
@@ -1242,6 +1298,10 @@
       {
         "site": "aniList",
         "id": "20518"
+      },
+      {
+        "site": "acgnx",
+        "id": "人生"
       }
     ]
   },
@@ -1344,6 +1404,10 @@
         "id": "GY2P14QEY",
         "begin": "2014-07-06T15:00:00.000Z",
         "broadcast": "R/2014-07-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "斬 赤"
       }
     ]
   },
@@ -1493,6 +1557,10 @@
       {
         "site": "aniList",
         "id": "20612"
+      },
+      {
+        "site": "acgnx",
+        "id": "BASARA"
       }
     ]
   },
@@ -1564,6 +1632,10 @@
       {
         "site": "aniList",
         "id": "20666"
+      },
+      {
+        "site": "acgnx",
+        "id": "space dandy"
       }
     ]
   },
@@ -1613,6 +1685,14 @@
       {
         "site": "anidb",
         "id": "10708"
+      },
+      {
+        "site": "acgnx",
+        "id": "彈桑|達桑"
+      },
+      {
+        "site": "dmhy",
+        "id": "彈桑|達桑"
       }
     ]
   },
@@ -1688,6 +1768,10 @@
       {
         "site": "aniList",
         "id": "20748"
+      },
+      {
+        "site": "acgnx",
+        "id": "Francesca"
       }
     ]
   },
@@ -1779,6 +1863,10 @@
       {
         "site": "aniList",
         "id": "20596"
+      },
+      {
+        "site": "acgnx",
+        "id": "春之旅|爍的"
       }
     ]
   },
@@ -1849,6 +1937,10 @@
       {
         "site": "aniList",
         "id": "20669"
+      },
+      {
+        "site": "acgnx",
+        "id": "芝居"
       }
     ]
   },
@@ -1923,6 +2015,10 @@
       {
         "site": "aniList",
         "id": "20634"
+      },
+      {
+        "site": "acgnx",
+        "id": "搞姬"
       }
     ]
   },
@@ -2028,6 +2124,10 @@
       {
         "site": "aniList",
         "id": "20668"
+      },
+      {
+        "site": "acgnx",
+        "id": "女野"
       }
     ]
   },
@@ -2120,6 +2220,10 @@
       {
         "site": "aniList",
         "id": "20677"
+      },
+      {
+        "site": "acgnx",
+        "id": "DRAMAtical"
       }
     ]
   },
@@ -2186,6 +2290,10 @@
       {
         "site": "aniList",
         "id": "20575"
+      },
+      {
+        "site": "acgnx",
+        "id": "舞少"
       }
     ]
   },
@@ -2241,6 +2349,10 @@
       {
         "site": "aniList",
         "id": "20610"
+      },
+      {
+        "site": "acgnx",
+        "id": "桃劍"
       }
     ]
   },
@@ -2310,6 +2422,10 @@
       {
         "site": "anidb",
         "id": "10620"
+      },
+      {
+        "site": "acgnx",
+        "id": "RE 濱虎"
       }
     ]
   },
@@ -2402,6 +2518,10 @@
       {
         "site": "aniList",
         "id": "20485"
+      },
+      {
+        "site": "acgnx",
+        "id": "登山|向山|Susume"
       }
     ]
   },
@@ -2467,6 +2587,10 @@
       {
         "site": "aniList",
         "id": "20708"
+      },
+      {
+        "site": "acgnx",
+        "id": "璐萌"
       }
     ]
   },
@@ -2544,6 +2668,10 @@
       {
         "site": "aniList",
         "id": "20520"
+      },
+      {
+        "site": "acgnx",
+        "id": "love stage"
       }
     ]
   },
@@ -2654,6 +2782,10 @@
         "id": "PLC18xlbCdwtTIb9qWfKn4Y4RjhrJ1GJDE",
         "begin": "2026-02-03T12:00:06.000Z",
         "broadcast": "R/2026-02-03T12:00:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "莉雅 wei"
       }
     ]
   },
@@ -2710,6 +2842,10 @@
       {
         "site": "aniList",
         "id": "20661"
+      },
+      {
+        "site": "acgnx",
+        "id": "殘響"
       }
     ]
   },
@@ -2799,6 +2935,10 @@
       {
         "site": "aniList",
         "id": "20606"
+      },
+      {
+        "site": "acgnx",
+        "id": "Book of Circus"
       }
     ]
   },
@@ -2861,6 +3001,10 @@
       {
         "site": "aniList",
         "id": "20706"
+      },
+      {
+        "site": "acgnx",
+        "id": "Strange+"
       }
     ]
   },
@@ -2961,6 +3105,10 @@
       {
         "site": "aniList",
         "id": "20713"
+      },
+      {
+        "site": "acgnx",
+        "id": "神異 黄金"
       }
     ]
   },
@@ -3090,6 +3238,10 @@
       {
         "site": "aniList",
         "id": "19199"
+      },
+      {
+        "site": "acgnx",
+        "id": "東京esp"
       }
     ]
   },
@@ -3211,6 +3363,10 @@
       {
         "site": "aniList",
         "id": "20638"
+      },
+      {
+        "site": "acgnx",
+        "id": "坪房"
       }
     ]
   },
@@ -3283,6 +3439,10 @@
         "id": "29176",
         "begin": "2026-08-06T15:00:00.000Z",
         "broadcast": "R/2026-08-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "長協"
       }
     ]
   },
@@ -3364,6 +3524,10 @@
       {
         "site": "aniList",
         "id": "20663"
+      },
+      {
+        "site": "acgnx",
+        "id": "靈使"
       }
     ]
   },

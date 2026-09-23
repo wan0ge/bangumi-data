@@ -64,6 +64,14 @@
       {
         "site": "aniList",
         "id": "113417"
+      },
+      {
+        "site": "acgnx",
+        "id": "Overflow"
+      },
+      {
+        "site": "dmhy",
+        "id": "Overflow"
       }
     ]
   },
@@ -165,6 +173,10 @@
       {
         "site": "aniList",
         "id": "108092"
+      },
+      {
+        "site": "acgnx",
+        "id": "小行星"
       }
     ]
   },
@@ -242,6 +254,10 @@
       {
         "site": "aniList",
         "id": "105190"
+      },
+      {
+        "site": "acgnx",
+        "id": "達爾文 遊戲"
       }
     ]
   },
@@ -319,6 +335,10 @@
       {
         "site": "aniList",
         "id": "104051"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔法紀錄|魔法記錄 外傳"
       }
     ]
   },
@@ -426,6 +446,10 @@
       {
         "site": "aniList",
         "id": "104461"
+      },
+      {
+        "site": "acgnx",
+        "id": "室內|房間|Heya 露營|Camp"
       }
     ]
   },
@@ -512,6 +536,10 @@
       {
         "site": "aniList",
         "id": "110350"
+      },
+      {
+        "site": "acgnx",
+        "id": "ID INVADED"
       }
     ]
   },
@@ -554,7 +582,7 @@
       },
       {
         "site": "dmhy",
-        "id": "pet 01月新番"
+        "id": "思維覆寫|pet"
       },
       {
         "site": "bangumi_moe",
@@ -591,6 +619,10 @@
       {
         "site": "aniList",
         "id": "101350"
+      },
+      {
+        "site": "acgnx",
+        "id": "思維覆寫|pet"
       }
     ]
   },
@@ -700,6 +732,10 @@
       {
         "site": "aniList",
         "id": "101367"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔術 歐菲 流浪"
       }
     ]
   },
@@ -826,6 +862,10 @@
         "id": "25-204",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "怕痛 防禦"
       }
     ]
   },
@@ -918,6 +958,10 @@
       {
         "site": "aniList",
         "id": "106863"
+      },
+      {
+        "site": "acgnx",
+        "id": "NEKOPARA|貓娘樂園|巧克力與香子蘭"
       }
     ]
   },
@@ -1017,6 +1061,10 @@
         "id": "149-7",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "無限|無盡|Infinite Dendrogram|連鎖|系統樹|系统树"
       }
     ]
   },
@@ -1120,6 +1168,10 @@
       {
         "site": "aniList",
         "id": "111951"
+      },
+      {
+        "site": "acgnx",
+        "id": "寶石商"
       }
     ]
   },
@@ -1197,6 +1249,10 @@
       {
         "site": "aniList",
         "id": "108628"
+      },
+      {
+        "site": "acgnx",
+        "id": "Number24"
       }
     ]
   },
@@ -1289,6 +1345,10 @@
       {
         "site": "aniList",
         "id": "113470"
+      },
+      {
+        "site": "acgnx",
+        "id": "Show Rock"
       }
     ]
   },
@@ -1380,6 +1440,10 @@
         "id": "199-30",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "科學 電磁 砲|炮"
       }
     ]
   },
@@ -1434,6 +1498,10 @@
       {
         "site": "aniList",
         "id": "110090"
+      },
+      {
+        "site": "acgnx",
+        "id": "八十龜"
       }
     ]
   },
@@ -1559,6 +1627,10 @@
       {
         "site": "aniList",
         "id": "101168"
+      },
+      {
+        "site": "acgnx",
+        "id": "掠奪者|Prandara|都市破壞者|星掠者"
       }
     ]
   },
@@ -1653,6 +1725,10 @@
       {
         "site": "aniList",
         "id": "107067"
+      },
+      {
+        "site": "acgnx",
+        "id": "理科生"
       }
     ]
   },
@@ -1813,6 +1889,10 @@
       {
         "site": "aniList",
         "id": "110613"
+      },
+      {
+        "site": "acgnx",
+        "id": "織田肉桂"
       }
     ]
   },
@@ -1893,6 +1973,10 @@
       {
         "site": "aniList",
         "id": "110270"
+      },
+      {
+        "site": "acgnx",
+        "id": "風俗娘"
       }
     ]
   },
@@ -1968,6 +2052,10 @@
       {
         "site": "aniList",
         "id": "111501"
+      },
+      {
+        "site": "acgnx",
+        "id": "伸展台 微笑"
       }
     ]
   },
@@ -2094,6 +2182,10 @@
       {
         "site": "aniList",
         "id": "107201"
+      },
+      {
+        "site": "acgnx",
+        "id": "虛構推理"
       }
     ]
   },
@@ -2170,6 +2262,10 @@
       {
         "site": "aniList",
         "id": "110178"
+      },
+      {
+        "site": "acgnx",
+        "id": "異世界四重奏"
       }
     ]
   },
@@ -2334,6 +2430,14 @@
       {
         "site": "aniList",
         "id": "110615"
+      },
+      {
+        "site": "acgnx",
+        "id": "ARP Backstage Pass"
+      },
+      {
+        "site": "dmhy",
+        "id": "ARP Backstage Pass"
       }
     ]
   },
@@ -2397,6 +2501,10 @@
       {
         "site": "aniList",
         "id": "99807"
+      },
+      {
+        "site": "acgnx",
+        "id": "22/7"
       }
     ]
   },
@@ -2494,6 +2602,10 @@
       {
         "site": "aniList",
         "id": "109298"
+      },
+      {
+        "site": "acgnx",
+        "id": "映像研 出手"
       }
     ]
   },
@@ -2580,6 +2692,10 @@
       {
         "site": "aniList",
         "id": "112293"
+      },
+      {
+        "site": "acgnx",
+        "id": "西頓學園"
       }
     ]
   },
@@ -2737,6 +2853,10 @@
       {
         "site": "aniList",
         "id": "98515"
+      },
+      {
+        "site": "acgnx",
+        "id": "奇幻|Hatena 怪盜|Illusion"
       }
     ]
   },
@@ -2869,6 +2989,10 @@
       {
         "site": "aniList",
         "id": "108463"
+      },
+      {
+        "site": "acgnx",
+        "id": "花子君"
       }
     ]
   },
@@ -2960,6 +3084,14 @@
       {
         "site": "aniList",
         "id": "107651"
+      },
+      {
+        "site": "acgnx",
+        "id": "A3 滿開劇場|SPRING"
+      },
+      {
+        "site": "dmhy",
+        "id": "A3 滿開劇場|SPRING"
       }
     ]
   },
@@ -3071,6 +3203,10 @@
         "video_sn": "48367",
         "begin": "2026-04-07T16:00:00.000Z",
         "broadcast": "R/2026-04-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "異獸魔都"
       }
     ]
   },
@@ -3173,6 +3309,10 @@
         "id": "481-2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "森林之神"
       }
     ]
   },
@@ -3276,6 +3416,10 @@
       {
         "site": "aniList",
         "id": "104391"
+      },
+      {
+        "site": "acgnx",
+        "id": "神推 武道館"
       }
     ]
   },
@@ -3400,6 +3544,10 @@
       {
         "site": "aniList",
         "id": "108450"
+      },
+      {
+        "site": "acgnx",
+        "id": "空挺|空艇|飛船 龍|龙|Dragons"
       }
     ]
   },
@@ -3533,6 +3681,10 @@
         "id": "GY8VM8MWY",
         "begin": "2014-04-06T00:00:00.000Z",
         "broadcast": "R/2014-04-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "球少|Haikyuu"
       }
     ]
   },
@@ -4408,6 +4560,14 @@
       {
         "site": "aniList",
         "id": "113469"
+      },
+      {
+        "site": "acgnx",
+        "id": "Rebirth"
+      },
+      {
+        "site": "dmhy",
+        "id": "Rebirth"
       }
     ]
   },
@@ -4457,6 +4617,10 @@
       {
         "site": "aniList",
         "id": "113397"
+      },
+      {
+        "site": "acgnx",
+        "id": "緣結熊本"
       }
     ]
   }

@@ -113,6 +113,10 @@
         "id": "G9VHN9QWQ",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "單間 天使"
       }
     ]
   },
@@ -210,6 +214,10 @@
       {
         "site": "aniList",
         "id": "109731"
+      },
+      {
+        "site": "acgnx",
+        "id": "悠風|上低|Euphonium"
       }
     ]
   },
@@ -318,6 +326,10 @@
       {
         "site": "aniList",
         "id": "163078"
+      },
+      {
+        "site": "acgnx",
+        "id": "水母"
       }
     ]
   },
@@ -436,6 +448,10 @@
         "id": "GG5H5XQMD",
         "begin": "2024-04-07T00:00:00.000Z",
         "broadcast": "R/2024-04-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "轉生 鑑定"
       }
     ]
   },
@@ -506,6 +522,14 @@
       {
         "site": "aniList",
         "id": "158417"
+      },
+      {
+        "site": "acgnx",
+        "id": "戰隊大失格"
+      },
+      {
+        "site": "dmhy",
+        "id": "戰隊大失格"
       }
     ]
   },
@@ -691,6 +715,10 @@
       {
         "site": "aniList",
         "id": "163270"
+      },
+      {
+        "site": "acgnx",
+        "id": "WIND BREAKER"
       }
     ]
   },
@@ -810,6 +838,10 @@
       {
         "site": "aniList",
         "id": "155908"
+      },
+      {
+        "site": "acgnx",
+        "id": "曳露"
       }
     ]
   },
@@ -914,6 +946,14 @@
       {
         "site": "aniList",
         "id": "172242"
+      },
+      {
+        "site": "acgnx",
+        "id": "虹四"
+      },
+      {
+        "site": "dmhy",
+        "id": "虹四"
       }
     ]
   },
@@ -1019,6 +1059,10 @@
         "id": "G1XHJV0W8",
         "begin": "2024-04-06T00:00:00.000Z",
         "broadcast": "R/2024-04-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "GIRLS BAND CRY"
       }
     ]
   },
@@ -1137,6 +1181,10 @@
       {
         "site": "aniList",
         "id": "136804"
+      },
+      {
+        "site": "acgnx",
+        "id": "美好 世界 獻上 祝福"
       }
     ]
   },
@@ -1244,6 +1292,10 @@
       {
         "site": "aniList",
         "id": "168138"
+      },
+      {
+        "site": "acgnx",
+        "id": "返老還童|重返青春"
       }
     ]
   },
@@ -1397,6 +1449,10 @@
       {
         "site": "aniList",
         "id": "153288"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪獸8號"
       }
     ]
   },
@@ -1516,6 +1572,10 @@
         "id": "54-90",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "Lv2 勇者"
       }
     ]
   },
@@ -1596,6 +1656,10 @@
       {
         "site": "aniList",
         "id": "130590"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔王學院"
       }
     ]
   },
@@ -1717,6 +1781,10 @@
         "id": "11-60",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "夜櫻家"
       }
     ]
   },
@@ -1804,6 +1872,10 @@
       {
         "site": "aniList",
         "id": "155657"
+      },
+      {
+        "site": "acgnx",
+        "id": "末班列車"
       }
     ]
   },
@@ -1911,6 +1983,10 @@
       {
         "site": "aniList",
         "id": "144176"
+      },
+      {
+        "site": "acgnx",
+        "id": "渴望|渴求 游戏"
       }
     ]
   },
@@ -1967,7 +2043,7 @@
       },
       {
         "site": "dmhy",
-        "id": "沙拉碗"
+        "id": "怪人 碗"
       },
       {
         "site": "bangumi_moe",
@@ -2010,6 +2086,10 @@
       {
         "site": "aniList",
         "id": "166828"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪人 碗"
       }
     ]
   },
@@ -2082,6 +2162,14 @@
       {
         "site": "aniList",
         "id": "166372"
+      },
+      {
+        "site": "acgnx",
+        "id": "原英雄"
+      },
+      {
+        "site": "dmhy",
+        "id": "原英雄"
       }
     ]
   },
@@ -2171,6 +2259,10 @@
       {
         "site": "aniList",
         "id": "158709"
+      },
+      {
+        "site": "acgnx",
+        "id": "Unnamed|無名 Memory|記憶"
       }
     ]
   },
@@ -2248,6 +2340,10 @@
       {
         "site": "aniList",
         "id": "160090"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪異 少女 神隱"
       }
     ]
   },
@@ -2355,6 +2451,10 @@
       {
         "site": "aniList",
         "id": "159039"
+      },
+      {
+        "site": "acgnx",
+        "id": "聲優廣播"
       }
     ]
   },
@@ -2445,6 +2545,14 @@
       {
         "site": "aniList",
         "id": "170503"
+      },
+      {
+        "site": "acgnx",
+        "id": "良禽不擇木"
+      },
+      {
+        "site": "dmhy",
+        "id": "良禽不擇木"
       }
     ]
   },
@@ -2531,6 +2639,14 @@
         "id": "shinkalionchangetheworld0003_145420",
         "begin": "2026-02-15T11:30:00.000Z",
         "broadcast": "R/2026-02-15T11:30:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "新幹線變形"
+      },
+      {
+        "site": "dmhy",
+        "id": "新幹線變形"
       }
     ]
   },
@@ -2655,6 +2771,10 @@
       {
         "site": "aniList",
         "id": "156415"
+      },
+      {
+        "site": "acgnx",
+        "id": "第七王子"
       }
     ]
   },
@@ -2758,6 +2878,10 @@
       {
         "site": "aniList",
         "id": "151380"
+      },
+      {
+        "site": "acgnx",
+        "id": "會大"
       }
     ]
   },
@@ -2878,6 +3002,10 @@
       {
         "site": "aniList",
         "id": "165855"
+      },
+      {
+        "site": "acgnx",
+        "id": "花野井"
       }
     ]
   },
@@ -2980,6 +3108,14 @@
       {
         "site": "aniList",
         "id": "152302"
+      },
+      {
+        "site": "acgnx",
+        "id": "HIGHSPEED Étoile"
+      },
+      {
+        "site": "dmhy",
+        "id": "HIGHSPEED Étoile"
       }
     ]
   },
@@ -3070,6 +3206,10 @@
       {
         "site": "aniList",
         "id": "160181"
+      },
+      {
+        "site": "acgnx",
+        "id": "戀語輕唱"
       }
     ]
   },
@@ -3142,6 +3282,14 @@
       {
         "site": "aniList",
         "id": "170604"
+      },
+      {
+        "site": "acgnx",
+        "id": "吸血鬼 男子 宿舍"
+      },
+      {
+        "site": "dmhy",
+        "id": "吸血鬼 男子 宿舍"
       }
     ]
   },
@@ -3257,6 +3405,14 @@
         "id": "B0CWPN1182",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "我回來了"
+      },
+      {
+        "site": "dmhy",
+        "id": "我回來了"
       }
     ]
   },
@@ -3362,6 +3518,14 @@
       {
         "site": "aniList",
         "id": "170890"
+      },
+      {
+        "site": "acgnx",
+        "id": "The New Gate"
+      },
+      {
+        "site": "dmhy",
+        "id": "The New Gate"
       }
     ]
   },
@@ -3436,6 +3600,14 @@
       {
         "site": "aniList",
         "id": "150085"
+      },
+      {
+        "site": "acgnx",
+        "id": "刀劍亂舞"
+      },
+      {
+        "site": "dmhy",
+        "id": "刀劍亂舞"
       }
     ]
   },
@@ -3562,6 +3734,10 @@
         "id": "GVDHX85DV",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "王牌酒保"
       }
     ]
   },
@@ -3621,7 +3797,7 @@
       },
       {
         "site": "dmhy",
-        "id": "怪物轉生|Re：Monster"
+        "id": "怪物|Monster 轉生|Re"
       },
       {
         "site": "bangumi_moe",
@@ -3676,6 +3852,10 @@
       {
         "site": "aniList",
         "id": "169417"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪物|Monster 轉生|Re"
       }
     ]
   },
@@ -3784,6 +3964,10 @@
       {
         "site": "aniList",
         "id": "171040"
+      },
+      {
+        "site": "acgnx",
+        "id": "星 日記"
       }
     ]
   },
@@ -3881,6 +4065,10 @@
       {
         "site": "aniList",
         "id": "143271"
+      },
+      {
+        "site": "acgnx",
+        "id": "劣等生"
       }
     ]
   },
@@ -3984,6 +4172,14 @@
         "id": "tonbo_145908",
         "begin": "2026-03-24T12:50:00.000Z",
         "broadcast": "R/2026-03-24T12:50:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "蜻蜓|蜻蛉"
+      },
+      {
+        "site": "dmhy",
+        "id": "蜻蜓|蜻蛉"
       }
     ]
   },
@@ -4032,7 +4228,7 @@
       },
       {
         "site": "dmhy",
-        "id": "殺手寓言"
+        "id": "殺手 寓言"
       },
       {
         "site": "bangumi_moe",
@@ -4057,6 +4253,10 @@
       {
         "site": "aniList",
         "id": "166910"
+      },
+      {
+        "site": "acgnx",
+        "id": "寓言 殺手"
       }
     ]
   },
@@ -4135,6 +4335,14 @@
       {
         "site": "aniList",
         "id": "146867"
+      },
+      {
+        "site": "acgnx",
+        "id": "與妖為鄰"
+      },
+      {
+        "site": "dmhy",
+        "id": "與妖為鄰"
       }
     ]
   },
@@ -4249,6 +4457,10 @@
       {
         "site": "aniList",
         "id": "160589"
+      },
+      {
+        "site": "acgnx",
+        "id": "Blue Archive"
       }
     ]
   },
@@ -4341,6 +4553,10 @@
       {
         "site": "aniList",
         "id": "145728"
+      },
+      {
+        "site": "acgnx",
+        "id": "狼與香辛料"
       }
     ]
   },
@@ -4432,6 +4648,10 @@
       {
         "site": "aniList",
         "id": "169584"
+      },
+      {
+        "site": "acgnx",
+        "id": "死神 女僕"
       }
     ]
   },
@@ -4532,6 +4752,10 @@
       {
         "site": "aniList",
         "id": "163141"
+      },
+      {
+        "site": "acgnx",
+        "id": "競輪少女"
       }
     ]
   },
@@ -4655,6 +4879,14 @@
       {
         "site": "aniList",
         "id": "172187"
+      },
+      {
+        "site": "acgnx",
+        "id": "影之詩"
+      },
+      {
+        "site": "dmhy",
+        "id": "影之詩"
       }
     ]
   },
@@ -4755,6 +4987,14 @@
       {
         "site": "aniList",
         "id": "166715"
+      },
+      {
+        "site": "acgnx",
+        "id": "黑執事 寄宿"
+      },
+      {
+        "site": "dmhy",
+        "id": "黑執事 寄宿"
       }
     ]
   },
@@ -4880,6 +5120,10 @@
       {
         "site": "aniList",
         "id": "167927"
+      },
+      {
+        "site": "acgnx",
+        "id": "失憶投捕"
       }
     ]
   },
@@ -4978,6 +5222,10 @@
         "id": "PLoGVqODys23BxtnfSeggF6pRJz3KXgjXU",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "格鬥 實況"
       }
     ]
   },
@@ -5077,6 +5325,10 @@
         "id": "B0DHDH1MGV",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "魔王 奴隸 精靈"
       }
     ]
   },
@@ -5642,6 +5894,10 @@
         "id": "PLuxqoToY7Ucg6mqHLHLLu9t37XJ7B5uqN",
         "begin": "2025-01-30T13:00:06.000Z",
         "broadcast": "R/2025-01-30T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "轉生 史萊姆"
       }
     ]
   },
@@ -5686,6 +5942,14 @@
       {
         "site": "anidb",
         "id": "18631"
+      },
+      {
+        "site": "acgnx",
+        "id": "哥斯拉|哥吉拉 逆襲|反擊"
+      },
+      {
+        "site": "dmhy",
+        "id": "哥斯拉|哥吉拉 逆襲|反擊"
       }
     ]
   },
@@ -5769,6 +6033,10 @@
       {
         "site": "aniList",
         "id": "162889"
+      },
+      {
+        "site": "acgnx",
+        "id": "閃耀色彩"
       }
     ]
   },
@@ -5828,6 +6096,14 @@
       {
         "site": "aniList",
         "id": "176577"
+      },
+      {
+        "site": "acgnx",
+        "id": "SHIBUYA HACHI"
+      },
+      {
+        "site": "dmhy",
+        "id": "SHIBUYA HACHI"
       }
     ]
   },
@@ -5931,6 +6207,14 @@
       {
         "site": "aniList",
         "id": "172964"
+      },
+      {
+        "site": "acgnx",
+        "id": "雀魂"
+      },
+      {
+        "site": "dmhy",
+        "id": "雀魂"
       }
     ]
   },
@@ -6367,6 +6651,14 @@
       {
         "site": "mal",
         "id": "57519"
+      },
+      {
+        "site": "acgnx",
+        "id": "我的英雄學院"
+      },
+      {
+        "site": "dmhy",
+        "id": "我的英雄學院"
       }
     ]
   },
