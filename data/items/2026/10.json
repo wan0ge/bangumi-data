@@ -33,12 +33,14 @@
       {
         "site": "gamer",
         "id": "129331",
+        "video_sn": "51689",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "129331",
+        "video_sn": "51689",
         "begin": "",
         "broadcast": ""
       }
@@ -137,12 +139,14 @@
       {
         "site": "gamer",
         "id": "149355",
+        "video_sn": "51705",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "149355",
+        "video_sn": "51705",
         "begin": "",
         "broadcast": ""
       }
@@ -554,12 +558,14 @@
       {
         "site": "gamer",
         "id": "148138",
+        "video_sn": "51790",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "148138",
+        "video_sn": "51790",
         "begin": "",
         "broadcast": ""
       },
@@ -670,12 +676,14 @@
       {
         "site": "gamer",
         "id": "150486",
+        "video_sn": "51779",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "150486",
+        "video_sn": "51779",
         "begin": "",
         "broadcast": ""
       }
@@ -1064,12 +1072,14 @@
       {
         "site": "gamer",
         "id": "143583",
+        "video_sn": "51797",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "143583",
+        "video_sn": "51797",
         "begin": "",
         "broadcast": ""
       }
@@ -1111,12 +1121,14 @@
       {
         "site": "gamer",
         "id": "147781",
+        "video_sn": "51800",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "147781",
+        "video_sn": "51800",
         "begin": "",
         "broadcast": ""
       }
@@ -2298,6 +2310,7 @@
       {
         "site": "gamer",
         "id": "150697",
+        "video_sn": "51696",
         "begin": "",
         "broadcast": ""
       },
