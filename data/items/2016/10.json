@@ -960,6 +960,12 @@
       {
         "site": "acgnx",
         "id": "月的獅"
+      },
+      {
+        "site": "prime",
+        "id": "B0GN4SW8CP",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1418,6 +1424,9 @@
       ],
       "zh-Hant": [
         "我太受歡迎了該怎麼辦"
+      ],
+      "en": [
+        "Kiss Him, Not Me"
       ]
     },
     "type": "tv",
@@ -1520,6 +1529,12 @@
       {
         "site": "acgnx",
         "id": "太受"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G65VXM1P6",
+        "begin": "2016-10-06T00:00:00.000Z",
+        "broadcast": "R/2016-10-06T00:00:00.000Z/P7D"
       }
     ]
   },

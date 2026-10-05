@@ -339,12 +339,6 @@
         "id": "105156"
       },
       {
-        "site": "abema",
-        "id": "25-129",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "慎重勇者"
       }
@@ -563,12 +557,6 @@
         "broadcast": "R/2019-10-07T15:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "168-32",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "unext",
         "id": "SID0043584",
         "begin": "2022-07-05T03:00:00.000Z",
@@ -631,7 +619,8 @@
         "食戟之靈 神之皿"
       ],
       "en": [
-        "SHOKUGEKI NO SOMA 4th PLATE"
+        "SHOKUGEKI NO SOMA 4th PLATE",
+        "Food Wars! The Third Plate"
       ]
     },
     "type": "tv",
@@ -720,6 +709,12 @@
       {
         "site": "acgnx",
         "id": "食戟之靈"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6GG91P26",
+        "begin": "2015-06-06T00:00:00.000Z",
+        "broadcast": "R/2015-06-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -1357,12 +1352,6 @@
         "id": "288940"
       },
       {
-        "site": "nicovideo",
-        "id": "xljoushi",
-        "begin": "2019-10-06T16:00:00.000Z",
-        "broadcast": "R/2019-10-06T16:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "XL上司"
       },
@@ -1483,13 +1472,6 @@
         "id": "23046",
         "begin": "2019-10-10T09:30:00.000Z",
         "broadcast": "R/2019-10-10T09:30:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfpB1mqEDYkVGawyeSL02WWM",
-        "begin": "2023-01-17T13:00:09.000Z",
-        "broadcast": "R/2023-01-17T13:00:09.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfpkeYMeqt6TG-cAEICItOoE"
       },
       {
         "site": "tmdb",
@@ -2381,7 +2363,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoFtKMB0kfqNS7HZG28T7p1",
+        "id": "PLNUgajB3ou8c",
+        "url": "https://www.youtube.com/show/VLPLNUgajB3ou8c?sbp=KgtUR0VQbElvTnV0Z0AB",
         "begin": "2026-04-04T10:55:06.000Z",
         "broadcast": "R/2026-04-04T10:55:06.000Z/P7D",
         "comment": "國語: PL12UaAf_xzfoTgp8RxRN87552Xqsl13DX"
@@ -3104,12 +3087,6 @@
         "id": "22991",
         "begin": "2019-10-08T15:00:00.000Z",
         "broadcast": "R/2019-10-08T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfoOwVrUzR61wP1MO_zUBD7R",
-        "begin": "2020-01-25T04:30:09.000Z",
-        "broadcast": "R/2020-01-25T04:30:09.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -4393,12 +4370,6 @@
       {
         "site": "tmdb",
         "id": "tv/90677"
-      },
-      {
-        "site": "abema",
-        "id": "26-80",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "mal",

@@ -418,6 +418,12 @@
       {
         "site": "aniList",
         "id": "100773"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6GG91P26",
+        "begin": "2015-06-06T00:00:00.000Z",
+        "broadcast": "R/2015-06-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -3508,12 +3514,6 @@
         "id": "237602"
       },
       {
-        "site": "nicovideo",
-        "id": "kanshu",
-        "begin": "2018-04-01T16:00:00.000Z",
-        "broadcast": "R/2018-04-01T16:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "守專"
       },
@@ -3757,12 +3757,6 @@
       {
         "site": "aniList",
         "id": "100745"
-      },
-      {
-        "site": "abema",
-        "id": "168-79",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -4093,7 +4087,7 @@
     "officialSite": "https://www.tv-tokyo.co.jp/anime/pad/",
     "begin": "2018-04-02T09:25:00.000Z",
     "broadcast": "R/2020-10-04T09:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-27T09:30:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -4273,6 +4267,12 @@
       {
         "site": "aniList",
         "id": "101498"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYNQXG12Y",
+        "begin": "2016-04-05T00:00:00.000Z",
+        "broadcast": "R/2016-04-05T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -6314,18 +6314,6 @@
       {
         "site": "aniList",
         "id": "100653"
-      },
-      {
-        "site": "abema",
-        "id": "415-54",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0046993",
-        "begin": "2026-04-10T15:00:00.000Z",
-        "broadcast": "R/2026-04-10T15:00:00.000Z/P7D"
       }
     ]
   },

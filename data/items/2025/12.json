@@ -390,12 +390,6 @@
         "id": "544624"
       },
       {
-        "site": "nicovideo",
-        "id": "gup-mottolovelove",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "61227"
       },
@@ -414,6 +408,12 @@
       {
         "site": "anibt",
         "id": "544624"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gup-mottolovelove-tv",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

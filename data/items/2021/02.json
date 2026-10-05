@@ -377,18 +377,6 @@
       {
         "site": "aniList",
         "id": "131770"
-      },
-      {
-        "site": "unext",
-        "id": "SID0058175",
-        "begin": "2026-04-03T15:00:00.000Z",
-        "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
-      },
-      {
-        "site": "abema",
-        "id": "415-59",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },

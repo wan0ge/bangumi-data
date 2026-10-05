@@ -137,12 +137,6 @@
         "id": "934"
       },
       {
-        "site": "abema",
-        "id": "117-1m-6rcjtu92",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "寒蟬|暮蟬 鸣泣|鳴泣|悲鳴"
       },
@@ -664,12 +658,6 @@
       {
         "site": "aniList",
         "id": "853"
-      },
-      {
-        "site": "abema",
-        "id": "143-75",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -1834,12 +1822,6 @@
       {
         "site": "aniList",
         "id": "877"
-      },
-      {
-        "site": "abema",
-        "id": "143-46",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -2912,12 +2894,6 @@
       {
         "site": "aniList",
         "id": "962"
-      },
-      {
-        "site": "abema",
-        "id": "210-20",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
@@ -3139,18 +3115,6 @@
       {
         "site": "aniList",
         "id": "1506"
-      },
-      {
-        "site": "abema",
-        "id": "415-42",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0010680",
-        "begin": "2026-03-27T15:00:00.000Z",
-        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -3401,12 +3365,6 @@
       {
         "site": "bangumi",
         "id": "5233"
-      },
-      {
-        "site": "abema",
-        "id": "168-67",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "unext",

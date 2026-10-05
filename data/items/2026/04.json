@@ -17,9 +17,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://www.niwatori-fighter.net",
-    "begin": "2026-04-04T16:00:00.000Z",
-    "broadcast": "R/2026-04-04T16:00:00.000Z/P7D",
+    "officialSite": "https://www.niwatori-fighter.net/",
+    "begin": "2026-04-05T15:00:00.000Z",
+    "broadcast": "R/2026-04-05T15:00:00.000Z/P7D",
     "end": "2026-06-21T15:30:00.000Z",
     "comment": "",
     "sites": [
@@ -1037,8 +1037,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://lastame.com/",
-    "begin": "2026-04-07T17:30:00.000Z",
-    "broadcast": "R/2026-04-07T17:30:00.000Z/P7D",
+    "begin": "2026-04-07T13:00:00.000Z",
+    "broadcast": "R/2026-04-07T13:00:00.000Z/P7D",
     "end": "2026-06-23T13:30:00.000Z",
     "comment": "",
     "sites": [
@@ -1098,7 +1098,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfqRLfW1AdqjPjy_1kUdHF_j",
+        "id": "PLfcJlVdmrrb4",
+        "url": "https://www.youtube.com/show/VLPLfcJlVdmrrb4?season=2&sbp=CgEyGgAqC19nNl9JdGhkSzBVQAFKDVBTUVI0Y1d2OEFRYUk%253D",
         "begin": "2026-06-23T13:30:06.000Z",
         "broadcast": "R/2026-06-23T13:30:06.000Z/P7D"
       },
@@ -1676,7 +1677,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrEG6SwZldtQ0ji-61uhuOx",
+        "id": "PLH3knCg-jp20",
+        "url": "https://www.youtube.com/show/VLPLH3knCg-jp20?season=4&sbp=CgE0GgAqC2VxNHZPMGFIdS1NQAFKDVBTSkVXbkw1amJDZUU%253D",
         "begin": "2026-06-28T09:00:06.000Z",
         "broadcast": "R/2026-06-28T09:00:06.000Z/P7D"
       },
@@ -2604,7 +2606,7 @@
     "officialSite": "https://www.nhk-character.com/chara/iruma/",
     "begin": "2026-04-04T09:25:00.000Z",
     "broadcast": "R/2026-04-04T09:25:00.000Z/P7D",
-    "end": "2026-06-27T09:50:00.000Z",
+    "end": "2026-09-26T09:50:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2657,7 +2659,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfqN3eyl6PIwUzG-6OLz7wRK",
+        "id": "PLNUgajB3ou8c",
+        "url": "https://www.youtube.com/show/VLPLNUgajB3ou8c?season=4&sbp=CgE0GgAqC1RHRVBsSW9OdXRnQAFKDVBTUGlPQ0N4WUtWanM%253D",
         "begin": "2026-07-11T10:55:06.000Z",
         "broadcast": "R/2026-07-11T10:55:06.000Z/P7D"
       },
@@ -2830,7 +2833,7 @@
     "officialSite": "https://www.anime-mao.com/",
     "begin": "2026-04-04T14:45:00.000Z",
     "broadcast": "R/2026-04-04T14:45:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-26T15:10:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -2887,7 +2890,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtSCwgFDBvBpzvZp9oZwYDKA",
+        "id": "PLMZJChsUVtwI",
+        "url": "https://www.youtube.com/show/VLPLMZJChsUVtwI?sbp=Kgt6NTJ2WTdpTUl0OEAB",
         "begin": "2026-04-06T04:00:00.000Z",
         "broadcast": "R/2026-04-06T04:00:00.000Z/P7D"
       },
@@ -3200,7 +3204,7 @@
     "officialSite": "https://dropsofgod-anime.com/",
     "begin": "2026-04-10T14:30:00.000Z",
     "broadcast": "R/2026-04-10T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-18T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3724,7 +3728,7 @@
     "officialSite": "https://witch-classroom.com/",
     "begin": "2026-04-12T14:30:00.000Z",
     "broadcast": "R/2026-04-12T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-20T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -3897,7 +3901,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtQSl_ucLwx_HB4oOrJDplmF",
+        "id": "PLXqpiFhPZdck",
+        "url": "https://www.youtube.com/show/VLPLXqpiFhPZdck?sbp=KgtxTDVtRjh1MjVOTUAB",
         "begin": "2026-04-05T14:00:00.000Z",
         "broadcast": "R/2026-04-05T14:00:00.000Z/P7D"
       },
@@ -4862,7 +4867,7 @@
     "officialSite": "https://yominotsugai.com/",
     "begin": "2026-04-04T14:30:00.000Z",
     "broadcast": "R/2026-04-04T14:30:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T15:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -4921,7 +4926,8 @@
         "site": "viu",
         "id": "3029308",
         "begin": "2026-04-04T16:00:44.000Z",
-        "broadcast": "R/2026-04-04T16:00:44.000Z/P7D"
+        "broadcast": "R/2026-04-04T16:00:44.000Z/P7D",
+        "comment": "粵語版: 3376934"
       },
       {
         "site": "netflix",
@@ -5021,9 +5027,10 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfo1gYyvMgvZN9w9iWyqcHa5",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLN4DLwnW_rgc",
+        "url": "https://www.youtube.com/show/VLPLN4DLwnW_rgc?season=2&sbp=CgEyGgAqC1JVSDNuVWJ2WVZVQAFKDVBTREltOVBic3BoVzA%253D",
+        "begin": "2023-01-06T13:00:07.000Z",
+        "broadcast": "R/2023-01-06T13:00:07.000Z/P7D"
       },
       {
         "site": "tmdb",
@@ -5203,8 +5210,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://rokkotsu-anime.com/",
-    "begin": "2026-04-07T16:59:00.000Z",
-    "broadcast": "R/2026-04-07T16:59:00.000Z/P7D",
+    "begin": "2026-04-07T17:05:00.000Z",
+    "broadcast": "R/2026-04-07T17:05:00.000Z/P7D",
     "end": "2026-06-23T17:45:00.000Z",
     "comment": "",
     "sites": [
@@ -5321,7 +5328,7 @@
     "officialSite": "https://www.liargame-anime.com/",
     "begin": "2026-04-06T15:00:00.000Z",
     "broadcast": "R/2026-04-06T15:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-28T15:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -5769,8 +5776,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://kanokari-official.com/",
-    "begin": "2026-04-09T16:53:00.000Z",
-    "broadcast": "R/2026-04-09T16:53:00.000Z/P7D",
+    "begin": "2026-04-10T16:53:00.000Z",
+    "broadcast": "R/2026-04-10T16:53:00.000Z/P7D",
     "end": "2026-06-26T17:23:00.000Z",
     "comment": "",
     "sites": [
@@ -5882,8 +5889,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://animationid.com/mamonogurai/",
-    "begin": "2026-04-01T16:00:00.000Z",
-    "broadcast": "R/2026-04-01T16:00:00.000Z/P7D",
+    "begin": "2026-04-02T16:00:00.000Z",
+    "broadcast": "R/2026-04-02T16:00:00.000Z/P7D",
     "end": "2026-06-18T16:15:00.000Z",
     "comment": "",
     "sites": [
@@ -6054,7 +6061,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfppV3iCQ5hA6KYvNsBYR20q",
+        "id": "PLM9fQTIaDdOM",
+        "url": "https://www.youtube.com/show/VLPLM9fQTIaDdOM?season=2&sbp=CgEyGgAqCzJGOXNFclRGeEFnQAFKDVBTTkVNY2RKT1FycVU%253D",
         "begin": "2026-06-28T08:30:16.000Z",
         "broadcast": "R/2026-06-28T08:30:16.000Z/P7D"
       },
@@ -6166,7 +6174,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrDTBsbdtPEx2tXf4QI6_yE",
+        "id": "PLEjUYS6Gey-8",
+        "url": "https://www.youtube.com/show/VLPLEjUYS6Gey-8?sbp=KgtGYnBKWU5LM0dud0AB",
         "begin": "2026-04-12T08:30:06.000Z",
         "broadcast": "R/2026-04-12T08:30:06.000Z/P7D"
       },
@@ -6290,9 +6299,10 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrovYvVuugbKfSUOYN5OEoO",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLUtbPXTItqQo",
+        "url": "https://www.youtube.com/show/VLPLUtbPXTItqQo?season=4&sbp=CgE0GgAqC1VKbjVyU2FNTVhBQAFKDVBTTThqTjBibVRxTEk%253D",
+        "begin": "2023-11-28T13:30:09.000Z",
+        "broadcast": "R/2023-11-28T13:30:09.000Z/P7D"
       },
       {
         "site": "crunchyroll",
@@ -6449,6 +6459,9 @@
       "zh-Hant": [
         "Re：從零開始的異世界生活 第四季 喪失篇",
         "Re:從零開始的異世界生活 第四季 喪失篇"
+      ],
+      "en": [
+        "Re:ZERO -Starting Life in Another World- Season 4"
       ]
     },
     "type": "tv",
@@ -6508,8 +6521,8 @@
       {
         "site": "muse_tw",
         "id": "PL12UaAf_xzfor6SdQvoC7pr7Hwfowmr5Q",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-09-30T14:00:09.000Z",
+        "broadcast": "R/2026-09-30T14:00:09.000Z/P7D"
       },
       {
         "site": "viu",
@@ -6572,7 +6585,7 @@
     "officialSite": "https://www.ten-sura.com/anime/tensura",
     "begin": "2026-04-03T14:00:00.000Z",
     "broadcast": "R/2026-04-03T14:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-25T14:30:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -6680,7 +6693,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://booklove-anime.jp",
+    "officialSite": "https://booklove-anime.jp/",
     "begin": "2026-04-04T08:30:00.000Z",
     "broadcast": "R/2026-04-04T08:30:00.000Z/P7D",
     "end": "",
@@ -6903,14 +6916,15 @@
         "百鬼夜行抄"
       ],
       "en": [
-        "Hyakki Yagshosho"
+        "Hyakki Yagshosho",
+        "Beyond Twilight"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
-    "begin": "2026-04-07T12:55:00.000Z",
-    "broadcast": "R/2026-04-07T12:55:00.000Z/P7D",
+    "officialSite": "https://publications.asahi.com/feature/hyakki-anime/",
+    "begin": "2026-04-08T18:05:00.000Z",
+    "broadcast": "R/2026-04-08T18:05:00.000Z/P7D",
     "end": "2026-06-24T18:10:00.000Z",
     "comment": "",
     "sites": [
@@ -7017,7 +7031,7 @@
     "officialSite": "https://www.candycaries.com/",
     "begin": "2026-04-15T14:56:00.000Z",
     "broadcast": "R/2026-04-15T14:56:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-23T14:56:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -7048,7 +7062,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7UchUEpjQsMY9Z37u_pOoUsut",
+        "id": "PLe8K3ab7TsWI",
+        "url": "https://www.youtube.com/show/VLPLe8K3ab7TsWI?sbp=KgtRbDVtbjNVeV9vTUAB",
         "begin": "2026-06-10T16:00:06.000Z",
         "broadcast": "R/2026-06-10T16:00:06.000Z/P7D"
       },
@@ -7060,9 +7075,10 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpFQmaZaPEPUz8h-75z2oPJ",
-        "begin": "",
-        "broadcast": ""
+        "id": "PLKBxIqbuc1F4",
+        "url": "https://www.youtube.com/show/VLPLKBxIqbuc1F4?sbp=KgtZSDBGOUxpSW95Z0AB",
+        "begin": "2026-05-06T16:00:06.000Z",
+        "broadcast": "R/2026-05-06T16:00:06.000Z/P7D"
       },
       {
         "site": "unext",
@@ -7111,8 +7127,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://marikowa.af-original.com/",
-    "begin": "2026-04-04T16:00:00.000Z",
-    "broadcast": "R/2026-04-04T16:00:00.000Z/P7D",
+    "begin": "2026-04-05T16:00:00.000Z",
+    "broadcast": "R/2026-04-05T16:00:00.000Z/P7D",
     "end": "2026-06-07T16:05:00.000Z",
     "comment": "",
     "sites": [
@@ -7201,13 +7217,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "这样高大的女孩子你喜欢吗？"
+      ],
+      "en": [
+        "DO YOU LIKE BIG GIRLS?"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://ookii-onnanoko.af-original.com/",
-    "begin": "2026-04-04T16:05:00.000Z",
-    "broadcast": "R/2026-04-04T16:05:00.000Z/P7D",
+    "begin": "2026-04-05T16:05:00.000Z",
+    "broadcast": "R/2026-04-05T16:05:00.000Z/P7D",
     "end": "2026-06-20T16:05:00.000Z",
     "comment": "",
     "sites": [
@@ -7288,13 +7307,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "七米神物语"
+      ],
+      "en": [
+        "Komekami! Girls"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://komekamigirls.com/",
-    "begin": "2026-04-01T17:30:00.000Z",
-    "broadcast": "R/2026-04-01T17:30:00.000Z/P7D",
+    "begin": "2026-04-02T17:30:00.000Z",
+    "broadcast": "R/2026-04-02T17:30:00.000Z/P7D",
     "end": "2026-06-18T18:00:00.000Z",
     "comment": "",
     "sites": [
@@ -7358,7 +7380,8 @@
       ],
       "zh-Hant": [
         "拉拉熊",
-        "輕鬆小熊"
+        "輕鬆小熊",
+        "鬆弛熊"
       ],
       "en": [
         "RILAKKUMA"
@@ -7392,7 +7415,8 @@
       },
       {
         "site": "muse_hk",
-        "id": "PLuxqoToY7Ucgn83TzRdR98rUJAhvuHPvl",
+        "id": "PLcvvqVl5rw84",
+        "url": "https://www.youtube.com/show/VLPLcvvqVl5rw84?sbp=Kgs4YzJ6QXBkd21PSUAB",
         "begin": "2026-04-04T01:00:06.000Z",
         "broadcast": "R/2026-04-04T01:00:06.000Z/P7D"
       },
@@ -7428,7 +7452,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrv1a0ONSsJd8hM-_HElQf5",
+        "id": "PLVX7FeuKaWWI",
+        "url": "https://www.youtube.com/show/VLPLVX7FeuKaWWI?sbp=KgtwVU5VQmFBSmszWUAB",
         "begin": "2026-06-13T01:00:06.000Z",
         "broadcast": "R/2026-06-13T01:00:06.000Z/P7D"
       },
@@ -7478,7 +7503,7 @@
     "officialSite": "https://kumarba.com/pages/tv-anime",
     "begin": "2026-04-11T16:00:00.000Z",
     "broadcast": "R/2026-04-11T16:00:00.000Z/P7D",
-    "end": "",
+    "end": "2026-09-19T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -7665,9 +7690,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://hokuto-anime.com/",
-    "begin": "2026-04-09T16:00:00.000Z",
-    "broadcast": "R/2026-04-09T16:00:00.000Z/P7D",
+    "officialSite": "http://www.hokuto-no-ken.jp/",
+    "begin": "2026-04-10T16:00:00.000Z",
+    "broadcast": "R/2026-04-10T16:00:00.000Z/P7D",
     "end": "2026-06-26T16:30:00.000Z",
     "comment": "",
     "sites": [
@@ -7761,17 +7786,20 @@
     ]
   },
   {
-    "title": "不死身な僕の日常　シーズン3",
+    "title": "不死身な僕の日常 シーズン3",
     "titleTranslate": {
       "zh-Hans": [
         "仙王的日常生活 第三季"
+      ],
+      "en": [
+        "The Daily Life of the Immortal King 3"
       ]
     },
     "type": "web",
     "lang": "ja",
-    "officialSite": "",
-    "begin": "2026-04-08T06:30:00.000Z",
-    "broadcast": "R/2026-04-08T06:30:00.000Z/P7D",
+    "officialSite": "https://chinaentame.com/hujiboku/",
+    "begin": "2026-04-09T16:30:00.000Z",
+    "broadcast": "R/2026-04-09T16:30:00.000Z/P7D",
     "end": "2026-06-24T06:30:00.000Z",
     "comment": "",
     "sites": [
@@ -7829,8 +7857,8 @@
     "type": "web",
     "lang": "ja",
     "officialSite": "https://iyapan-anime-r.com/",
-    "begin": "2026-04-29T16:00:00.000Z",
-    "broadcast": "",
+    "begin": "2026-04-30T13:00:00.000Z",
+    "broadcast": "R/2026-04-30T13:00:00.000Z/P7D",
     "end": "2026-06-10T18:16:00.000Z",
     "comment": "",
     "sites": [
@@ -7917,17 +7945,27 @@
       {
         "site": "anibt",
         "id": "544628"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gup-mottolovelove-tv",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
   {
     "title": "ねずみくんのチョッキ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "en": [
+        "Little Mouse's Red Vest"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.poplar.co.jp/pr/anime-nezumikun/",
-    "begin": "2026-04-03T00:00:00.000Z",
-    "broadcast": "R/2026-04-03T00:00:00.000Z/P7D",
+    "begin": "2026-04-04T00:30:00.000Z",
+    "broadcast": "R/2026-04-04T00:30:00.000Z/P7D",
     "end": "2026-06-26T00:00:00.000Z",
     "comment": "",
     "sites": [
@@ -7974,13 +8012,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "小鲨鱼去郊游 第二季"
+      ],
+      "en": [
+        "Odekake Kozame 2nd Season"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://odekake-kozame.com/",
-    "begin": "2026-04-11T16:00:00.000Z",
-    "broadcast": "R/2026-04-11T16:00:00.000Z/P7D",
+    "begin": "2026-04-11T22:05:00.000Z",
+    "broadcast": "R/2026-04-11T22:05:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [
@@ -8019,9 +8060,9 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "",
-    "begin": "2026-04-03T16:00:00.000Z",
-    "broadcast": "R/2026-04-03T16:00:00.000Z/P7D",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2026-04-04T00:00:00.000Z",
+    "broadcast": "R/2026-04-04T00:00:00.000Z/P7D",
     "end": "",
     "comment": "",
     "sites": [

@@ -526,10 +526,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrMeRvKrk2OnxkpTArc_4HN",
+        "id": "PLFlphUH5ofro",
+        "url": "https://www.youtube.com/show/VLPLFlphUH5ofro?sbp=KgtOUzVwbjZZMkwxc0AB",
         "begin": "2023-03-12T14:00:09.000Z",
         "broadcast": "R/2023-03-12T14:00:09.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
+        "comment": "國語: https://www.youtube.com/show/VLPLEvdKEeruqeA?season=2&sbp=CgEyGgAqC1BRaWE1NnVlSnZrQAFKDVBTWlVxT1ZheXd5ZHc%253D"
       },
       {
         "site": "prime",
@@ -3360,12 +3361,6 @@
         "id": "207567"
       },
       {
-        "site": "nicovideo",
-        "id": "soryo-w-anime",
-        "begin": "2017-12-22T09:00:00.000Z",
-        "broadcast": "R/2017-12-22T09:00:00.000Z/P7D"
-      },
-      {
         "site": "dmhy",
         "id": "僧侶"
       },
@@ -3493,6 +3488,12 @@
       {
         "site": "anidb",
         "id": "12904"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYNQXG12Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5421,18 +5422,6 @@
       {
         "site": "aniList",
         "id": "98222"
-      },
-      {
-        "site": "abema",
-        "id": "415-53",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0040358",
-        "begin": "2026-04-03T15:00:00.000Z",
-        "broadcast": "R/2026-04-03T15:00:00.000Z/P7D"
       }
     ]
   },

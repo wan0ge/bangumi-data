@@ -170,7 +170,8 @@
       },
       {
         "site": "ani_one",
-        "id": "PLXD7t-gmTqKA",
+        "id": "PLYnIF_qxIvEc",
+        "url": "https://www.youtube.com/show/VLPLYnIF_qxIvEc?season=2&sbp=CgEyGgAqC1Z2MWNpRWZNeHhBQAFKDVBTYXBxZFVtMk5kdHM%253D",
         "begin": "2026-09-10T13:00:06.000Z",
         "broadcast": "R/2026-09-10T13:00:06.000Z/P7D"
       },
@@ -1037,7 +1038,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoOn6N5UjTKca5ohihxhGMl",
+        "id": "PLT5T-P2Hg_e4",
+        "url": "https://www.youtube.com/show/VLPLT5T-P2Hg_e4?sbp=KgtIYnVCdkJTYW4xUUAB",
         "begin": "2024-10-03T13:00:26.000Z",
         "broadcast": "R/2024-10-03T13:00:26.000Z/P7D"
       },
@@ -2704,10 +2706,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoxR8RxcS7OpBFR10wul4ju",
+        "id": "PLH3knCg-jp20",
+        "url": "https://www.youtube.com/show/VLPLH3knCg-jp20?season=2&sbp=CgEyGgAqC2VxNHZPMGFIdS1NQAFKDVBTZTBWY3B3ZzMtTkE%253D",
         "begin": "2020-09-04T13:00:10.000Z",
         "broadcast": "R/2020-09-04T13:00:10.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfoQ981UUs4AasLjPvMWAWy4"
+        "comment": "國語: https://www.youtube.com/show/VLPLEZ4Tlr8AE7g?season=2&sbp=CgEyGgAqC1BVeXkwWjladDdJQAFKDVBTSm1WbmtYb1loQm8%253D"
       },
       {
         "site": "tmdb",
@@ -3507,12 +3510,6 @@
         "season_id": "2541",
         "begin": "2020-11-18T02:44:00.000Z",
         "broadcast": "R/2020-11-18T02:44:00.000Z/P7D"
-      },
-      {
-        "site": "unext",
-        "id": "SID0018377",
-        "begin": "2022-10-24T15:00:00.000Z",
-        "broadcast": "R/2022-10-24T15:00:00.000Z/P7D"
       },
       {
         "site": "dmhy",
@@ -4745,18 +4742,6 @@
       {
         "site": "aniList",
         "id": "21646"
-      },
-      {
-        "site": "abema",
-        "id": "415-51",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0028988",
-        "begin": "2026-04-17T15:00:00.000Z",
-        "broadcast": "R/2026-04-17T15:00:00.000Z/P7D"
       }
     ]
   },

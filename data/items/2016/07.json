@@ -744,7 +744,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfqvSr-ec0LHcSKeTJth4UjS",
+        "id": "PLZi7HsS43BmI",
+        "url": "https://www.youtube.com/show/VLPLZi7HsS43BmI?season=2&sbp=CgEyGgAqC2syT1gzOGpDZmdnQAFKDVBTR2ItSjEzVDNNSjA%253D",
         "begin": "2022-07-06T13:00:10.000Z",
         "broadcast": "R/2022-07-06T13:00:10.000Z/P7D"
       },
@@ -763,12 +764,6 @@
       {
         "site": "aniList",
         "id": "21584"
-      },
-      {
-        "site": "abema",
-        "id": "13-24ditdrg-nze",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -1203,6 +1198,12 @@
       {
         "site": "acgnx",
         "id": "DAYS"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYX040PKR",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1491,7 +1492,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjJSQURgyx2NQaDHdBpueq9",
+        "id": "PLIA137b2JUFI",
+        "url": "https://www.youtube.com/show/VLPLIA137b2JUFI?sbp=KgtCeTZXU05vcVdkc0AB",
         "begin": "2021-01-21T16:00:00.000Z",
         "broadcast": "R/2021-01-21T16:00:00.000Z/P7D"
       },
@@ -3503,13 +3505,6 @@
         "broadcast": "R/2016-07-13T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfphK-AdHifYL_BJakcUbgco",
-        "begin": "2024-09-11T13:30:07.000Z",
-        "broadcast": "R/2024-09-11T13:30:07.000Z/P7D",
-        "comment": "台語: PL12UaAf_xzfofWi_ih78tX9GZl8kgB0Yb"
-      },
-      {
         "site": "nicovideo",
         "id": "thunderboltfantasy",
         "begin": "",
@@ -3594,12 +3589,6 @@
         "site": "qq",
         "id": "q/qt5ycz4p8r1umug",
         "begin": ""
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uci_hr1cCcnsTuZNiGO2Ytkz",
-        "begin": "2022-09-13T16:00:00.000Z",
-        "broadcast": "R/2022-09-13T16:00:00.000Z/P7D"
       },
       {
         "site": "gamer",
@@ -4364,10 +4353,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfr5jAbazMPNsS9VsfKAKy89",
+        "id": "PLNJvc27EkJuc",
+        "url": "https://www.youtube.com/show/VLPLNJvc27EkJuc?sbp=KgtmRDUtUTk4WmduMEAB",
         "begin": "",
         "broadcast": "",
-        "comment": "國語: PL12UaAf_xzfrhrCtdctkC_0h_Ib_ba4Pi"
+        "comment": "國語: https://www.youtube.com/show/VLPLUH-ss3IQqSY?sbp=KgsxVXNrUFZqOEtxd0AB"
       },
       {
         "site": "prime",
@@ -5198,12 +5188,6 @@
       {
         "site": "aniList",
         "id": "21651"
-      },
-      {
-        "site": "abema",
-        "id": "746-20",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },

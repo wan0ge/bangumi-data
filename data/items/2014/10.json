@@ -136,12 +136,6 @@
         "id": "tv/65503/season/3"
       },
       {
-        "site": "abema",
-        "id": "13-210",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "像活|像传"
       },
@@ -2444,12 +2438,6 @@
         "id": "20770"
       },
       {
-        "site": "abema",
-        "id": "171-29",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "曦公"
       }
@@ -4017,6 +4005,12 @@
       {
         "site": "anidb",
         "id": "10368"
+      },
+      {
+        "site": "abema",
+        "id": "203-18",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },

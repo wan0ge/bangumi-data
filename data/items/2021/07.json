@@ -97,6 +97,18 @@
       {
         "site": "dmhy",
         "id": "三一萬能俠|蓋特|蓋塔 ARC"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "114426",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "114426",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -305,6 +317,18 @@
       {
         "site": "acgnx",
         "id": "緋紅|SCARLET 結繫|NEXUS"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "116434",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116434",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -394,7 +418,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoH5z7lnXUpGrmITnY6MCQo",
+        "id": "PLKnxxCc4vL7Y",
+        "url": "https://www.youtube.com/show/VLPLKnxxCc4vL7Y?sbp=KgtyQ0ZDTG16WGRBTUAB",
         "begin": "2023-12-22T17:23:08.000Z",
         "broadcast": "R/2023-12-22T17:23:08.000Z/P7D"
       },
@@ -777,7 +802,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://tsukimichi.com/",
+    "officialSite": "https://tsukimichi.com/1st/",
     "begin": "2021-07-07T14:00:00.000Z",
     "broadcast": "R/2021-07-07T14:00:00.000Z/P7D",
     "end": "2021-09-22T14:30:00.000Z",
@@ -1626,6 +1651,18 @@
       {
         "site": "acgnx",
         "id": "RE-MAIN"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "116190",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "116190",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -2326,7 +2363,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrCAOTroy2IhYeGg7mYc6wO",
+        "id": "PLZi7HsS43BmI",
+        "url": "https://www.youtube.com/show/VLPLZi7HsS43BmI?season=4&sbp=CgE0GgAqC2syT1gzOGpDZmdnQAFKDVBTQkJHTjVzMDFWZnc%253D",
         "begin": "2024-12-23T09:30:06.000Z",
         "broadcast": "R/2024-12-23T09:30:06.000Z/P7D"
       },
@@ -2347,12 +2385,6 @@
         "id": "114979"
       },
       {
-        "site": "abema",
-        "id": "13-151",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "Love Live Superstar"
       }
@@ -2370,7 +2402,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://seireigensouki.com/",
+    "officialSite": "https://seireigensouki.com/1st/",
     "begin": "2021-07-05T17:00:00.000Z",
     "broadcast": "R/2021-07-05T17:00:00.000Z/P7D",
     "end": "2021-09-20T17:30:00.000Z",
@@ -2601,12 +2633,6 @@
         "id": "332655"
       },
       {
-        "site": "nicovideo",
-        "id": "yubinetsu2",
-        "begin": "2021-07-04T16:00:00.000Z",
-        "broadcast": "R/2021-07-04T16:00:00.000Z/P7D"
-      },
-      {
         "site": "bangumi_moe",
         "id": "60de5d9806c78696e4d115fe"
       },
@@ -2678,12 +2704,6 @@
       {
         "site": "bangumi",
         "id": "319286"
-      },
-      {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucin4gYt5FYbWjLn6NDJ8itB",
-        "begin": "2021-07-12T17:30:00.000Z",
-        "broadcast": "R/2021-07-12T17:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
@@ -3358,7 +3378,7 @@
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://tgcf-anime.com/",
+    "officialSite": "https://tgcf-anime.com/1st.html",
     "begin": "2021-07-04T12:30:00.000Z",
     "broadcast": "R/2021-07-04T12:30:00.000Z/P7D",
     "end": "2021-09-19T13:00:00.000Z",
@@ -3497,8 +3517,8 @@
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://1000000-lives.com/",
-    "begin": "2021-07-02T15:30:00.000Z",
-    "broadcast": "R/2021-07-02T15:30:00.000Z/P7D",
+    "begin": "2021-07-09T15:30:00.000Z",
+    "broadcast": "R/2021-07-09T15:30:00.000Z/P7D",
     "end": "2021-09-24T16:00:00.000Z",
     "comment": "",
     "sites": [
@@ -3657,10 +3677,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpr5R-Q4Kshpozv9At50GFj",
-        "begin": "",
-        "broadcast": "",
-        "comment": "國語: PL12UaAf_xzfrI2ieUbpUUa5YSX-ONtpNf"
+        "id": "PLT80W9u3t3Wc",
+        "url": "https://www.youtube.com/show/VLPLT80W9u3t3Wc?season=2&sbp=CgEyGgAqC2d2OGZ3d0h3cUpRQAFKDVBTUUFZR1dSUTViT2c%253D",
+        "begin": "2021-01-12T15:30:00.000Z",
+        "broadcast": "R/2021-01-12T15:30:00.000Z/P7D",
+        "comment": "國語: https://www.youtube.com/show/VLPLHEvS5kkTLr0?season=2&sbp=CgEyGgAqC1BLWkluUlFQb29ZQAFKDVBTV2E2ajRST1QxSzQ%253D"
       },
       {
         "site": "prime",
@@ -3969,12 +3990,6 @@
         "broadcast": "R/2021-10-04T03:00:00.000Z/P7D"
       },
       {
-        "site": "muse_tw",
-        "id": "PL12UaAf_xzfpjU4WW0M43j1nvHRezMgaa",
-        "begin": "2021-10-03T19:25:09.000Z",
-        "broadcast": "R/2021-10-03T19:25:09.000Z/P7D"
-      },
-      {
         "site": "tmdb",
         "id": "tv/56559/season/9"
       },
@@ -4174,12 +4189,6 @@
       {
         "site": "tmdb",
         "id": "movie/829920"
-      },
-      {
-        "site": "abema",
-        "id": "26-214",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "danime",

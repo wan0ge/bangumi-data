@@ -257,6 +257,7 @@
         "JOJO'S BIZARRE ADVENTURE STARDUST CRUSADERS"
       ],
       "zh-Hant": [
+        "JOJO 的奇妙冒險 第二季 星塵遠征軍",
         "JOJO 的奇妙冒險 星塵遠征軍",
         "JOJO的奇妙冒險S2(星塵遠征軍)"
       ]
@@ -338,7 +339,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfoqki4lMKCWQj93SyjqN6JF",
+        "id": "PLQFHWWAdQTe4",
+        "url": "https://www.youtube.com/show/VLPLQFHWWAdQTe4?season=2&sbp=CgEyGgAqC2UyRGVuNjZxaFJRQAFKDVBTTjVNSVVXczdic3c%253D",
         "begin": "2019-10-15T13:30:09.000Z",
         "broadcast": "R/2019-10-15T13:30:09.000Z/P7D"
       },
@@ -1580,7 +1582,8 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfpbW9dg5kL4hlE3nhOEtJb_",
+        "id": "PLZi7HsS43BmI",
+        "url": "https://www.youtube.com/show/VLPLZi7HsS43BmI?sbp=KgtrMk9YMzhqQ2ZnZ0AB",
         "begin": "",
         "broadcast": ""
       },
@@ -1599,12 +1602,6 @@
       {
         "site": "aniList",
         "id": "19111"
-      },
-      {
-        "site": "abema",
-        "id": "13-8gjhfxmjumf",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -3132,12 +3129,6 @@
       {
         "site": "aniList",
         "id": "19815"
-      },
-      {
-        "site": "abema",
-        "id": "25-10wkyfrkuytx",
-        "begin": "",
-        "broadcast": ""
       },
       {
         "site": "acgnx",
@@ -4946,18 +4937,6 @@
       {
         "site": "aniList",
         "id": "20546"
-      },
-      {
-        "site": "abema",
-        "id": "415-50",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0022691",
-        "begin": "2026-03-27T15:00:00.000Z",
-        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
       }
     ]
   },

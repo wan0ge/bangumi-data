@@ -171,12 +171,6 @@
         "id": "481"
       },
       {
-        "site": "abema",
-        "id": "203-5",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "acgnx",
         "id": "遊戲王"
       },
@@ -866,18 +860,6 @@
       {
         "site": "aniList",
         "id": "1363"
-      },
-      {
-        "site": "abema",
-        "id": "415-36",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
-        "site": "unext",
-        "id": "SID0010674",
-        "begin": "2026-04-10T15:00:00.000Z",
-        "broadcast": "R/2026-04-10T15:00:00.000Z/P7D"
       }
     ]
   },

@@ -110,10 +110,11 @@
       },
       {
         "site": "muse_tw",
-        "id": "PL12UaAf_xzfrMeRvKrk2OnxkpTArc_4HN",
+        "id": "PLFlphUH5ofro",
+        "url": "https://www.youtube.com/show/VLPLFlphUH5ofro?season=4&sbp=CgE0GgAqC05TNXBuNlkyTDFzQAFKDVBTTmVFaVRCczlSRjA%253D",
         "begin": "2021-11-29T05:00:08.000Z",
         "broadcast": "R/2021-11-29T05:00:08.000Z/P7D",
-        "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
+        "comment": "國語: https://www.youtube.com/show/VLPLEvdKEeruqeA?season=4&sbp=CgE0GgAqC1BRaWE1NnVlSnZrQAFKDVBTQ1Y1SXRveTJHQ0E%253D"
       },
       {
         "site": "prime",
@@ -324,12 +325,6 @@
         "broadcast": "R/2025-12-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "abema",
-        "id": "26-140",
-        "begin": "",
-        "broadcast": ""
-      },
-      {
         "site": "mal",
         "id": "38085"
       },
@@ -533,12 +528,6 @@
       {
         "site": "aniList",
         "id": "114564"
-      },
-      {
-        "site": "abema",
-        "id": "746-24",
-        "begin": "",
-        "broadcast": ""
       }
     ]
   },
