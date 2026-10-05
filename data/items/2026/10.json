@@ -542,12 +542,14 @@
       {
         "site": "gamer",
         "id": "144986",
+        "video_sn": "51813",
         "begin": "",
         "broadcast": ""
       },
       {
         "site": "gamer_hk",
         "id": "144986",
+        "video_sn": "51813",
         "begin": "",
         "broadcast": ""
       },
@@ -1477,6 +1479,7 @@
       {
         "site": "gamer_hk",
         "id": "145035",
+        "video_sn": "51810",
         "begin": "",
         "broadcast": ""
       },
@@ -1489,6 +1492,7 @@
       {
         "site": "gamer",
         "id": "145035",
+        "video_sn": "51810",
         "begin": "",
         "broadcast": ""
       },
