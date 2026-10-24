@@ -62,7 +62,15 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/134667"
+        "id": "tv/134667/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "53913"
+      },
+      {
+        "site": "aniList",
+        "id": "159042"
       }
     ]
   },
@@ -157,6 +165,14 @@
         "id": "SID0316408",
         "begin": "2026-10-11T03:00:00.000Z",
         "broadcast": "R/2026-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "aniList",
+        "id": "213068"
+      },
+      {
+        "site": "anidb",
+        "id": "20081"
       }
     ]
   },
@@ -255,6 +271,12 @@
       {
         "site": "dmhy",
         "id": "亂世千金"
+      },
+      {
+        "site": "prime",
+        "id": "B0HK6ZPZ6Z",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -456,8 +478,8 @@
       {
         "site": "unext",
         "id": "SID0318100",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-16T03:00:00.000Z",
+        "broadcast": "R/2026-10-16T03:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -492,6 +514,18 @@
       {
         "site": "dmhy",
         "id": "暗部 少女"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLBFWoq0JqkGE",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29270",
+        "begin": "2026-10-16T03:00:00.000Z",
+        "broadcast": "R/2026-10-16T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -548,8 +582,8 @@
       {
         "site": "unext",
         "id": "SID0316385",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-12T13:00:00.000Z",
+        "broadcast": "R/2026-10-12T13:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -600,6 +634,12 @@
       {
         "site": "tmdb",
         "id": "tv/321518"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLSCSQPW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -812,6 +852,12 @@
       {
         "site": "dmhy",
         "id": "生會 洞"
+      },
+      {
+        "site": "prime",
+        "id": "B0HHZ1RXMJ",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1286,6 +1332,18 @@
       {
         "site": "tmdb",
         "id": "tv/313346"
+      },
+      {
+        "site": "mal",
+        "id": "63431"
+      },
+      {
+        "site": "aniList",
+        "id": "207329"
+      },
+      {
+        "site": "anidb",
+        "id": "19881"
       }
     ]
   },
@@ -1661,8 +1719,8 @@
       {
         "site": "unext",
         "id": "SID0316393",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-12T13:30:00.000Z",
+        "broadcast": "R/2026-10-12T13:30:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -1701,6 +1759,12 @@
       {
         "site": "mikan",
         "id": "4072"
+      },
+      {
+        "site": "danime",
+        "id": "29295",
+        "begin": "2026-10-12T13:30:00.000Z",
+        "broadcast": "R/2026-10-12T13:30:00.000Z/P7D"
       }
     ]
   },
@@ -1786,6 +1850,22 @@
       {
         "site": "tmdb",
         "id": "tv/288588"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316458",
+        "begin": "2026-10-11T14:30:00.000Z",
+        "broadcast": "R/2026-10-11T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "4073"
+      },
+      {
+        "site": "prime",
+        "id": "B0HL9TJG57",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1900,6 +1980,12 @@
       {
         "site": "dmhy",
         "id": "黑色五葉草"
+      },
+      {
+        "site": "prime",
+        "id": "B0H94M9DY7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2279,6 +2365,18 @@
       {
         "site": "tmdb",
         "id": "tv/313068"
+      },
+      {
+        "site": "mal",
+        "id": "63409"
+      },
+      {
+        "site": "aniList",
+        "id": "207191"
+      },
+      {
+        "site": "anidb",
+        "id": "19876"
       }
     ]
   },
@@ -2310,8 +2408,8 @@
       {
         "site": "unext",
         "id": "SID0316401",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-17T18:00:00.000Z",
+        "broadcast": "R/2026-10-17T18:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -2324,6 +2422,12 @@
       {
         "site": "dmhy",
         "id": "dreamland"
+      },
+      {
+        "site": "danime",
+        "id": "29217",
+        "begin": "2026-10-17T18:00:00.000Z",
+        "broadcast": "R/2026-10-17T18:00:00.000Z/P7D"
       }
     ]
   },
@@ -2420,6 +2524,10 @@
       {
         "site": "dmhy",
         "id": "來自遠方"
+      },
+      {
+        "site": "aniList",
+        "id": "209463"
       }
     ]
   },
@@ -2517,6 +2625,14 @@
       {
         "site": "dmhy",
         "id": "Keroro軍曹"
+      },
+      {
+        "site": "aniList",
+        "id": "216557"
+      },
+      {
+        "site": "anidb",
+        "id": "20085"
       }
     ]
   },
@@ -2524,7 +2640,8 @@
     "title": "DARK MACHINE THE ANIMATION",
     "titleTranslate": {
       "zh-Hant": [
-        "DARK MACHINE"
+        "DARK MACHINE",
+        "闇機 DARK MACHINE"
       ]
     },
     "type": "tv",
@@ -2582,8 +2699,8 @@
       {
         "site": "unext",
         "id": "SID0316410",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-14T03:00:00.000Z",
+        "broadcast": "R/2026-10-14T03:00:00.000Z/P7D"
       },
       {
         "site": "abema",
@@ -2598,6 +2715,30 @@
       {
         "site": "dmhy",
         "id": "DARK MACHINE"
+      },
+      {
+        "site": "danime",
+        "id": "29298",
+        "begin": "2026-10-14T03:00:00.000Z",
+        "broadcast": "R/2026-10-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLTQFWzGDEVBQ",
+        "url": "https://www.youtube.com/show/VLPLTQFWzGDEVBQ?sbp=KgsyLXJrVFBHdDN6Y0AB",
+        "begin": "2026-10-13T18:15:07.000Z",
+        "broadcast": "R/2026-10-13T18:15:07.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLfJRa647ejKU",
+        "url": "https://www.youtube.com/show/VLPLfJRa647ejKU?sbp=KgtVcVROR0VLWHJSSUAB",
+        "begin": "2026-10-13T18:15:10.000Z",
+        "broadcast": "R/2026-10-13T18:15:10.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "4082"
       }
     ]
   },
@@ -2780,6 +2921,12 @@
       {
         "site": "tmdb",
         "id": "tv/303060"
+      },
+      {
+        "site": "prime",
+        "id": "B0HHXQD3ML",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -2958,8 +3105,8 @@
       {
         "site": "unext",
         "id": "SID0316387",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-11T16:00:00.000Z",
+        "broadcast": "R/2026-10-11T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi_moe",
@@ -3115,6 +3262,12 @@
       {
         "site": "dmhy",
         "id": "超巡 超條"
+      },
+      {
+        "site": "prime",
+        "id": "B0HL63LG1B",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3329,6 +3482,12 @@
       {
         "site": "tmdb",
         "id": "tv/230050"
+      },
+      {
+        "site": "prime",
+        "id": "B0HJN1WX98",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -3576,6 +3735,12 @@
       {
         "site": "dmhy",
         "id": "冷淡 佐藤 同學"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLH39LHG",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4265,8 +4430,8 @@
       {
         "site": "unext",
         "id": "SID0316394",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-12T13:00:00.000Z",
+        "broadcast": "R/2026-10-12T13:00:00.000Z/P7D"
       },
       {
         "site": "muse_tw",
@@ -4296,7 +4461,25 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/117061"
+        "id": "tv/117061/season/2"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFPXG7GB",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "52480"
+      },
+      {
+        "site": "aniList",
+        "id": "152677"
+      },
+      {
+        "site": "anidb",
+        "id": "17527"
       }
     ]
   },
@@ -4391,6 +4574,10 @@
       {
         "site": "tmdb",
         "id": "tv/216467/season/2/episode/13"
+      },
+      {
+        "site": "mikan",
+        "id": "4101"
       }
     ]
   },
@@ -4449,6 +4636,14 @@
       {
         "site": "anibt",
         "id": "637802"
+      },
+      {
+        "site": "aniList",
+        "id": "209872"
+      },
+      {
+        "site": "anidb",
+        "id": "19972"
       }
     ]
   },
@@ -4647,6 +4842,12 @@
       {
         "site": "dmhy",
         "id": "野生 大魔王"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFZQ8MTS",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -4696,7 +4897,83 @@
       },
       {
         "site": "tmdb",
-        "id": "tv/261343"
+        "id": "tv/261343/season/1/episode/14"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLCTMDtTwWxBs",
+        "url": "https://www.youtube.com/show/VLPLCTMDtTwWxBs?sbp=Kgs0ZTNvRVJreHA0WUAB",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLFs1uZVXjAys",
+        "url": "https://www.youtube.com/show/VLPLFs1uZVXjAys?sbp=KgtwaUt6MnhmYzdLMEAB",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "675-8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28352",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00364783",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "140852",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140852",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "chiramune",
+        "begin": "2026-10-14T16:30:00.000Z",
+        "broadcast": "R/2026-10-14T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FR7N34HR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "62484"
+      },
+      {
+        "site": "anidb",
+        "id": "20240"
+      },
+      {
+        "site": "aniList",
+        "id": "198727"
+      },
+      {
+        "site": "acgnx",
+        "id": "彈珠汽水 千歲"
+      },
+      {
+        "site": "dmhy",
+        "id": "彈珠汽水 千歲"
       }
     ]
   },
@@ -4873,6 +5150,14 @@
       {
         "site": "dmhy",
         "id": "裝備我最強"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/324502"
+      },
+      {
+        "site": "aniList",
+        "id": "212888"
       }
     ]
   },
@@ -5002,6 +5287,12 @@
       {
         "site": "dmhy",
         "id": "朱色假面"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLTKJ79R",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5236,6 +5527,12 @@
       {
         "site": "tmdb",
         "id": "tv/334779"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFF4FHRF",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5445,6 +5742,12 @@
       {
         "site": "dmhy",
         "id": "黑暗召喚師 地下恋愛"
+      },
+      {
+        "site": "prime",
+        "id": "B0HKGHPM4J",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5532,6 +5835,14 @@
       {
         "site": "bangumi_moe",
         "id": "6abdf90e98d9339c5c7431bc"
+      },
+      {
+        "site": "aniList",
+        "id": "204650"
+      },
+      {
+        "site": "anidb",
+        "id": "19795"
       }
     ]
   },
@@ -5585,6 +5896,16 @@
       {
         "site": "dmhy",
         "id": "七葉樹王國 騎士"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFB5KSFV",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "20074"
       }
     ]
   },
@@ -5648,6 +5969,18 @@
       {
         "site": "tmdb",
         "id": "tv/307903"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316447",
+        "begin": "2026-10-15T03:00:00.000Z",
+        "broadcast": "R/2026-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29306",
+        "begin": "2026-10-15T03:00:00.000Z",
+        "broadcast": "R/2026-10-15T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -5844,6 +6177,18 @@
       {
         "site": "tmdb",
         "id": "tv/297903"
+      },
+      {
+        "site": "mal",
+        "id": "63098"
+      },
+      {
+        "site": "anidb",
+        "id": "19765"
+      },
+      {
+        "site": "aniList",
+        "id": "204011"
       }
     ]
   },
@@ -5914,6 +6259,10 @@
         "id": "316-1",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "4125"
       }
     ]
   },
@@ -5973,6 +6322,12 @@
       {
         "site": "tmdb",
         "id": "tv/335788"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLBS28H8",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6033,6 +6388,12 @@
         "id": "29297",
         "begin": "2026-10-10T11:00:00.000Z",
         "broadcast": "R/2026-10-10T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0HLWMCMP2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -6148,6 +6509,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "龙珠超 比鲁斯"
+      ],
+      "zh-Hant": [
+        "龍珠超 比路斯",
+        "七龍珠超：比魯斯"
+      ],
+      "en": [
+        "Dragon Ball Super: Beerus"
       ]
     },
     "type": "tv",
@@ -6169,8 +6537,8 @@
       {
         "site": "unext",
         "id": "SID0316457",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2026-10-11T15:15:00.000Z",
+        "broadcast": "R/2026-10-11T15:15:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -6193,6 +6561,34 @@
       {
         "site": "tmdb",
         "id": "tv/312359"
+      },
+      {
+        "site": "danime",
+        "id": "29250",
+        "begin": "2026-10-14T15:15:00.000Z",
+        "broadcast": "R/2026-10-14T15:15:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0HFWL43KY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "83189604",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "viu",
+        "id": "3393622",
+        "begin": "2026-10-12T02:00:58.000Z",
+        "broadcast": "R/2026-10-12T02:00:58.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "4126"
       }
     ]
   },
@@ -6431,12 +6827,26 @@
       {
         "site": "tmdb",
         "id": "tv/315682"
+      },
+      {
+        "site": "anibt",
+        "id": "635258"
       }
     ]
   },
   {
     "title": "ゆうさんち！from 遊ハち",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢迎光临游之家！from Yu-hachi"
+      ],
+      "zh-Hant": [
+        "歡迎光臨遊之家！from Yu-hachi"
+      ],
+      "en": [
+        "YU-SANCHi! from YU-HACHi"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://yusanchi-anime.jp/",
@@ -6472,6 +6882,160 @@
       {
         "site": "tmdb",
         "id": "tv/337456"
+      },
+      {
+        "site": "anibt",
+        "id": "688204"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLKyZ6fov_WwQ",
+        "url": "https://www.youtube.com/show/VLPLKyZ6fov_WwQ?sbp=Kgt0bXNEVS1hQktpY0AB",
+        "begin": "2026-10-16T07:00:10.000Z",
+        "broadcast": "R/2026-10-16T07:00:10.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLUcAFx2-fZRs",
+        "url": "https://www.youtube.com/show/VLPLUcAFx2-fZRs?sbp=KgthZkE3M1R5NjZhY0AB",
+        "begin": "2026-10-16T07:00:07.000Z",
+        "broadcast": "R/2026-10-16T07:00:07.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "無脳魔女 ブレインレス・ウィッチ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无脑魔女"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.bs4.jp/brainless-witch/",
+    "begin": "2026-10-15T16:00:00.000Z",
+    "broadcast": "R/2026-10-15T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358769"
+      },
+      {
+        "site": "danime",
+        "id": "29294",
+        "begin": "2026-10-15T16:30:00.000Z",
+        "broadcast": "R/2026-10-15T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0316456",
+        "begin": "2026-10-20T16:30:00.000Z",
+        "broadcast": "R/2026-10-20T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-130",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "Duel Masters LOST ～断罪の少年～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师 LOST ～断罪的少年～"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.shopro.co.jp/anime/duelmasters_lost/",
+    "begin": "2026-10-09T12:00:00.000Z",
+    "broadcast": "R/2026-10-09T12:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "632061"
+      },
+      {
+        "site": "danime",
+        "id": "29210",
+        "begin": "2026-10-13T03:00:00.000Z",
+        "broadcast": "R/2026-10-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0318458",
+        "begin": "2026-10-13T03:00:00.000Z",
+        "broadcast": "R/2026-10-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-223",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "632061"
+      }
+    ]
+  },
+  {
+    "title": "Cyberpunk: Edgerunners 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赛博朋克：边缘行者 2"
+      ],
+      "zh-Hant": [
+        "電馭叛客：邊緣行者 2"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.cyberpunk.net/ja/edgerunners2",
+    "begin": "2026-10-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-10-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "513878"
+      },
+      {
+        "site": "mikan",
+        "id": "4120"
+      },
+      {
+        "site": "anibt",
+        "id": "513878"
+      },
+      {
+        "site": "netflix",
+        "id": "81054853",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "61990"
+      },
+      {
+        "site": "anidb",
+        "id": "19445"
+      },
+      {
+        "site": "aniList",
+        "id": "195539"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/105248/season/2"
       }
     ]
   }
