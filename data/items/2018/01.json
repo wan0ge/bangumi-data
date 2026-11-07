@@ -4962,6 +4962,12 @@
       {
         "site": "aniList",
         "id": "100784"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYQ4MKDZ6",
+        "begin": "2009-01-03T07:59:00.000Z",
+        "broadcast": "R/2009-01-03T07:59:00.000Z/P7D"
       }
     ]
   }

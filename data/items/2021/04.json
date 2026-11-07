@@ -1463,6 +1463,12 @@
       {
         "site": "aniList",
         "id": "124858"
+      },
+      {
+        "site": "abema",
+        "id": "13-224",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -5170,6 +5176,12 @@
       {
         "site": "dmhy",
         "id": "義呆利|塔利"
+      },
+      {
+        "site": "prime",
+        "id": "B0HHYBS189",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
