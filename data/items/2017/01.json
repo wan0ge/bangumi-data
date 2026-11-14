@@ -542,6 +542,12 @@
       {
         "site": "acgnx",
         "id": "Yowamushi New"
+      },
+      {
+        "site": "prime",
+        "id": "B0F4L6D7NY",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -584,7 +590,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjBrlCcD2AFans0YqvZCF0f",
+        "id": "PLcnSvmvQ-Ujo",
+        "url": "https://www.youtube.com/show/VLPLcnSvmvQ-Ujo?season=2&sbp=CgEyGgBAAUoNUFNGTDZpSWliTnB4OA%253D%253D",
         "begin": "2020-12-27T16:00:00.000Z",
         "broadcast": "R/2020-12-27T16:00:00.000Z/P7D"
       },
@@ -2325,6 +2332,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "银魂."
+      ],
+      "zh-Hant": [
+        "銀魂."
+      ],
+      "en": [
+        "Gintama Period"
       ]
     },
     "type": "tv",
@@ -2370,7 +2383,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jh4rDe7fFRpu8UnFCMR1Vpn",
+        "id": "PLb8bhrLPtZdc",
+        "url": "https://www.youtube.com/show/VLPLb8bhrLPtZdc?season=8&sbp=CgE4GgBAAUoNUFNXZ21HS0U3NDZrZw%253D%253D",
         "begin": "2025-04-01T04:23:22.000Z",
         "broadcast": "R/2025-04-01T04:23:22.000Z/P7D"
       },
@@ -3182,7 +3196,8 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JhyjmWrOjshiPzt2wIkDJ2t",
+        "id": "PLK4ZfagmZTjQ",
+        "url": "https://www.youtube.com/show/VLPLK4ZfagmZTjQ?season=2&sbp=CgEyGgBAAUoNUFNJQTJiVTZnQzJwWQ%253D%253D",
         "begin": "2019-11-07T16:00:00.000Z",
         "broadcast": "R/2019-11-07T16:00:00.000Z/P7D"
       },
